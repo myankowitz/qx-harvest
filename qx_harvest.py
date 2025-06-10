@@ -15,6 +15,8 @@ from typing import List, Dict, Optional
 import httpx
 from bs4 import BeautifulSoup
 
+import urllib.parse
+
 QX_URL   = "https://www.quantumx.washington.edu/people/?profile_type=qx-faculty"
 OUT_MD   = pathlib.Path("digest.md")
 OUT_BIB  = pathlib.Path("digest.bib")
@@ -49,7 +51,8 @@ def fetch_faculty() -> List[str]:
 # ─────────────────────────────────────────────────────────────────────────────
 def openalex_id(name: str) -> Optional[str]:
     """Resolve a human name to an OpenAlex author ID (best guess)."""
-    url = f"https://api.openalex.org/authors?search={httpx.utils.quote(name)}&per_page=5"
+    encoded = urllib.parse.quote_plus(name)
+    url = f"https://api.openalex.org/authors?search={encoded}&per_page=5"
     try:
         results = httpx.get(url, headers=HEADERS, timeout=30).json()["results"]
     except Exception:
