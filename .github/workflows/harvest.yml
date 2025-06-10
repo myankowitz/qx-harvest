@@ -1,16 +1,21 @@
 name: QuantumX papers
 
+permissions:
+  contents: write   # allow the workflow to push commits
+
 on:
   schedule:
-    - cron: '0 13 * * MON'    # every Monday 06:00 Seattle time
-  workflow_dispatch: {}        # allows manual “Run workflow”
+    - cron: '0 13 * * MON'     # every Monday
+  workflow_dispatch: {}        # manual runs
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: {fetch-depth: 0}
+        with:
+          fetch-depth: 0
+          persist-credentials: true   # leave the token in .git for pushing
       - uses: actions/setup-python@v5
         with: {python-version: '3.x'}
       - run: pip install -r requirements.txt
