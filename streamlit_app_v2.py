@@ -26,16 +26,25 @@ HEADERS = {"User-Agent": "qx-harvest/streamlit-v2"}
 # ─────────────────────────── helper utilities ─────────────────────────────
 
 def scrape_faculty() -> List[str]:
-    """Robustly scrape all faculty names from the Quantum X directory page."""
+    """Scrape faculty names from Quantum X directory using multiple fallbacks."""
     html = httpx.get(QX_URL, headers=HEADERS, timeout=30).text
     soup = bs4.BeautifulSoup(html, "html.parser")
 
-    # Names live in <h4><a>…</a></h4>
+    # 1) <h4><a> pattern (old layout)
     names = [a.get_text(strip=True) for a in soup.select("h4 a[href]")]
-    # De‑duplicate while preserving order
+
+    # 2) cards: <h3 class="person-title">Name</h3>
+    if not names:
+        names = [h.get_text(strip=True) for h in soup.select("h3.person-title")]
+
+    # 3) anything with class *name* inside figure cards
+    if not names:
+        names = [e.get_text(strip=True) for e in soup.select(".card .name, .people-card-name")]
+
+    # final clean‑up
     seen, out = set(), []
     for n in names:
-        if n and n not in seen:
+        if n and not n.lower().startswith("quantumx") and n not in seen:
             seen.add(n); out.append(n)
     return out
 
