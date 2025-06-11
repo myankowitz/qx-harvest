@@ -2,26 +2,27 @@ import streamlit as st
 import pandas as pd
 from qx_harvest import collect_papers, bibtex_entry
 
-# ---------- Page config & title -------------------------------------------
+# ── NEW: page config + instant UI feedback ───────────────────────────────
 st.set_page_config(page_title="Quantum X Paper Harvester", layout="wide")
-st.title("Quantum X Paper Harvester")
+st.title("Quantum X Paper Harvester")
 
-st.markdown(
-    "Choose a look‑back window, click **Fetch papers**, and a fresh list will "
-    "appear below. You can then download the results as Markdown or BibTeX."
-)
+# This line makes sure users see content immediately,
+# even before they press the button.
+st.info("Adjust the slider, then click **Fetch papers**")
+# ─────────────────────────────────────────────────────────────────────────
 
 # ---------- Controls -------------------------------------------------------
 DAYS_DEFAULT = 90
 
 days = st.slider(
-    "Look‑back window (days)",
+    "Look-back window (days)",
     min_value=7,
     max_value=365,
     value=DAYS_DEFAULT,
     step=7,
     help="How far back to search for new papers."
 )
+
 
 # ---------- Action button --------------------------------------------------
 if st.button("Fetch papers"):
