@@ -154,13 +154,8 @@ with col_ax:
 
 # Display results
 if "papers" in st.session_state:
-    sorted_papers = sorted(
-        st.session_state["papers"],
-        key=lambda p: p.get("publication_date", ""),
-        reverse=True,
-    )
     st.markdown("
-".join(_citation(p) for p in sorted_papers)) for p in sorted_papers))
+".join(_citation(p) for p in st.session_state["papers"]))
     st.markdown("**Researchers included:** " + ", ".join(FACULTY))
 else:
     st.info("Select a window, press a button, and the list will appear here.")
