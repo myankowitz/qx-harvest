@@ -48,13 +48,21 @@ def format_citation(p: Dict) -> str:
     year = p.get("publication_year") or p.get("publication_date", "????")[:4]
     journal = p.get("source", "arXiv") or "arXiv"
 
+    # strip generic arXiv label if we have a real venue
+    if journal.lower().startswith("arxiv") and p.get("doi"):
+        journal = ""
+
     pages = ""
     if (b := p.get("biblio")) and (f := b.get("first_page")) and (l := b.get("last_page")):
         pages = f" {f}-{l}"
 
+    # build URL sensibly
     url = ""
-    if p.get("doi"):
-        url = f"https://doi.org/{p['doi']}"
+    if (doi := p.get("doi")):
+        if doi.startswith("http"):
+            url = doi
+        else:
+            url = f"https://doi.org/{doi}"
     elif p.get("id", "").startswith("arXiv:"):
         url = f"https://arxiv.org/abs/{p['id'].split(':')[1]}"
 
@@ -67,7 +75,7 @@ def format_citation(p: Dict) -> str:
 # ─────────────────────────── data collectors ─────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
-    """Fetch works via OpenAlex and attach a readable journal/source name."""
+    """Fetch works via OpenAlex and attach a clean journal/source name."""
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     out: Dict[str, Dict] = {}
     for name in fetch_faculty():
@@ -75,11 +83,17 @@ def collect_openalex(days_back: int) -> List[Dict]:
         if not oa_id:
             continue
         for w in works_openalex(oa_id, since_iso):
-            # Derive a displayable source name if OpenAlex hasn't flattened it
-            src = (
-                (w.get("primary_location", {}) or {}).get("source", {}) or {}
+            # 1️⃣ pick the best available venue label
+            src_primary = (
+                (
+                    w.get("primary_location", {})
+                    or {}
+                ).get("source", {})
+                or {}
             ).get("display_name", "")
-            cleaned = {**w, "source": src or w.get("source", "") or ""}
+            src_host = (w.get("host_venue", {}) or {}).get("display_name", "")
+            src = src_primary or src_host or ""
+            cleaned = {**w, "source": src}
             out.setdefault(cleaned.get("doi") or cleaned["id"], cleaned)
     return list(out.values())
 
