@@ -26,26 +26,34 @@ HEADERS = {"User-Agent": "qx-harvest/streamlit-v2"}
 # ─────────────────────────── helper utilities ─────────────────────────────
 
 def scrape_faculty() -> List[str]:
-    """Scrape Quantum X faculty names and drop non‑person entries."""
+    """Scrape Quantum X faculty names robustly.
+
+    1. Grab any <a> with href containing "/people/" whose text looks like a
+       person name (2‑4 capitalised words).
+    2. If none found (page changed or JS‑rendered), fall back to card/title
+       selectors used in older layouts.
+    """
+    import re
+
     html = httpx.get(QX_URL, headers=HEADERS, timeout=30).text
     soup = bs4.BeautifulSoup(html, "html.parser")
 
-    raw: List[str] = []
-    # modern cards
-    raw += [e.get_text(strip=True) for e in soup.select("h3.person-title, .people-card-name")]
-    # legacy <h4><a>
-    raw += [a.get_text(strip=True) for a in soup.select("h4 a[href]")]
+    # regex: 2–4 words, each starting with capital letter
+    name_re = re.compile(r"^(?:[A-Z][A-Za-z\-']+ ){1,3}[A-Z][A-Za-z\-']+$")
 
-    # validation regex: 2‑4 words, each starts with capital, letters or hyphen
-    import re
-    name_re = re.compile(r"^(?:[A-Z][A-Za-z\-]+ ){1,3}[A-Z][A-Za-z\-]+$")
-    names = [n for n in raw if name_re.match(n)]
+    anchors = [a.get_text(strip=True) for a in soup.find_all("a", href=True) if "/people/" in a["href"]]
+    names = [n for n in anchors if name_re.match(n)]
 
-    # dedupe, preserve order
+    if not names:
+        fallback_sel = "h3.person-title, .people-card-name, h4 a[href]"
+        names = [e.get_text(strip=True) for e in soup.select(fallback_sel)]
+        names = [n for n in names if name_re.match(n)]
+
     seen, uniq = set(), []
     for n in names:
         if n not in seen:
-            seen.add(n); uniq.append(n)
+            seen.add(n)
+            uniq.append(n)
     return uniq
 
 
