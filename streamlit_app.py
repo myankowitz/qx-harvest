@@ -3,29 +3,47 @@ from typing import List, Dict
 import datetime as _dt
 
 from qx_harvest import (
-    fetch_faculty,
     works_openalex,
     works_arxiv,
     openalex_meta,
 )
 
+# ─────────────────────────── configuration ───────────────────────────────
+# Provide a **hard‑coded roster** to avoid fragile web‑scraping.
+# Edit this list whenever Quantum X adds or removes faculty.
+FACULTY: List[str] = [
+    "Andrea Coladangelo", "Anton Andreev", "Arka Majumdar", "Arthur Barnard",
+    "Boris Blinov", "Brandi Cossairt", "Charles Marcus", "Chinmay Nirkhe",
+    "Daniel R. Gamelin", "David Cobden", "David Ginger", "David Hertzog",
+    "David Masiello", "Di Xiao", "James Lee", "Jerry Li",
+    "Jiun‑Haw Chu", "Juan Carlos Idrobo", "Kai‑Mei Fu",
+    "Karl Böhringer", "Lukasz Fidkowski", "Mark Rudner", "Martin Savage",
+    "Matthew Yankowitz", "Max Parsons", "Mo Chen", "Mo Li", "Paul Beame",
+    "Peter Pauzauskie", "Sara Mouradian", "Scott Dunham", "Serena Eley",
+    "Silas Beane", "Stefan Stoll", "Subhadeep Gupta", "Ting Cao", "Xiaodong Xu", "Xiaosong Li"
+]
+
+# Sort once for nicer display
+FACULTY.sort()
+
 # ─────────────────────────── page setup ───────────────────────────────────
-st.set_page_config(page_title="Quantum X Paper Harvester", layout="wide")
-st.title("Quantum X – On‑demand Paper Lists (no caching)")
+st.set_page_config(page_title="Quantum X Paper Harvester v2", layout="wide")
+st.title("Quantum X – On‑demand Paper Lists (v2, hard‑coded roster)")
 
 st.markdown(
-    "Choose a look‑back window for **either** source and click its button. "
-    "The sliders stay at the top; the resulting list appears below."
+    "This version uses a fixed roster for reliability. Pick a look‑back window "
+    "for either source and click its button. Paper list appears below, followed "
+    "by the roster of included researchers."
 )
 
-# ─────────────────────────── helper functions ─────────────────────────────
+# ─────────────────────────── helper utilities ─────────────────────────────
 
 def unique_titles(papers: List[Dict]) -> List[Dict]:
-    seen = set(); out = []
+    seen, out = set(), []
     for p in papers:
-        t = p.get("display_name", "").lower()
-        if t and t not in seen:
-            seen.add(t); out.append(p)
+        key = p.get("display_name", "").lower()
+        if key and key not in seen:
+            seen.add(key); out.append(p)
     return out
 
 
@@ -62,7 +80,7 @@ def format_citation(p: Dict) -> str:
 def collect_openalex(days_back: int) -> List[Dict]:
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     out: Dict[str, Dict] = {}
-    for name in fetch_faculty():
+    for name in FACULTY:
         oa_id, _ = openalex_meta(name)
         if not oa_id:
             continue
@@ -78,36 +96,41 @@ def collect_openalex(days_back: int) -> List[Dict]:
 def collect_arxiv(days_back: int) -> List[Dict]:
     since_date = _dt.date.today() - _dt.timedelta(days=days_back)
     out: Dict[str, Dict] = {}
-    for name in fetch_faculty():
+    for name in FACULTY:
         for w in works_arxiv(name, since_date):
             out.setdefault(w["id"], w)
     return list(out.values())
 
 
 def build_markdown(papers: List[Dict]) -> str:
-    papers = unique_titles(papers)
-    papers.sort(key=lambda x: x["publication_date"], reverse=True)
     if not papers:
         return "No papers found."
+    papers = unique_titles(papers)
+    papers.sort(key=lambda x: x["publication_date"], reverse=True)
     return "\n".join(f"- {format_citation(p)}" for p in papers)
 
-# ─────────────────────────── UI layout ────────────────────────────────────
+# ─────────────────────────── main UI ──────────────────────────────────────
 col_oa, col_ax = st.columns(2)
 
 with col_oa:
     days_oa = st.slider("OpenAlex look‑back (days)", 7, 365, 90, 7, key="oa")
     if st.button("Fetch from OpenAlex", key="btn_oa"):
         with st.spinner("Querying OpenAlex …"):
-            st.session_state["results_md"] = build_markdown(collect_openalex(days_oa))
+            papers_md = build_markdown(collect_openalex(days_oa))
+        st.session_state["papers_md"] = papers_md
+        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(FACULTY)
 
 with col_ax:
     days_ax = st.slider("arXiv look‑back (days)", 7, 365, 90, 7, key="ax")
     if st.button("Fetch from arXiv", key="btn_ax"):
         with st.spinner("Querying arXiv …"):
-            st.session_state["results_md"] = build_markdown(collect_arxiv(days_ax))
+            papers_md = build_markdown(collect_arxiv(days_ax))
+        st.session_state["papers_md"] = papers_md
+        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(FACULTY)
 
-# results area below sliders
-st.markdown(st.session_state.get("results_md", ""))
+# Display area below controls
+st.markdown(st.session_state.get("papers_md", ""))
+st.markdown(st.session_state.get("roster_md", ""))
 
-if "results_md" not in st.session_state:
+if "papers_md" not in st.session_state:
     st.info("Select a window and press one of the buttons above to generate a list.")
