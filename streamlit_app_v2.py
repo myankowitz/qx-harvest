@@ -26,46 +26,27 @@ HEADERS = {"User-Agent": "qx-harvest/streamlit-v2"}
 # ─────────────────────────── helper utilities ─────────────────────────────
 
 def scrape_faculty() -> List[str]:
-    """Return a robust list of faculty names from the Quantum X directory.
-
-    The public site has changed HTML layouts over time.  We therefore try a
-    series of increasingly loose selectors until we collect > 0 names.
-    """
+    """Scrape Quantum X faculty names and drop non‑person entries."""
     html = httpx.get(QX_URL, headers=HEADERS, timeout=30).text
     soup = bs4.BeautifulSoup(html, "html.parser")
 
-    # helper to deduplicate while preserving order
-    def _dedupe(seq: List[str]) -> List[str]:
-        seen, out = set(), []
-        for s in seq:
-            if s and s not in seen:
-                seen.add(s); out.append(s)
-        return out
+    raw: List[str] = []
+    # modern cards
+    raw += [e.get_text(strip=True) for e in soup.select("h3.person-title, .people-card-name")]
+    # legacy <h4><a>
+    raw += [a.get_text(strip=True) for a in soup.select("h4 a[href]")]
 
-    selectors = [
-        "h4 a[href]",                 # legacy card layout
-        "h3.person-title",            # current WP People plugin
-        ".people-card-name",          # alternate card grid
-        "figure.person figcaption", # older <figure> layout (space is newline)
-    ]
+    # validation regex: 2‑4 words, each starts with capital, letters or hyphen
+    import re
+    name_re = re.compile(r"^(?:[A-Z][A-Za-z\-]+ ){1,3}[A-Z][A-Za-z\-]+$")
+    names = [n for n in raw if name_re.match(n)]
 
-    names: List[str] = []
-    for sel in selectors:
-        names = [e.get_text(strip=True) for e in soup.select(sel)]
-        names = [n for n in names if len(n.split()) >= 2]  # simple sanity check
-        if names:
-            break
-
-    # as a last‑ditch fallback, grab any anchor tags inside the main content that
-    # look like names (two�words, capitalised)
-    if not names:
-        for a in soup.find_all("a"):
-            txt = a.get_text(strip=True)
-            if txt.count(" ") >= 1 and txt[0].isupper():
-                names.append(txt)
-        names = names[:50]  # keep list reasonable
-
-    return _dedupe(names)
+    # dedupe, preserve order
+    seen, uniq = set(), []
+    for n in names:
+        if n not in seen:
+            seen.add(n); uniq.append(n)
+    return uniq
 
 
 def unique_titles(papers: List[Dict]) -> List[Dict]:
