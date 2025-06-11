@@ -21,6 +21,26 @@ FACULTY: List[str] = [
 FACULTY.sort()
 
 # ─────────────────────────── Utilities ────────────────────────────────────
+
+OPENALEX_SEARCH = "https://api.openalex.org/authors?per_page=10&search="
+
+resolve_cache: Dict[str, str | None] = {}
+
+def resolve_uw_author(full_name: str) -> str | None:
+    """Return OpenAlex author ID for *full_name* **only** if primary affiliation is UW."""
+    if full_name in resolve_cache:
+        return resolve_cache[full_name]
+    try:
+        data = httpx.get(OPENALEX_SEARCH + httpx.utils.quote(full_name), headers=HEADERS, timeout=15).json()
+        for rec in data.get("results", []):
+            inst = (rec.get("last_known_institution") or {}).get("display_name", "").lower()
+            if "university of washington" in inst:
+                resolve_cache[full_name] = rec["id"].rsplit("/", 1)[-1]
+                return resolve_cache[full_name]
+    except Exception:
+        pass
+    resolve_cache[full_name] = None
+    return None
 _aff_cache: Dict[str, bool] = {}
 
 def _has_uw_affiliation(author_id: str) -> bool:
@@ -55,19 +75,12 @@ def _unique_titles(papers: List[Dict]) -> List[Dict]:
 # ─────────────────────────── Collectors ───────────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
-    """Collect works for each faculty member via their unique OpenAlex ID.
-
-    We trust that querying `/works?filter=author.id:<ID>` already limits results
-    to the correct person, so we no longer require a UW affiliation check. We
-    still verify the faculty name appears in the author list to catch rare
-    OpenAlex mistakes.
-    """
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     gathered: Dict[str, Dict] = {}
     for faculty in FACULTY:
-        oa_id, _ = openalex_meta(faculty)
+        oa_id = resolve_uw_author(faculty)
         if not oa_id:
-            continue
+            continue  # skip if no UW‑affiliated match
         for w in works_openalex(oa_id, since_iso):
             if not _author_in_list(w, faculty):
                 continue
