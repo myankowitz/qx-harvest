@@ -84,13 +84,21 @@ def format_citation(p: Dict) -> str:
 # cache for affiliation checks during a single run
 _aff_cache: Dict[str, bool] = {}
 
+def _matches_author(work: Dict, faculty_name: str) -> bool:
+    """True if *faculty_name* appears verbatim in authorship list."""
+    fac_lower = faculty_name.lower()
+    if "authorships" in work:  # OpenAlex structure
+        names = [a["author"]["display_name"].lower() for a in work["authorships"]]
+    else:  # arXiv structure
+        names = [n.lower() for n in work.get("authors", [])]
+    return fac_lower in names
+
+
 def _has_uw_affiliation(author_id: str) -> bool:
-    """Return True if OpenAlex author.record lists University of Washington."""
     if author_id in _aff_cache:
         return _aff_cache[author_id]
-    url = f"https://api.openalex.org/authors/{author_id}"
     try:
-        data = httpx.get(url, headers=HEADERS, timeout=20).json()
+        data = httpx.get(f"https://api.openalex.org/authors/{author_id}", headers=HEADERS, timeout=20).json()
         inst = (data.get("last_known_institution") or {}).get("display_name", "")
         ok = "university of washington" in inst.lower()
     except Exception:
@@ -100,19 +108,31 @@ def _has_uw_affiliation(author_id: str) -> bool:
 
 
 def collect_openalex(days_back: int) -> List[Dict]:
-    """Collect papers but only from authors whose last institution is UW."""
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     out: Dict[str, Dict] = {}
-    for name in FACULTY:
-        oa_id, _ = openalex_meta(name)
+    for faculty in FACULTY:
+        oa_id, _ = openalex_meta(faculty)
         if not oa_id or not _has_uw_affiliation(oa_id):
-            continue  # skip homonyms not at UW
+            continue
         for w in works_openalex(oa_id, since_iso):
+            if not _matches_author(w, faculty):
+                continue  # sanity check against same‑name homonyms
             src_primary = ((w.get("primary_location", {}) or {}).get("source", {}) or {}).get("display_name", "")
             src_host = (w.get("host_venue", {}) or {}).get("display_name", "")
             src = src_primary or src_host or ""
             cleaned = {**w, "source": src}
             out.setdefault(cleaned.get("doi") or cleaned["id"], cleaned)
+    return list(out.values())
+
+
+def collect_arxiv(days_back: int) -> List[Dict]:
+    since_date = _dt.date.today() - _dt.timedelta(days=days_back)
+    out: Dict[str, Dict] = {}
+    for faculty in FACULTY:
+        for w in works_arxiv(faculty, since_date):
+            if not _matches_author(w, faculty):
+                continue
+            out.setdefault(w["id"], w)
     return list(out.values())
 
 
