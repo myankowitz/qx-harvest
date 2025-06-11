@@ -160,7 +160,7 @@ if "papers" in st.session_state:
         reverse=True,
     )
     st.markdown("
-".join(_citation(p) for p in sorted_papers))
+".join(_citation(p) for p in sorted_papers)) for p in sorted_papers))
     st.markdown("**Researchers included:** " + ", ".join(FACULTY))
 else:
     st.info("Select a window, press a button, and the list will appear here.")
