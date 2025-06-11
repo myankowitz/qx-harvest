@@ -154,8 +154,7 @@ with col_ax:
 
 # Display results
 if "papers" in st.session_state:
-    st.markdown("
-".join(_citation(p) for p in st.session_state["papers"]))
+    st.markdown("\n".join(_citation(p) for p in st.session_state["papers"])).join(_citation(p) for p in st.session_state["papers"]))
     st.markdown("**Researchers included:** " + ", ".join(FACULTY))
 else:
     st.info("Select a window, press a button, and the list will appear here.")
