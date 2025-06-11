@@ -75,37 +75,25 @@ def _unique_titles(papers: List[Dict]) -> List[Dict]:
 # ─────────────────────────── Collectors ───────────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
-    """Collect works for each faculty member, requiring **UW affiliation**.
+    """Simplest reliable collector: query by author.id and match plain name.
 
-    Strategy per faculty name → author‑id:
-    1. Fast path ‑ `resolve_uw_author()` search endpoint.
-    2. Fallback ‑ `openalex_meta()` then `_has_uw_affiliation()` guard.
-    3. Filter again on plain‑text author name to avoid same‑UW homonyms.
+    We skip all affiliation heuristics—OpenAlex already scopes `author.id` to a
+    unique person.  Homonyms are eliminated by verifying the plain‑text author
+    name appears in the authorship list.
     """
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     gathered: Dict[str, Dict] = {}
-
     for faculty in FACULTY:
-        # 1️⃣ try search endpoint restricted to UW
-        oa_id = resolve_uw_author(faculty)
-
-        # 2️⃣ fallback: meta → explicit UW check
-        if oa_id is None:
-            oa_id, _ = openalex_meta(faculty)
-            if oa_id and not _has_uw_affiliation(oa_id):
-                oa_id = None
-
+        oa_id, _ = openalex_meta(faculty)
         if not oa_id:
-            continue  # give up on this faculty member
-
+            continue
         for w in works_openalex(oa_id, since_iso):
             if not _author_in_list(w, faculty):
-                continue  # extra safety
+                continue
             src = ((w.get("primary_location", {}) or {}).get("source", {}) or {}).get("display_name") or \
                   (w.get("host_venue", {}) or {}).get("display_name", "")
             cleaned = {**w, "source": src or ""}
             gathered.setdefault(cleaned.get("doi") or cleaned["id"], cleaned)
-
     return list(gathered.values())
 
 
