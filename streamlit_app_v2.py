@@ -46,8 +46,7 @@ def scrape_faculty() -> List[str]:
         "h4 a[href]",                 # legacy card layout
         "h3.person-title",            # current WP People plugin
         ".people-card-name",          # alternate card grid
-        "figure.person
- figcaption", # older <figure> layout (space is newline)
+        "figure.person figcaption", # older <figure> layout (space is newline)
     ]
 
     names: List[str] = []
