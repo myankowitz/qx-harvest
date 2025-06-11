@@ -67,6 +67,7 @@ def format_citation(p: Dict) -> str:
 # ─────────────────────────── data collectors ─────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
+    """Fetch works via OpenAlex and attach a readable journal/source name."""
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     out: Dict[str, Dict] = {}
     for name in fetch_faculty():
@@ -74,7 +75,12 @@ def collect_openalex(days_back: int) -> List[Dict]:
         if not oa_id:
             continue
         for w in works_openalex(oa_id, since_iso):
-            out.setdefault(w.get("doi") or w["id"], w)
+            # Derive a displayable source name if OpenAlex hasn't flattened it
+            src = (
+                (w.get("primary_location", {}) or {}).get("source", {}) or {}
+            ).get("display_name", "")
+            cleaned = {**w, "source": src or w.get("source", "") or ""}
+            out.setdefault(cleaned.get("doi") or cleaned["id"], cleaned)
     return list(out.values())
 
 
