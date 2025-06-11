@@ -1,9 +1,9 @@
 import streamlit as st
 from typing import List, Dict
 import datetime as _dt
+import httpx, bs4
 
 from qx_harvest import (
-    fetch_faculty,
     works_openalex,
     works_arxiv,
     openalex_meta,
@@ -11,18 +11,37 @@ from qx_harvest import (
 
 # ─────────────────────────── page setup ───────────────────────────────────
 st.set_page_config(page_title="Quantum X Paper Harvester v2", layout="wide")
-st.title("Quantum X – On‑demand Paper Lists (v2)")
+st.title("Quantum X – On-demand Paper Lists (v2)")
 
 st.markdown(
     "Choose a look‑back window for **either** source and click its button. "
-    "The sliders stay at the top; the resulting paper list appears below, "
-    "followed by the roster of Quantum X researchers included in the search."
+    "The sliders stay at the top; the paper list appears below, followed by "
+    "the roster of Quantum X researchers actually included in the search."
 )
+
+# ─────────────────────────── constants ─────────────────────────────────────
+QX_URL = "https://www.quantumx.washington.edu/people/?profile_type=qx-faculty"
+HEADERS = {"User-Agent": "qx-harvest/streamlit-v2"}
 
 # ─────────────────────────── helper utilities ─────────────────────────────
 
+def scrape_faculty() -> List[str]:
+    """Robustly scrape all faculty names from the Quantum X directory page."""
+    html = httpx.get(QX_URL, headers=HEADERS, timeout=30).text
+    soup = bs4.BeautifulSoup(html, "html.parser")
+
+    # Names live in <h4><a>…</a></h4>
+    names = [a.get_text(strip=True) for a in soup.select("h4 a[href]")]
+    # De‑duplicate while preserving order
+    seen, out = set(), []
+    for n in names:
+        if n and n not in seen:
+            seen.add(n); out.append(n)
+    return out
+
+
 def unique_titles(papers: List[Dict]) -> List[Dict]:
-    seen = set(); out = []
+    seen, out = set(), []
     for p in papers:
         key = p.get("display_name", "").lower()
         if key and key not in seen:
@@ -57,7 +76,6 @@ def format_citation(p: Dict) -> str:
 
     cite = f"{authors}. *{title}*. {journal}{pages} ({year})."
     return f"{cite} [[link]]({url})" if url else cite
-
 
 # ─────────────────────────── data collectors ─────────────────────────────
 
@@ -94,7 +112,7 @@ def build_markdown(papers: List[Dict]) -> str:
     return "\n".join(f"- {format_citation(p)}" for p in papers)
 
 # ─────────────────────────── main UI ──────────────────────────────────────
-faculty_roster = fetch_faculty()  # single scrape per run
+roster = scrape_faculty()
 
 col_oa, col_ax = st.columns(2)
 
@@ -102,21 +120,21 @@ with col_oa:
     days_oa = st.slider("OpenAlex look‑back (days)", 7, 365, 90, 7, key="oa")
     if st.button("Fetch from OpenAlex", key="btn_oa"):
         with st.spinner("Querying OpenAlex …"):
-            papers_md = build_markdown(collect_openalex(days_oa, faculty_roster))
-        st.session_state["results_md"] = papers_md
-        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(faculty_roster)
+            papers_md = build_markdown(collect_openalex(days_oa, roster))
+        st.session_state["papers_md"] = papers_md
+        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(roster)
 
 with col_ax:
     days_ax = st.slider("arXiv look‑back (days)", 7, 365, 90, 7, key="ax")
     if st.button("Fetch from arXiv", key="btn_ax"):
         with st.spinner("Querying arXiv …"):
-            papers_md = build_markdown(collect_arxiv(days_ax, faculty_roster))
-        st.session_state["results_md"] = papers_md
-        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(faculty_roster)
+            papers_md = build_markdown(collect_arxiv(days_ax, roster))
+        st.session_state["papers_md"] = papers_md
+        st.session_state["roster_md"] = "**Researchers included:** " + ", ".join(roster)
 
-# display area
-st.markdown(st.session_state.get("results_md", ""))
+# Display area below controls
+st.markdown(st.session_state.get("papers_md", ""))
 st.markdown(st.session_state.get("roster_md", ""))
 
-if "results_md" not in st.session_state:
+if "papers_md" not in st.session_state:
     st.info("Select a window and press one of the buttons above to generate a list.")
