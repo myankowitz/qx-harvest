@@ -164,4 +164,3 @@ if "papers" in st.session_state:
     st.markdown("**Researchers included:** " + ", ".join(FACULTY))
 else:
     st.info("Select a window, press a button, and the list will appear here.")
-    st.info("Select a window, press a button, and the list will appear here.")
