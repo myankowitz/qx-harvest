@@ -297,3 +297,26 @@ if __name__ == "__main__":
     ap.add_argument("--days", type=int, default=90, help="Look‑back window in days (default: 90)")
     args = ap.parse_args()
     main(args.days)
+
+def collect_papers(days_back: int = 90) -> list[dict]:
+    """Return the list of unique paper dicts (same objects the CLI writes)."""
+    since_date = _dt.date.today() - _dt.timedelta(days=days_back)
+    since_iso  = since_date.isoformat()
+
+    roster = fetch_faculty()
+    papers: dict[str, dict] = {}
+
+    for name in roster:
+        oa_id, orcid = openalex_meta(name)
+        if oa_id:
+            for w in works_openalex(oa_id, since_iso):
+                papers.setdefault(w.get("doi") or w["id"],
+                                   {**w, "source":
+                                          (w["primary_location"]["source"] or {}).get("display_name", "")})
+        if orcid:
+            for w in works_crossref(orcid, since_date):
+                papers.setdefault(w.get("doi") or w["id"], w)
+        for w in works_arxiv(name, since_date):
+            papers.setdefault(w["id"], w)
+
+    return list(papers.values())
