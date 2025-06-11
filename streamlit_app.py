@@ -55,17 +55,22 @@ def _unique_titles(papers: List[Dict]) -> List[Dict]:
 # ─────────────────────────── Collectors ───────────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
-    """Collect works where *the exact OpenAlex author‑id* matches a UW faculty."""
+    """Collect works where faculty name appears and author has UW affiliation.
+
+    This is the *less strict* version: we rely on the UW affiliation check and a
+    plain‐text name match, but we do **not** require the exact OpenAlex author
+    ID inside the authorship list.  That recovers legitimate papers where the
+    record lacks author IDs or the faculty member appears via a consortium.
+    """
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     gathered: Dict[str, Dict] = {}
     for faculty in FACULTY:
         oa_id, _ = openalex_meta(faculty)
         if not oa_id or not _has_uw_affiliation(oa_id):
-            continue
+            continue  # homonym at non‑UW institution
         for w in works_openalex(oa_id, since_iso):
-            # keep only if the author list contains this exact author id
-            if not any(a["author"]["id"].rsplit("/", 1)[-1] == oa_id for a in w.get("authorships", [])):
-                continue  # skip homonyms with identical names
+            if not _author_in_list(w, faculty):
+                continue  # same‑name different person within UW
             src = ((w.get("primary_location", {}) or {}).get("source", {}) or {}).get("display_name") or \
                   (w.get("host_venue", {}) or {}).get("display_name", "")
             cleaned = {**w, "source": src or ""}
