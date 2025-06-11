@@ -2,6 +2,8 @@ import streamlit as st
 from typing import List, Dict
 import datetime as _dt
 
+import httpx
+
 from qx_harvest import (
     works_openalex,
     works_arxiv,
@@ -9,6 +11,8 @@ from qx_harvest import (
 )
 
 # ─────────────────────────── configuration ───────────────────────────────
+HEADERS = {"User-Agent": "QuantumX-harvester/0.2"}
+
 # Provide a **hard‑coded roster** to avoid fragile web‑scraping.
 # Edit this list whenever Quantum X adds or removes faculty.
 FACULTY: List[str] = [
@@ -77,13 +81,32 @@ def format_citation(p: Dict) -> str:
 
 # ─────────────────────────── data collectors ─────────────────────────────
 
+# cache for affiliation checks during a single run
+_aff_cache: Dict[str, bool] = {}
+
+def _has_uw_affiliation(author_id: str) -> bool:
+    """Return True if OpenAlex author.record lists University of Washington."""
+    if author_id in _aff_cache:
+        return _aff_cache[author_id]
+    url = f"https://api.openalex.org/authors/{author_id}"
+    try:
+        data = httpx.get(url, headers=HEADERS, timeout=20).json()
+        inst = (data.get("last_known_institution") or {}).get("display_name", "")
+        ok = "university of washington" in inst.lower()
+    except Exception:
+        ok = False
+    _aff_cache[author_id] = ok
+    return ok
+
+
 def collect_openalex(days_back: int) -> List[Dict]:
+    """Collect papers but only from authors whose last institution is UW."""
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     out: Dict[str, Dict] = {}
     for name in FACULTY:
         oa_id, _ = openalex_meta(name)
-        if not oa_id:
-            continue
+        if not oa_id or not _has_uw_affiliation(oa_id):
+            continue  # skip homonyms not at UW
         for w in works_openalex(oa_id, since_iso):
             src_primary = ((w.get("primary_location", {}) or {}).get("source", {}) or {}).get("display_name", "")
             src_host = (w.get("host_venue", {}) or {}).get("display_name", "")
