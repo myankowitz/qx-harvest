@@ -55,6 +55,7 @@ def _unique_titles(papers: List[Dict]) -> List[Dict]:
 # ─────────────────────────── Collectors ───────────────────────────────────
 
 def collect_openalex(days_back: int) -> List[Dict]:
+    """Collect works where *the exact OpenAlex author‑id* matches a UW faculty."""
     since_iso = (_dt.date.today() - _dt.timedelta(days=days_back)).isoformat()
     gathered: Dict[str, Dict] = {}
     for faculty in FACULTY:
@@ -62,8 +63,9 @@ def collect_openalex(days_back: int) -> List[Dict]:
         if not oa_id or not _has_uw_affiliation(oa_id):
             continue
         for w in works_openalex(oa_id, since_iso):
-            if not _author_in_list(w, faculty):
-                continue
+            # keep only if the author list contains this exact author id
+            if not any(a["author"]["id"].rsplit("/", 1)[-1] == oa_id for a in w.get("authorships", [])):
+                continue  # skip homonyms with identical names
             src = ((w.get("primary_location", {}) or {}).get("source", {}) or {}).get("display_name") or \
                   (w.get("host_venue", {}) or {}).get("display_name", "")
             cleaned = {**w, "source": src or ""}
