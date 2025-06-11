@@ -26,27 +26,47 @@ HEADERS = {"User-Agent": "qx-harvest/streamlit-v2"}
 # ─────────────────────────── helper utilities ─────────────────────────────
 
 def scrape_faculty() -> List[str]:
-    """Scrape faculty names from Quantum X directory using multiple fallbacks."""
+    """Return a robust list of faculty names from the Quantum X directory.
+
+    The public site has changed HTML layouts over time.  We therefore try a
+    series of increasingly loose selectors until we collect > 0 names.
+    """
     html = httpx.get(QX_URL, headers=HEADERS, timeout=30).text
     soup = bs4.BeautifulSoup(html, "html.parser")
 
-    # 1) <h4><a> pattern (old layout)
-    names = [a.get_text(strip=True) for a in soup.select("h4 a[href]")]
+    # helper to deduplicate while preserving order
+    def _dedupe(seq: List[str]) -> List[str]:
+        seen, out = set(), []
+        for s in seq:
+            if s and s not in seen:
+                seen.add(s); out.append(s)
+        return out
 
-    # 2) cards: <h3 class="person-title">Name</h3>
+    selectors = [
+        "h4 a[href]",                 # legacy card layout
+        "h3.person-title",            # current WP People plugin
+        ".people-card-name",          # alternate card grid
+        "figure.person
+ figcaption", # older <figure> layout (space is newline)
+    ]
+
+    names: List[str] = []
+    for sel in selectors:
+        names = [e.get_text(strip=True) for e in soup.select(sel)]
+        names = [n for n in names if len(n.split()) >= 2]  # simple sanity check
+        if names:
+            break
+
+    # as a last‑ditch fallback, grab any anchor tags inside the main content that
+    # look like names (two�words, capitalised)
     if not names:
-        names = [h.get_text(strip=True) for h in soup.select("h3.person-title")]
+        for a in soup.find_all("a"):
+            txt = a.get_text(strip=True)
+            if txt.count(" ") >= 1 and txt[0].isupper():
+                names.append(txt)
+        names = names[:50]  # keep list reasonable
 
-    # 3) anything with class *name* inside figure cards
-    if not names:
-        names = [e.get_text(strip=True) for e in soup.select(".card .name, .people-card-name")]
-
-    # final clean‑up
-    seen, out = set(), []
-    for n in names:
-        if n and not n.lower().startswith("quantumx") and n not in seen:
-            seen.add(n); out.append(n)
-    return out
+    return _dedupe(names)
 
 
 def unique_titles(papers: List[Dict]) -> List[Dict]:
