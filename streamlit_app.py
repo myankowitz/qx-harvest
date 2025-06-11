@@ -156,6 +156,4 @@ with col_ax:
 if "papers" in st.session_state:
     markdown_text = "\n".join(_citation(p) for p in st.session_state["papers"])
     st.markdown(markdown_text)
-    st.markdown("**Researchers included:** " + ", ".join(FACULTY)) included:** " + ", ".join(FACULTY))
-else:
-    st.info("Select a window, press a button, and the list will appear here.")
+    st.markdown("**Researchers included:** " + ", ".join(FACULTY))
