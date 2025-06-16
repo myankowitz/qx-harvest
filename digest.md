@@ -1,5 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-06-10*
+*generated 2025-06-16*
+
+- **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
+  Journal of the American Chemical Society (2025-06-13)  
+  https://doi.org/10.1021/jacs.5c06949
+
+- **Van der Waals waveguide quantum electrodynamics probed by infrared   nano-photoluminescence**  
+  arXiv (2025-06-12)  
+  https://arxiv.org/abs/2506.10295v1
+
+- **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
+  Crossref (2025-06-11)  
+  https://doi.org/10.26434/chemrxiv-2025-d55c6
+
+- **Relativistic Core-Valence-Separated Molecular Mean-Field   Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications   to L-edge X-ray Absorption Spectroscopy**  
+  arXiv (2025-06-10)  
+  https://arxiv.org/abs/2506.09008v1
 
 - **Electrically reconfigurable nonvolatile flatband absorbers in the   mid-infrared with wide spectral tuning range**  
   arXiv (2025-06-08)  
@@ -51,7 +67,7 @@
 
 - **Adaptive Federated LoRA in Heterogeneous Wireless Networks with   Independent Sampling**  
   arXiv (2025-05-29)  
-  https://arxiv.org/abs/2505.23555v1
+  https://arxiv.org/abs/2505.23555v2
 
 - **Meta-optical encoders for high-resolution computer vision**  
    (2025-05-28)  
@@ -292,27 +308,3 @@
 - **QuGStep: Refining Step Size Selection in Gradient Estimation for   Variational Quantum Algorithms**  
   arXiv (2025-03-18)  
   https://arxiv.org/abs/2503.14366v1
-
-- **Exciton dressing by extreme nonlinear magnons in a layered semiconductor**  
-  Nature Nanotechnology (2025-03-17)  
-  https://doi.org/https://doi.org/10.1038/s41565-025-01890-8
-
-- **Exciton dressing by extreme nonlinear magnons in a layered semiconductor**  
-  Nature Nanotechnology (2025-03-17)  
-  https://doi.org/10.1038/s41565-025-01890-8
-
-- **Engineering robust strain transmission in van der Waals heterostructure   devices**  
-  arXiv (2025-03-17)  
-  https://arxiv.org/abs/2503.12773v1
-
-- **Observation of High-Temperature Dissipationless Fractional Chern   Insulator**  
-  arXiv (2025-03-14)  
-  https://arxiv.org/abs/2503.10989v1
-
-- **Observation of Photonic Chiral Flatbands**  
-  Physical Review Letters (2025-03-13)  
-  https://doi.org/https://doi.org/10.1103/physrevlett.134.103801
-
-- **Observation of Photonic Chiral Flatbands**  
-  Physical Review Letters (2025-03-13)  
-  https://doi.org/10.1103/physrevlett.134.103801
