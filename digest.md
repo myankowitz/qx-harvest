@@ -1,5 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-06-16*
+*generated 2025-06-23*
+
+- **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
+  Photochem (2025-06-19)  
+  https://doi.org/10.3390/photochem5020016
+
+- **Full color visible imaging with crystalline silicon meta-optics**  
+  Light: Science &amp; Applications (2025-06-18)  
+  https://doi.org/10.1038/s41377-025-01888-w
+
+- **Observing the Birth of Rydberg Exciton Fermi Polarons on a Moire Fermi   Sea**  
+  arXiv (2025-06-16)  
+  https://arxiv.org/abs/2506.13683v1
+
+- **EAQuant: Enhancing Post-Training Quantization for MoE Models via   Expert-Aware Optimization**  
+  arXiv (2025-06-16)  
+  https://arxiv.org/abs/2506.13329v1
 
 - **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
   Journal of the American Chemical Society (2025-06-13)  
@@ -15,7 +31,7 @@
 
 - **Relativistic Core-Valence-Separated Molecular Mean-Field   Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications   to L-edge X-ray Absorption Spectroscopy**  
   arXiv (2025-06-10)  
-  https://arxiv.org/abs/2506.09008v1
+  https://arxiv.org/abs/2506.09008v2
 
 - **Electrically reconfigurable nonvolatile flatband absorbers in the   mid-infrared with wide spectral tuning range**  
   arXiv (2025-06-08)  
@@ -129,13 +145,13 @@
   Nature Physics (2025-05-01)  
   https://doi.org/https://doi.org/10.1038/s41567-025-02877-x
 
-- **Vecsel-pumped Kerr-lens mode-locked Yb3+-doped femtosecond laser**  
-  Optics & Laser Technology (2025-05-01)  
-  https://doi.org/https://doi.org/10.1016/j.optlastec.2025.113071
-
 - **Exploring the potential of bimetallic AuxPt1-x nanoparticles in pristine- and rGO-Modified In2O3 heterostructures for ppb-Level NO2 sensing**  
   Applied Surface Science (2025-05-01)  
   https://doi.org/https://doi.org/10.1016/j.apsusc.2025.163523
+
+- **Vecsel-pumped Kerr-lens mode-locked Yb3+-doped femtosecond laser**  
+  Optics & Laser Technology (2025-05-01)  
+  https://doi.org/https://doi.org/10.1016/j.optlastec.2025.113071
 
 - **Microscopic signatures of topology in twisted MoTe2**  
   Nature Physics (2025-05-01)  
@@ -259,52 +275,4 @@
 
 - **Near-visible low power tuning of nematic-liquid crystal integrated   silicon nitride ring resonator**  
   arXiv (2025-03-26)  
-  https://arxiv.org/abs/2503.21012v1
-
-- **Meta-optical encoders for high-resolution, real-time computer vision**  
-   (2025-03-21)  
-  https://doi.org/https://doi.org/10.1117/12.3035013
-
-- **Ultranarrow-linewidth wavelength-vortex metasurface holography**  
-  Science Advances (2025-03-21)  
-  https://doi.org/https://doi.org/10.1126/sciadv.adt9159
-
-- **Ultranarrow-linewidth wavelength-vortex metasurface holography**  
-  Science Advances (2025-03-21)  
-  https://doi.org/10.1126/sciadv.adt9159
-
-- **Ferromagnetism and topology of the higher flat band in a fractional Chern insulator**  
-  Nature Physics (2025-03-20)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-02804-0
-
-- **Ferromagnetism and topology of the higher flat band in a fractional Chern insulator**  
-  Nature Physics (2025-03-20)  
-  https://doi.org/10.1038/s41567-025-02804-0
-
-- **Inverse-designed large field-of-view polychromatic metalens for tri-color scanning fiber endoscopy**  
-  Communications Engineering (2025-03-19)  
-  https://doi.org/https://doi.org/10.1038/s44172-025-00377-7
-
-- **Metasurface aberration correctors for improving broadband refractive lens system performance in the long-wave infrared**  
-   (2025-03-19)  
-  https://doi.org/https://doi.org/10.1117/12.3040406
-
-- **Utilizing statistical-spectral correlations of random metasurfaces for multiwavelength cryptography**  
-   (2025-03-19)  
-  https://doi.org/https://doi.org/10.1117/12.3040914
-
-- **Disordered metasurfaces for unidirectional and synergistic imaging in the mid-infrared**  
-   (2025-03-19)  
-  https://doi.org/https://doi.org/10.1117/12.3040853
-
-- **Full-color imaging using large-aperture meta-optics**  
-   (2025-03-19)  
-  https://doi.org/https://doi.org/10.1117/12.3049555
-
-- **Inverse-designed large field-of-view polychromatic metalens for tri-color scanning fiber endoscopy**  
-  Communications Engineering (2025-03-19)  
-  https://doi.org/10.1038/s44172-025-00377-7
-
-- **QuGStep: Refining Step Size Selection in Gradient Estimation for   Variational Quantum Algorithms**  
-  arXiv (2025-03-18)  
-  https://arxiv.org/abs/2503.14366v1
+  https://arxiv.org/abs/2503.21012v2
