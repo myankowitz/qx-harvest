@@ -1,9 +1,45 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-06-23*
+*generated 2025-06-30*
+
+- **Compact broadband thermal absorbers based on plasmonic fractal   metasurfaces**  
+  arXiv (2025-06-26)  
+  https://arxiv.org/abs/2506.20905v1
+
+- **Unraveling Ground-State Electron Transfer in Photoredox n-Doping of Conjugated Polymers through Real-Time Quantum Dynamics**  
+  Journal of the American Chemical Society (2025-06-26)  
+  https://doi.org/https://doi.org/10.1021/jacs.5c07990
+
+- **Unraveling Ground-State Electron Transfer in Photoredox n-Doping of Conjugated Polymers through Real-Time Quantum Dynamics**  
+  Journal of the American Chemical Society (2025-06-26)  
+  https://doi.org/10.1021/jacs.5c07990
+
+- **All-Dielectric Metasurface with a Two-Dimensional Locally Flat Photonic   Band**  
+  arXiv (2025-06-25)  
+  https://arxiv.org/abs/2506.20871v1
+
+- **NEO-PGA: Nonvolatile electro-optically programmable gate array**  
+  arXiv (2025-06-23)  
+  https://arxiv.org/abs/2506.18592v1
+
+- **Towards Group Fairness with Multiple Sensitive Attributes in Federated   Foundation Models**  
+  arXiv (2025-06-23)  
+  https://arxiv.org/abs/2506.18732v1
+
+- **Simulation of Vibronic Strong Coupling and Cavity-Modified Hydrogen   Tunneling Dynamics**  
+  arXiv (2025-06-23)  
+  https://arxiv.org/abs/2506.18647v1
+
+- **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
+  Photochem (2025-06-19)  
+  https://doi.org/https://doi.org/10.3390/photochem5020016
 
 - **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
   Photochem (2025-06-19)  
   https://doi.org/10.3390/photochem5020016
+
+- **Full color visible imaging with crystalline silicon meta-optics**  
+  Light Science & Applications (2025-06-18)  
+  https://doi.org/https://doi.org/10.1038/s41377-025-01888-w
 
 - **Full color visible imaging with crystalline silicon meta-optics**  
   Light: Science &amp; Applications (2025-06-18)  
@@ -19,11 +55,19 @@
 
 - **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
   Journal of the American Chemical Society (2025-06-13)  
+  https://doi.org/https://doi.org/10.1021/jacs.5c06949
+
+- **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
+  Journal of the American Chemical Society (2025-06-13)  
   https://doi.org/10.1021/jacs.5c06949
 
 - **Van der Waals waveguide quantum electrodynamics probed by infrared   nano-photoluminescence**  
   arXiv (2025-06-12)  
   https://arxiv.org/abs/2506.10295v1
+
+- **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
+   (2025-06-11)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-d55c6
 
 - **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
   Crossref (2025-06-11)  
@@ -36,6 +80,10 @@
 - **Electrically reconfigurable nonvolatile flatband absorbers in the   mid-infrared with wide spectral tuning range**  
   arXiv (2025-06-08)  
   https://arxiv.org/abs/2506.07258v1
+
+- **Air-stable n-type dopant for organic semiconductors via a single-photon catalytic process**  
+  Science Advances (2025-06-06)  
+  https://doi.org/https://doi.org/10.1126/sciadv.adu8215
 
 - **Air-stable n-type dopant for organic semiconductors via a single-photon catalytic process**  
   Science Advances (2025-06-06)  
@@ -56,6 +104,10 @@
 - **Measurements of a LYSO crystal array from threshold to 100 MeV**  
   Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment (2025-06-01)  
   https://doi.org/10.1016/j.nima.2025.170320
+
+- **Characterization of multilayer films using ultrafast photoacoustic technology and artificial intelligence**  
+  Ultrasonics (2025-06-01)  
+  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107741
 
 - **Computational imaging with meta-optics**  
   Optica (2025-05-30)  
@@ -252,27 +304,3 @@
 - **Broadband long-range thermal imaging via meta-correctors**  
   Applied Optics (2025-04-01)  
   https://doi.org/https://doi.org/10.1364/ao.553334
-
-- **Beating spectral bandwidth limits for large aperture broadband nano-optics**  
-  Nature Communications (2025-03-28)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-58208-4
-
-- **Beating spectral bandwidth limits for large aperture broadband nano-optics**  
-  Nature Communications (2025-03-28)  
-  https://doi.org/10.1038/s41467-025-58208-4
-
-- **Narrow Blue Emission from Cadmium Phosphide Clusters Enhanced through Phosphinate Ligation**  
-   (2025-03-28)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-mbtr1
-
-- **Narrow Blue Emission from Cadmium Phosphide Clusters Enhanced through Phosphinate Ligation**  
-  Crossref (2025-03-28)  
-  https://doi.org/10.26434/chemrxiv-2025-mbtr1
-
-- **Optical control of orbital magnetism in magic angle twisted bilayer   graphene**  
-  arXiv (2025-03-27)  
-  https://arxiv.org/abs/2503.21750v1
-
-- **Near-visible low power tuning of nematic-liquid crystal integrated   silicon nitride ring resonator**  
-  arXiv (2025-03-26)  
-  https://arxiv.org/abs/2503.21012v2
