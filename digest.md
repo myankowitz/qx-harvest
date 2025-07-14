@@ -1,5 +1,53 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-06-30*
+*generated 2025-07-14*
+
+- **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
+  ACS Photonics (2025-07-10)  
+  https://doi.org/https://doi.org/10.1021/acsphotonics.5c00715
+
+- **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
+  ACS Photonics (2025-07-10)  
+  https://doi.org/10.1021/acsphotonics.5c00715
+
+- **Purcell enhancement of photogalvanic currents in a van der Waals   plasmonic self-cavity**  
+  arXiv (2025-07-10)  
+  https://arxiv.org/abs/2507.07987v1
+
+- **Revealing Parallel Inter‐ and Intra‐ligand Charge Transfer Dynamics in [Ru(L)2(dppz)]2+ Molecular Lightswitch with N K‐edge X‐ray Absorption Spectroscopy**  
+  Angewandte Chemie International Edition (2025-07-10)  
+  https://doi.org/https://doi.org/10.1002/anie.202509496
+
+- **Revealing Parallel Inter‐ and Intra‐ligand Charge Transfer Dynamics in [Ru(L)2(dppz)]2+ Molecular Lightswitch with N K‐edge X‐ray Absorption Spectroscopy**  
+  Angewandte Chemie (2025-07-10)  
+  https://doi.org/https://doi.org/10.1002/ange.202509496
+
+- **Characterizing Ultrafast Intersystem Crossing Pathways in Molecular Pt Dimers Using Time-Resolved Wide-Angle X-ray Scattering**  
+  The Journal of Physical Chemistry Letters (2025-07-03)  
+  https://doi.org/https://doi.org/10.1021/acs.jpclett.5c01245
+
+- **Characterizing Ultrafast Intersystem Crossing Pathways in Molecular Pt Dimers Using Time-Resolved Wide-Angle X-ray Scattering**  
+  The Journal of Physical Chemistry Letters (2025-07-03)  
+  https://doi.org/10.1021/acs.jpclett.5c01245
+
+- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
+  Applied Optics (2025-07-01)  
+  https://doi.org/https://doi.org/10.1364/ao.563383
+
+- **Transferable polychromatic optical encoder for neural networks**  
+  Nature Communications (2025-07-01)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
+
+- **Transferable polychromatic optical encoder for neural networks**  
+  Nature Communications (2025-07-01)  
+  https://doi.org/10.1038/s41467-025-61338-4
+
+- **Dual‐Amide Engineered Blue Phase Liquid Crystal Elastomers: Synergistic Fatigue Resistance, Programmable Mechanochromics and Spatiotemporally Encrypted Photonics**  
+  Advanced Materials (2025-07-01)  
+  https://doi.org/https://doi.org/10.1002/adma.202506129
+
+- **MPC in the Quantum Head (or: Superposition-Secure (Quantum)   Zero-Knowledge)**  
+  arXiv (2025-06-28)  
+  https://arxiv.org/abs/2506.22961v1
 
 - **Compact broadband thermal absorbers based on plasmonic fractal   metasurfaces**  
   arXiv (2025-06-26)  
@@ -51,7 +99,7 @@
 
 - **EAQuant: Enhancing Post-Training Quantization for MoE Models via   Expert-Aware Optimization**  
   arXiv (2025-06-16)  
-  https://arxiv.org/abs/2506.13329v1
+  https://arxiv.org/abs/2506.13329v2
 
 - **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
   Journal of the American Chemical Society (2025-06-13)  
@@ -252,55 +300,3 @@
 - **Accuracy Guarantees and Quantum Advantage in Analog Open Quantum Simulation with and without Noise**  
   Physical Review X (2025-04-16)  
   https://doi.org/10.1103/physrevx.15.021017
-
-- **Opportunities and Challenges of Solid-State Quantum Nonlinear Optics**  
-  ACS Nano (2025-04-10)  
-  https://doi.org/https://doi.org/10.1021/acsnano.4c14992
-
-- **Opportunities and Challenges of Solid-State Quantum Nonlinear Optics**  
-  ACS Nano (2025-04-10)  
-  https://doi.org/10.1021/acsnano.4c14992
-
-- **Photochemical Au(I)–Au(I) Bond Formation: A Battle between Intersystem Crossing and Internal Conversion**  
-  The Journal of Physical Chemistry Letters (2025-04-08)  
-  https://doi.org/https://doi.org/10.1021/acs.jpclett.5c00310
-
-- **Energy conservation in real-time nuclear–electronic orbital Ehrenfest dynamics**  
-  The Journal of Chemical Physics (2025-04-08)  
-  https://doi.org/https://doi.org/10.1063/5.0255984
-
-- **Energy conservation in real-time nuclear–electronic orbital Ehrenfest dynamics**  
-  The Journal of Chemical Physics (2025-04-08)  
-  https://doi.org/10.1063/5.0255984
-
-- **Photochemical Au(I)–Au(I) Bond Formation: A Battle between Intersystem Crossing and Internal Conversion**  
-  The Journal of Physical Chemistry Letters (2025-04-08)  
-  https://doi.org/10.1021/acs.jpclett.5c00310
-
-- **Nanocavity-Enhanced Second-Harmonic Generation from Colossal Quantum Dots**  
-  ACS Photonics (2025-04-07)  
-  https://doi.org/https://doi.org/10.1021/acsphotonics.5c00472
-
-- **Nanocavity-Enhanced Second-Harmonic Generation from Colossal Quantum Dots**  
-  ACS Photonics (2025-04-07)  
-  https://doi.org/10.1021/acsphotonics.5c00472
-
-- **Roadmap for Photonics with 2D Materials**  
-  arXiv (2025-04-06)  
-  https://arxiv.org/abs/2504.04558v3
-
-- **Free Space Few-Photon Nonlinearity in Critically Coupled Polaritonic   Metasurfaces**  
-  arXiv (2025-04-04)  
-  https://arxiv.org/abs/2504.03924v1
-
-- **Hidden states and dynamics of fractional fillings in twisted MoTe2 bilayers**  
-  Nature (2025-04-03)  
-  https://doi.org/https://doi.org/10.1038/s41586-025-08954-8
-
-- **Chirality-Driven Magnetization Emerges from Relativistic Four-Current   Dynamics**  
-  arXiv (2025-04-03)  
-  https://arxiv.org/abs/2504.03781v1
-
-- **Broadband long-range thermal imaging via meta-correctors**  
-  Applied Optics (2025-04-01)  
-  https://doi.org/https://doi.org/10.1364/ao.553334
