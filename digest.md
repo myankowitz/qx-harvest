@@ -1,5 +1,9 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-07-14*
+*generated 2025-07-21*
+
+- **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
+  Advanced Optical Materials (2025-07-20)  
+  https://doi.org/10.1002/adom.202501375
 
 - **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
   ACS Photonics (2025-07-10)  
@@ -183,7 +187,7 @@
 
 - **Adaptive Federated LoRA in Heterogeneous Wireless Networks with   Independent Sampling**  
   arXiv (2025-05-29)  
-  https://arxiv.org/abs/2505.23555v2
+  https://arxiv.org/abs/2505.23555v3
 
 - **Meta-optical encoders for high-resolution computer vision**  
    (2025-05-28)  
@@ -241,10 +245,6 @@
   The Journal of Physical Chemistry Letters (2025-05-04)  
   https://doi.org/https://doi.org/10.1021/acs.jpclett.5c00546
 
-- **Microscopic signatures of topology in twisted MoTe2**  
-  Nature Physics (2025-05-01)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-02877-x
-
 - **Exploring the potential of bimetallic AuxPt1-x nanoparticles in pristine- and rGO-Modified In2O3 heterostructures for ppb-Level NO2 sensing**  
   Applied Surface Science (2025-05-01)  
   https://doi.org/https://doi.org/10.1016/j.apsusc.2025.163523
@@ -252,6 +252,10 @@
 - **Vecsel-pumped Kerr-lens mode-locked Yb3+-doped femtosecond laser**  
   Optics & Laser Technology (2025-05-01)  
   https://doi.org/https://doi.org/10.1016/j.optlastec.2025.113071
+
+- **Microscopic signatures of topology in twisted MoTe2**  
+  Nature Physics (2025-05-01)  
+  https://doi.org/https://doi.org/10.1038/s41567-025-02877-x
 
 - **Microscopic signatures of topology in twisted MoTe2**  
   Nature Physics (2025-05-01)  
@@ -280,23 +284,3 @@
 - **Generative AI for Physical-Layer Authentication**  
   arXiv (2025-04-25)  
   https://arxiv.org/abs/2504.18175v1
-
-- **Broadband long-range thermal imaging via meta-correctors**  
-  Applied Optics (2025-04-21)  
-  https://doi.org/10.1364/ao.553334
-
-- **Simulating Magnetic Field-Driven Real-Time Quantum Dynamics Using London Nuclear–Electronic Orbital Approach**  
-  Journal of Chemical Theory and Computation (2025-04-18)  
-  https://doi.org/https://doi.org/10.1021/acs.jctc.5c00273
-
-- **Simulating Magnetic Field-Driven Real-Time Quantum Dynamics Using London Nuclear–Electronic Orbital Approach**  
-  Journal of Chemical Theory and Computation (2025-04-18)  
-  https://doi.org/10.1021/acs.jctc.5c00273
-
-- **Accuracy Guarantees and Quantum Advantage in Analog Open Quantum Simulation with and without Noise**  
-  Physical Review X (2025-04-16)  
-  https://doi.org/https://doi.org/10.1103/physrevx.15.021017
-
-- **Accuracy Guarantees and Quantum Advantage in Analog Open Quantum Simulation with and without Noise**  
-  Physical Review X (2025-04-16)  
-  https://doi.org/10.1103/physrevx.15.021017
