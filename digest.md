@@ -1,5 +1,41 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-07-21*
+*generated 2025-07-28*
+
+- **Collaborative On-Sensor Array Cameras**  
+  ACM Transactions on Graphics (2025-07-26)  
+  https://doi.org/https://doi.org/10.1145/3731200
+
+- **Collaborative On-Sensor Array Cameras**  
+  ACM Transactions on Graphics (2025-07-26)  
+  https://doi.org/10.1145/3731200
+
+- **Roadmap for Photonics with 2D Materials**  
+  ACS Photonics (2025-07-24)  
+  https://doi.org/10.1021/acsphotonics.5c00353
+
+- **Expanding Parameter Space to Enable Low Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
+   (2025-07-23)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-23m9h
+
+- **Expanding Parameter Space to Enable Low Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
+  Crossref (2025-07-23)  
+  https://doi.org/10.26434/chemrxiv-2025-23m9h
+
+- **Generative Diffusion Models for Wireless Networks: Fundamental,   Architecture, and State-of-the-Art**  
+  arXiv (2025-07-22)  
+  https://arxiv.org/abs/2507.16733v1
+
+- **Interleaved resistive micro-heater for switching phase-change materials integrated in silicon photonics**  
+  Applied Optics (2025-07-21)  
+  https://doi.org/10.1364/ao.563383
+
+- **Publisher Correction: Van der Waals waveguide quantum electrodynamics probed by infrared nano-photoluminescence**  
+  Nature Photonics (2025-07-21)  
+  https://doi.org/https://doi.org/10.1038/s41566-025-01743-9
+
+- **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
+  Advanced Optical Materials (2025-07-20)  
+  https://doi.org/https://doi.org/10.1002/adom.202501375
 
 - **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
   Advanced Optical Materials (2025-07-20)  
@@ -33,13 +69,13 @@
   The Journal of Physical Chemistry Letters (2025-07-03)  
   https://doi.org/10.1021/acs.jpclett.5c01245
 
-- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
-  Applied Optics (2025-07-01)  
-  https://doi.org/https://doi.org/10.1364/ao.563383
-
 - **Transferable polychromatic optical encoder for neural networks**  
   Nature Communications (2025-07-01)  
   https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
+
+- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
+  Applied Optics (2025-07-01)  
+  https://doi.org/https://doi.org/10.1364/ao.563383
 
 - **Transferable polychromatic optical encoder for neural networks**  
   Nature Communications (2025-07-01)  
@@ -245,10 +281,6 @@
   The Journal of Physical Chemistry Letters (2025-05-04)  
   https://doi.org/https://doi.org/10.1021/acs.jpclett.5c00546
 
-- **Exploring the potential of bimetallic AuxPt1-x nanoparticles in pristine- and rGO-Modified In2O3 heterostructures for ppb-Level NO2 sensing**  
-  Applied Surface Science (2025-05-01)  
-  https://doi.org/https://doi.org/10.1016/j.apsusc.2025.163523
-
 - **Vecsel-pumped Kerr-lens mode-locked Yb3+-doped femtosecond laser**  
   Optics & Laser Technology (2025-05-01)  
   https://doi.org/https://doi.org/10.1016/j.optlastec.2025.113071
@@ -256,6 +288,10 @@
 - **Microscopic signatures of topology in twisted MoTe2**  
   Nature Physics (2025-05-01)  
   https://doi.org/https://doi.org/10.1038/s41567-025-02877-x
+
+- **Exploring the potential of bimetallic AuxPt1-x nanoparticles in pristine- and rGO-Modified In2O3 heterostructures for ppb-Level NO2 sensing**  
+  Applied Surface Science (2025-05-01)  
+  https://doi.org/https://doi.org/10.1016/j.apsusc.2025.163523
 
 - **Microscopic signatures of topology in twisted MoTe2**  
   Nature Physics (2025-05-01)  
@@ -272,15 +308,3 @@
 - **Introduction to Relativistic Electronic Structure Calculations**  
   The Journal of Physical Chemistry A (2025-04-30)  
   https://doi.org/10.1021/acs.jpca.5c00859
-
-- **Deterministic printing and heterointegration of single quantum dots**  
-  Research Square (Research Square) (2025-04-25)  
-  https://doi.org/https://doi.org/10.21203/rs.3.rs-6247815/v1
-
-- **Deterministic printing and heterointegration of single quantum dots**  
-  Crossref (2025-04-25)  
-  https://doi.org/10.21203/rs.3.rs-6247815/v1
-
-- **Generative AI for Physical-Layer Authentication**  
-  arXiv (2025-04-25)  
-  https://arxiv.org/abs/2504.18175v1
