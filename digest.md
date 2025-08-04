@@ -1,5 +1,13 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-07-28*
+*generated 2025-08-04*
+
+- **Scalable Ion Fluorescence Collection Using a Trap-Integrated Metalens**  
+  arXiv (2025-07-30)  
+  https://arxiv.org/abs/2507.23071v2
+
+- **Universal Magnetic Phases in Twisted Bilayer MoTe$_2$**  
+  arXiv (2025-07-30)  
+  https://arxiv.org/abs/2507.22354v1
 
 - **Collaborative On-Sensor Array Cameras**  
   ACM Transactions on Graphics (2025-07-26)  
@@ -8,6 +16,10 @@
 - **Collaborative On-Sensor Array Cameras**  
   ACM Transactions on Graphics (2025-07-26)  
   https://doi.org/10.1145/3731200
+
+- **Is cooperative always better? Multi-Agent Reinforcement Learning with explicit neighborhood backtracking for network-wide traffic signal control**  
+  Transportation Research Part C Emerging Technologies (2025-07-25)  
+  https://doi.org/https://doi.org/10.1016/j.trc.2025.105265
 
 - **Roadmap for Photonics with 2D Materials**  
   ACS Photonics (2025-07-24)  
@@ -40,6 +52,10 @@
 - **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
   Advanced Optical Materials (2025-07-20)  
   https://doi.org/10.1002/adom.202501375
+
+- **Sequential Cation Exchange in InP Magic-Sized Clusters**  
+  Crossref (2025-07-17)  
+  https://doi.org/10.26434/chemrxiv-2025-hmdnm
 
 - **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
   ACS Photonics (2025-07-10)  
@@ -272,39 +288,3 @@
 - **Image Steganography For Securing Intellicise Wireless Networks:   "Invisible Encryption" Against Eavesdroppers**  
   arXiv (2025-05-07)  
   https://arxiv.org/abs/2505.04467v1
-
-- **Surface Carboxylate Sensitivity to Electron and Hole Relaxation in Photoexcited Cadmium Sulfide Nanocrystals**  
-  The Journal of Physical Chemistry Letters (2025-05-05)  
-  https://doi.org/10.1021/acs.jpclett.5c00546
-
-- **Surface Carboxylate Sensitivity to Electron and Hole Relaxation in Photoexcited Cadmium Sulfide Nanocrystals**  
-  The Journal of Physical Chemistry Letters (2025-05-04)  
-  https://doi.org/https://doi.org/10.1021/acs.jpclett.5c00546
-
-- **Vecsel-pumped Kerr-lens mode-locked Yb3+-doped femtosecond laser**  
-  Optics & Laser Technology (2025-05-01)  
-  https://doi.org/https://doi.org/10.1016/j.optlastec.2025.113071
-
-- **Microscopic signatures of topology in twisted MoTe2**  
-  Nature Physics (2025-05-01)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-02877-x
-
-- **Exploring the potential of bimetallic AuxPt1-x nanoparticles in pristine- and rGO-Modified In2O3 heterostructures for ppb-Level NO2 sensing**  
-  Applied Surface Science (2025-05-01)  
-  https://doi.org/https://doi.org/10.1016/j.apsusc.2025.163523
-
-- **Microscopic signatures of topology in twisted MoTe2**  
-  Nature Physics (2025-05-01)  
-  https://doi.org/10.1038/s41567-025-02877-x
-
-- **Relativistic Two-component Double Ionization Potential   Equation-of-Motion Coupled Cluster with the Dirac--Coulomb--Breit Hamiltonian**  
-  arXiv (2025-05-01)  
-  https://arxiv.org/abs/2505.00499v1
-
-- **Introduction to Relativistic Electronic Structure Calculations**  
-  The Journal of Physical Chemistry A (2025-04-30)  
-  https://doi.org/https://doi.org/10.1021/acs.jpca.5c00859
-
-- **Introduction to Relativistic Electronic Structure Calculations**  
-  The Journal of Physical Chemistry A (2025-04-30)  
-  https://doi.org/10.1021/acs.jpca.5c00859
