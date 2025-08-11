@@ -1,5 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-08-04*
+*generated 2025-08-11*
+
+- **Phase-Biased Andreev Diffraction Grating**  
+  Physical Review Letters (2025-08-06)  
+  https://doi.org/10.1103/d4kk-sgmh
+
+- **Mixed Precision Photonic Computing with 3D Electronic-Photonic   Integrated Circuits**  
+  arXiv (2025-08-05)  
+  https://arxiv.org/abs/2508.03063v1
+
+- **Electronic ordering driven by flat band nesting in a van der Waals   magnet Fe5GeTe2**  
+  arXiv (2025-08-05)  
+  https://arxiv.org/abs/2508.03116v1
+
+- **Dichotomy of flat bands in the van der Waals ferromagnet Fe$_5$GeTe$_2$**  
+  arXiv (2025-08-05)  
+  https://arxiv.org/abs/2508.03029v2
+
+- **Conquering High Packet-Loss Erasure: MoE Swin Transformer-Based Video   Semantic Communication**  
+  arXiv (2025-08-02)  
+  https://arxiv.org/abs/2508.01205v1
+
+- **VQ-DeepISC: Vector Quantized-Enabled Digital Semantic Communication with   Channel Adaptive Image Transmission**  
+  arXiv (2025-08-01)  
+  https://arxiv.org/abs/2508.03740v1
 
 - **Scalable Ion Fluorescence Collection Using a Trap-Integrated Metalens**  
   arXiv (2025-07-30)  
@@ -276,15 +300,3 @@
 - **Giant elastoresistance in magic-angle twisted bilayer graphene**  
   arXiv (2025-05-15)  
   https://arxiv.org/abs/2505.10506v1
-
-- **Single-shot Multispectral Imaging via a Chromatic Metalens Array**  
-  ACS Photonics (2025-05-07)  
-  https://doi.org/https://doi.org/10.1021/acsphotonics.5c00344
-
-- **Single-shot Multispectral Imaging via a Chromatic Metalens Array**  
-  ACS Photonics (2025-05-07)  
-  https://doi.org/10.1021/acsphotonics.5c00344
-
-- **Image Steganography For Securing Intellicise Wireless Networks:   "Invisible Encryption" Against Eavesdroppers**  
-  arXiv (2025-05-07)  
-  https://arxiv.org/abs/2505.04467v1
