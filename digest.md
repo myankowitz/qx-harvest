@@ -1,5 +1,37 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-08-11*
+*generated 2025-08-18*
+
+- **Importance-Aware Robust Semantic Transmission for LEO Satellite-Ground   Communication**  
+  arXiv (2025-08-15)  
+  https://arxiv.org/abs/2508.11457v1
+
+- **Important Bit Prefix M-ary Quadrature Amplitude Modulation for Semantic   Communications**  
+  arXiv (2025-08-15)  
+  https://arxiv.org/abs/2508.11351v1
+
+- **CSGO: Generalized Optimization for Cold Start in Wireless Collaborative   Edge LLM Systems**  
+  arXiv (2025-08-15)  
+  https://arxiv.org/abs/2508.11287v1
+
+- **VQ-VAE Based Digital Semantic Communication with Importance-Aware OFDM   Transmission**  
+  arXiv (2025-08-12)  
+  https://arxiv.org/abs/2508.08686v1
+
+- **Neural Tangent Knowledge Distillation for Optical Convolutional Networks**  
+  arXiv (2025-08-11)  
+  https://arxiv.org/abs/2508.08421v1
+
+- **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
+  Nature Physics (2025-08-11)  
+  https://doi.org/10.1038/s41567-025-02997-4
+
+- **MambaTrans: Multimodal Fusion Image Translation via Large Language Model   Priors for Downstream Visual Tasks**  
+  arXiv (2025-08-11)  
+  https://arxiv.org/abs/2508.07803v1
+
+- **Physical Layer Authentication Based on Hierarchical Variational   Auto-Encoder for Industrial Internet of Things**  
+  arXiv (2025-08-09)  
+  https://arxiv.org/abs/2508.06794v1
 
 - **Phase-Biased Andreev Diffraction Grating**  
   Physical Review Letters (2025-08-06)  
@@ -78,6 +110,10 @@
   https://doi.org/10.1002/adom.202501375
 
 - **Sequential Cation Exchange in InP Magic-Sized Clusters**  
+   (2025-07-17)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-hmdnm
+
+- **Sequential Cation Exchange in InP Magic-Sized Clusters**  
   Crossref (2025-07-17)  
   https://doi.org/10.26434/chemrxiv-2025-hmdnm
 
@@ -109,13 +145,13 @@
   The Journal of Physical Chemistry Letters (2025-07-03)  
   https://doi.org/10.1021/acs.jpclett.5c01245
 
-- **Transferable polychromatic optical encoder for neural networks**  
-  Nature Communications (2025-07-01)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
-
 - **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
   Applied Optics (2025-07-01)  
   https://doi.org/https://doi.org/10.1364/ao.563383
+
+- **Transferable polychromatic optical encoder for neural networks**  
+  Nature Communications (2025-07-01)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
 
 - **Transferable polychromatic optical encoder for neural networks**  
   Nature Communications (2025-07-01)  
@@ -144,6 +180,10 @@
 - **All-Dielectric Metasurface with a Two-Dimensional Locally Flat Photonic   Band**  
   arXiv (2025-06-25)  
   https://arxiv.org/abs/2506.20871v1
+
+- **A Comprehensive Multi-Snapshot Joint Estimation Algorithm for Sound Source Localization**  
+  IEEE Sensors Journal (2025-06-25)  
+  https://doi.org/https://doi.org/10.1109/jsen.2025.3581242
 
 - **NEO-PGA: Nonvolatile electro-optically programmable gate array**  
   arXiv (2025-06-23)  
@@ -288,15 +328,3 @@
 - **On-chip terahertz emission from Floquet-Bloch states [Invited]**  
   Optical Materials Express (2025-05-21)  
   https://doi.org/https://doi.org/10.1364/ome.554534
-
-- **Anomalous Hysteresis in Graphite/Boron Nitride Transistors**  
-  Nano Letters (2025-05-16)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c01799
-
-- **Anomalous Hysteresis in Graphite/Boron Nitride Transistors**  
-  Nano Letters (2025-05-16)  
-  https://doi.org/10.1021/acs.nanolett.5c01799
-
-- **Giant elastoresistance in magic-angle twisted bilayer graphene**  
-  arXiv (2025-05-15)  
-  https://arxiv.org/abs/2505.10506v1
