@@ -1,5 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-08-18*
+*generated 2025-08-25*
+
+- **Way to Build Native AI-driven 6G Air Interface: Principles, Roadmap, and   Outlook**  
+  arXiv (2025-08-21)  
+  https://arxiv.org/abs/2508.15277v1
+
+- **Size-Dependent Band Gaps in Metal-Organic Framework Nanoparticles**  
+   (2025-08-19)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-42x1t
+
+- **Tuning Nitrate Electroreduction Selectivity via Doping of Nickel Phosphide Nanocrystals**  
+  ACS Applied Nano Materials (2025-08-15)  
+  https://doi.org/https://doi.org/10.1021/acsanm.5c02823
+
+- **Tuning Nitrate Electroreduction Selectivity via Doping of Nickel Phosphide Nanocrystals**  
+  ACS Applied Nano Materials (2025-08-15)  
+  https://doi.org/10.1021/acsanm.5c02823
 
 - **Importance-Aware Robust Semantic Transmission for LEO Satellite-Ground   Communication**  
   arXiv (2025-08-15)  
@@ -20,6 +36,10 @@
 - **Neural Tangent Knowledge Distillation for Optical Convolutional Networks**  
   arXiv (2025-08-11)  
   https://arxiv.org/abs/2508.08421v1
+
+- **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
+  Nature Physics (2025-08-11)  
+  https://doi.org/https://doi.org/10.1038/s41567-025-02997-4
 
 - **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
   Nature Physics (2025-08-11)  
@@ -145,13 +165,13 @@
   The Journal of Physical Chemistry Letters (2025-07-03)  
   https://doi.org/10.1021/acs.jpclett.5c01245
 
-- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
-  Applied Optics (2025-07-01)  
-  https://doi.org/https://doi.org/10.1364/ao.563383
-
 - **Transferable polychromatic optical encoder for neural networks**  
   Nature Communications (2025-07-01)  
   https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
+
+- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
+  Applied Optics (2025-07-01)  
+  https://doi.org/https://doi.org/10.1364/ao.563383
 
 - **Transferable polychromatic optical encoder for neural networks**  
   Nature Communications (2025-07-01)  
@@ -312,19 +332,3 @@
 - **Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**  
   arXiv (2025-05-27)  
   https://arxiv.org/abs/2505.21411v2
-
-- **ICDM: Interference Cancellation Diffusion Models for Wireless Semantic   Communications**  
-  arXiv (2025-05-26)  
-  https://arxiv.org/abs/2505.19983v1
-
-- **Breaking the Quadrillion Determinant Barrier in Numerically Exact   Configuration Interaction**  
-  arXiv (2025-05-26)  
-  https://arxiv.org/abs/2505.20375v1
-
-- **TrimR: Verifier-based Training-Free Thinking Compression for Efficient   Test-Time Scaling**  
-  arXiv (2025-05-22)  
-  https://arxiv.org/abs/2505.17155v2
-
-- **On-chip terahertz emission from Floquet-Bloch states [Invited]**  
-  Optical Materials Express (2025-05-21)  
-  https://doi.org/https://doi.org/10.1364/ome.554534
