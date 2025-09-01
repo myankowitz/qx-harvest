@@ -1,5 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-08-25*
+*generated 2025-09-01*
+
+- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
+  Nano Letters (2025-08-31)  
+  https://doi.org/10.1021/acs.nanolett.5c03023
+
+- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix   Engineering**  
+  arXiv (2025-08-28)  
+  https://arxiv.org/abs/2508.20329v1
+
+- **Magnetoelectric Control of Helical Light Emission in a Moiré Chern Magnet**  
+  Physical Review X (2025-08-27)  
+  https://doi.org/10.1103/ds5p-763x
+
+- **Optical control over topological Chern number in moiré materials**  
+  arXiv (2025-08-26)  
+  https://arxiv.org/abs/2508.19063v1
+
+- **Optical Control of Integer and Fractional Chern Insulators**  
+  arXiv (2025-08-26)  
+  https://arxiv.org/abs/2508.18639v1
+
+- **AWM-Fuse: Multi-Modality Image Fusion for Adverse Weather via Global and   Local Text Perception**  
+  arXiv (2025-08-23)  
+  https://arxiv.org/abs/2508.16881v1
 
 - **Way to Build Native AI-driven 6G Air Interface: Principles, Roadmap, and   Outlook**  
   arXiv (2025-08-21)  
@@ -213,10 +237,6 @@
   arXiv (2025-06-23)  
   https://arxiv.org/abs/2506.18732v1
 
-- **Simulation of Vibronic Strong Coupling and Cavity-Modified Hydrogen   Tunneling Dynamics**  
-  arXiv (2025-06-23)  
-  https://arxiv.org/abs/2506.18647v1
-
 - **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
   Photochem (2025-06-19)  
   https://doi.org/https://doi.org/10.3390/photochem5020016
@@ -237,10 +257,6 @@
   arXiv (2025-06-16)  
   https://arxiv.org/abs/2506.13683v1
 
-- **EAQuant: Enhancing Post-Training Quantization for MoE Models via   Expert-Aware Optimization**  
-  arXiv (2025-06-16)  
-  https://arxiv.org/abs/2506.13329v2
-
 - **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
   Journal of the American Chemical Society (2025-06-13)  
   https://doi.org/https://doi.org/10.1021/jacs.5c06949
@@ -260,10 +276,6 @@
 - **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
   Crossref (2025-06-11)  
   https://doi.org/10.26434/chemrxiv-2025-d55c6
-
-- **Relativistic Core-Valence-Separated Molecular Mean-Field   Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications   to L-edge X-ray Absorption Spectroscopy**  
-  arXiv (2025-06-10)  
-  https://arxiv.org/abs/2506.09008v2
 
 - **Electrically reconfigurable nonvolatile flatband absorbers in the   mid-infrared with wide spectral tuning range**  
   arXiv (2025-06-08)  
@@ -288,47 +300,3 @@
 - **Van der Waals waveguide quantum electrodynamics probed by infrared nano-photoluminescence**  
   Nature Photonics (2025-06-03)  
   https://doi.org/https://doi.org/10.1038/s41566-025-01694-1
-
-- **Measurements of a LYSO crystal array from threshold to 100 MeV**  
-  Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment (2025-06-01)  
-  https://doi.org/10.1016/j.nima.2025.170320
-
-- **Characterization of multilayer films using ultrafast photoacoustic technology and artificial intelligence**  
-  Ultrasonics (2025-06-01)  
-  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107741
-
-- **Computational imaging with meta-optics**  
-  Optica (2025-05-30)  
-  https://doi.org/https://doi.org/10.1364/optica.546382
-
-- **Computational imaging with meta-optics**  
-  Optica (2025-05-30)  
-  https://doi.org/10.1364/optica.546382
-
-- **Narrow Blue Emission from Cadmium Phosphide Clusters Enhanced through Phosphinate Ligation**  
-  Nano Letters (2025-05-30)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c01891
-
-- **Narrow Blue Emission from Cadmium Phosphide Clusters Enhanced through Phosphinate Ligation**  
-  Nano Letters (2025-05-30)  
-  https://doi.org/10.1021/acs.nanolett.5c01891
-
-- **The Effect of Trap Design on the Scalability of Trapped-Ion Quantum Technologies**  
-  Entropy (2025-05-29)  
-  https://doi.org/https://doi.org/10.3390/e27060576
-
-- **The Effect of Trap Design on the Scalability of Trapped-Ion Quantum Technologies**  
-  Entropy (2025-05-29)  
-  https://doi.org/10.3390/e27060576
-
-- **Adaptive Federated LoRA in Heterogeneous Wireless Networks with   Independent Sampling**  
-  arXiv (2025-05-29)  
-  https://arxiv.org/abs/2505.23555v3
-
-- **Meta-optical encoders for high-resolution computer vision**  
-   (2025-05-28)  
-  https://doi.org/https://doi.org/10.1117/12.3055225
-
-- **Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**  
-  arXiv (2025-05-27)  
-  https://arxiv.org/abs/2505.21411v2
