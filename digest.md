@@ -1,5 +1,49 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-09-01*
+*generated 2025-09-08*
+
+- **SemSteDiff: Generative Diffusion Model-based Coverless Semantic   Steganography Communication**  
+  arXiv (2025-09-05)  
+  https://arxiv.org/abs/2509.04803v1
+
+- **KGRAG-SC: Knowledge Graph RAG-Assisted Semantic Communication**  
+  arXiv (2025-09-05)  
+  https://arxiv.org/abs/2509.04801v1
+
+- **SREC: Encrypted Semantic Super-Resolution Enhanced Communication**  
+  arXiv (2025-09-05)  
+  https://arxiv.org/abs/2509.04787v1
+
+- **Prospects of Nanoscience with Nanocrystals: 2025 Edition**  
+  ACS Nano (2025-09-03)  
+  https://doi.org/https://doi.org/10.1021/acsnano.5c07838
+
+- **Prospects of Nanoscience with Nanocrystals: 2025 Edition**  
+  ACS Nano (2025-09-03)  
+  https://doi.org/10.1021/acsnano.5c07838
+
+- **Free-space optical encoder for computer vision**  
+  Deleted Journal (2025-09-02)  
+  https://doi.org/https://doi.org/10.1038/s44310-025-00082-5
+
+- **Electrically reconfigurable nonvolatile transmissive metasurface in   visible**  
+  arXiv (2025-09-02)  
+  https://arxiv.org/abs/2509.02748v1
+
+- **Know What, Know Why: Semantic Hazard Communication for Intelligent V2X   Systems**  
+  arXiv (2025-09-02)  
+  https://arxiv.org/abs/2509.02442v1
+
+- **The curious case of "XOR repetition" of monogamy-of-entanglement games**  
+  arXiv (2025-09-01)  
+  https://arxiv.org/abs/2509.01831v1
+
+- **An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma**  
+  Chemical Engineering Journal (2025-09-01)  
+  https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
+
+- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
+  Nano Letters (2025-08-31)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
 
 - **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
   Nano Letters (2025-08-31)  
@@ -181,6 +225,10 @@
   Angewandte Chemie (2025-07-10)  
   https://doi.org/https://doi.org/10.1002/ange.202509496
 
+- **Phase-biased Andreev diffraction grating**  
+  Physical Review Letters (2025-07-07)  
+  https://doi.org/https://doi.org/10.1103/d4kk-sgmh
+
 - **Characterizing Ultrafast Intersystem Crossing Pathways in Molecular Pt Dimers Using Time-Resolved Wide-Angle X-ray Scattering**  
   The Journal of Physical Chemistry Letters (2025-07-03)  
   https://doi.org/https://doi.org/10.1021/acs.jpclett.5c01245
@@ -237,6 +285,10 @@
   arXiv (2025-06-23)  
   https://arxiv.org/abs/2506.18732v1
 
+- **Simulation of Vibronic Strong Coupling and Cavity-Modified Hydrogen   Tunneling Dynamics**  
+  arXiv (2025-06-23)  
+  https://arxiv.org/abs/2506.18647v1
+
 - **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
   Photochem (2025-06-19)  
   https://doi.org/https://doi.org/10.3390/photochem5020016
@@ -256,6 +308,10 @@
 - **Observing the Birth of Rydberg Exciton Fermi Polarons on a Moire Fermi   Sea**  
   arXiv (2025-06-16)  
   https://arxiv.org/abs/2506.13683v1
+
+- **EAQuant: Enhancing Post-Training Quantization for MoE Models via   Expert-Aware Optimization**  
+  arXiv (2025-06-16)  
+  https://arxiv.org/abs/2506.13329v2
 
 - **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
   Journal of the American Chemical Society (2025-06-13)  
@@ -277,26 +333,6 @@
   Crossref (2025-06-11)  
   https://doi.org/10.26434/chemrxiv-2025-d55c6
 
-- **Electrically reconfigurable nonvolatile flatband absorbers in the   mid-infrared with wide spectral tuning range**  
-  arXiv (2025-06-08)  
-  https://arxiv.org/abs/2506.07258v1
-
-- **Air-stable n-type dopant for organic semiconductors via a single-photon catalytic process**  
-  Science Advances (2025-06-06)  
-  https://doi.org/https://doi.org/10.1126/sciadv.adu8215
-
-- **Air-stable n-type dopant for organic semiconductors via a single-photon catalytic process**  
-  Science Advances (2025-06-06)  
-  https://doi.org/10.1126/sciadv.adu8215
-
-- **Spinless and spinful charge excitations in moiré Fractional Chern   Insulators**  
-  arXiv (2025-06-05)  
-  https://arxiv.org/abs/2506.05330v1
-
-- **Collaborative On-Sensor Array Cameras**  
-  arXiv (2025-06-04)  
-  https://arxiv.org/abs/2506.04061v1
-
-- **Van der Waals waveguide quantum electrodynamics probed by infrared nano-photoluminescence**  
-  Nature Photonics (2025-06-03)  
-  https://doi.org/https://doi.org/10.1038/s41566-025-01694-1
+- **Relativistic Core-Valence-Separated Molecular Mean-Field   Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications   to L-edge X-ray Absorption Spectroscopy**  
+  arXiv (2025-06-10)  
+  https://arxiv.org/abs/2506.09008v2
