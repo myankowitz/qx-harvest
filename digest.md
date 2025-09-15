@@ -1,5 +1,61 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-09-08*
+*generated 2025-09-15*
+
+- **The anomalous magnetic moment of the muon in the Standard Model: an update**  
+  Physics Reports (2025-11-01)  
+  https://doi.org/10.1016/j.physrep.2025.08.002
+
+- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac-Coulomb-Breit Hamiltonian.**  
+  PubMed (2025-09-14)  
+  https://doi.org/https://doi.org/10.1063/5.0278675
+
+- **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
+  Science Advances (2025-09-12)  
+  https://doi.org/10.1126/sciadv.adx6485
+
+- **Visualizing Electronic Structure of Twisted Bilayer MoTe2 in Devices**  
+  arXiv (2025-09-11)  
+  https://arxiv.org/abs/2509.09080v1
+
+- **FlexiD-Fuse: Flexible number of inputs multi-modal medical image fusion   based on diffusion model**  
+  arXiv (2025-09-11)  
+  https://arxiv.org/abs/2509.09456v1
+
+- **FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal   image fusion and super-resolution**  
+  arXiv (2025-09-11)  
+  https://arxiv.org/abs/2509.09427v1
+
+- **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
+  Science Advances (2025-09-10)  
+  https://doi.org/https://doi.org/10.1126/sciadv.adx6485
+
+- **Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters**  
+  Chemistry of Materials (2025-09-10)  
+  https://doi.org/https://doi.org/10.1021/acs.chemmater.5c01576
+
+- **Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters**  
+  Chemistry of Materials (2025-09-10)  
+  https://doi.org/10.1021/acs.chemmater.5c01576
+
+- **Non-monotonic band flattening near the magic angle of twisted bilayer   MoTe$_2$**  
+  arXiv (2025-09-10)  
+  https://arxiv.org/abs/2509.08993v1
+
+- **Knowledge Distillation Driven Semantic NOMA for Image Transmission with   Diffusion Model**  
+  arXiv (2025-09-09)  
+  https://arxiv.org/abs/2509.07363v1
+
+- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
+  The Journal of Chemical Physics (2025-09-09)  
+  https://doi.org/10.1063/5.0278675
+
+- **Large Field of View Narrowband Light Collection Enabled by Metasurfaces**  
+  Applied Optics (2025-09-08)  
+  https://doi.org/https://doi.org/10.1364/ao.571628
+
+- **Compact broadband thermal absorbers based on plasmonic fractal metasurfaces**  
+  Optics Letters (2025-09-08)  
+  https://doi.org/10.1364/ol.571991
 
 - **SemSteDiff: Generative Diffusion Model-based Coverless Semantic   Steganography Communication**  
   arXiv (2025-09-05)  
@@ -37,17 +93,25 @@
   arXiv (2025-09-01)  
   https://arxiv.org/abs/2509.01831v1
 
+- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
+  Nano Letters (2025-09-01)  
+  https://doi.org/10.1021/acs.nanolett.5c03023
+
+- **What is Computational Physics?**  
+   (2025-09-01)  
+  https://doi.org/https://doi.org/10.1063/5.0297896
+
 - **An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma**  
   Chemical Engineering Journal (2025-09-01)  
   https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
 
-- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
-  Nano Letters (2025-08-31)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
+- **What is Computational Physics?**  
+  APL Computational Physics (2025-09-01)  
+  https://doi.org/10.1063/5.0297896
 
 - **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
   Nano Letters (2025-08-31)  
-  https://doi.org/10.1021/acs.nanolett.5c03023
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
 
 - **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix   Engineering**  
   arXiv (2025-08-28)  
@@ -96,6 +160,10 @@
 - **CSGO: Generalized Optimization for Cold Start in Wireless Collaborative   Edge LLM Systems**  
   arXiv (2025-08-15)  
   https://arxiv.org/abs/2508.11287v1
+
+- **Compact broadband thermal absorbers based on plasmonic fractal metasurfaces**  
+  Optics Letters (2025-08-14)  
+  https://doi.org/https://doi.org/10.1364/ol.571991
 
 - **VQ-VAE Based Digital Semantic Communication with Importance-Aware OFDM   Transmission**  
   arXiv (2025-08-12)  
@@ -304,35 +372,3 @@
 - **Full color visible imaging with crystalline silicon meta-optics**  
   Light: Science &amp; Applications (2025-06-18)  
   https://doi.org/10.1038/s41377-025-01888-w
-
-- **Observing the Birth of Rydberg Exciton Fermi Polarons on a Moire Fermi   Sea**  
-  arXiv (2025-06-16)  
-  https://arxiv.org/abs/2506.13683v1
-
-- **EAQuant: Enhancing Post-Training Quantization for MoE Models via   Expert-Aware Optimization**  
-  arXiv (2025-06-16)  
-  https://arxiv.org/abs/2506.13329v2
-
-- **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
-  Journal of the American Chemical Society (2025-06-13)  
-  https://doi.org/https://doi.org/10.1021/jacs.5c06949
-
-- **Spin–Vibronic Coupling Enhanced Intersystem Crossing beyond El-Sayed Restrictions**  
-  Journal of the American Chemical Society (2025-06-13)  
-  https://doi.org/10.1021/jacs.5c06949
-
-- **Van der Waals waveguide quantum electrodynamics probed by infrared   nano-photoluminescence**  
-  arXiv (2025-06-12)  
-  https://arxiv.org/abs/2506.10295v1
-
-- **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
-   (2025-06-11)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-d55c6
-
-- **Tuning nitrate electroreduction selectivity via doping of nickel phosphide nanocrystals**  
-  Crossref (2025-06-11)  
-  https://doi.org/10.26434/chemrxiv-2025-d55c6
-
-- **Relativistic Core-Valence-Separated Molecular Mean-Field   Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications   to L-edge X-ray Absorption Spectroscopy**  
-  arXiv (2025-06-10)  
-  https://arxiv.org/abs/2506.09008v2
