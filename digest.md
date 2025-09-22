@@ -1,13 +1,37 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-09-15*
+*generated 2025-09-22*
 
 - **The anomalous magnetic moment of the muon in the Standard Model: an update**  
   Physics Reports (2025-11-01)  
   https://doi.org/10.1016/j.physrep.2025.08.002
 
-- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac-Coulomb-Breit Hamiltonian.**  
-  PubMed (2025-09-14)  
-  https://doi.org/https://doi.org/10.1063/5.0278675
+- **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
+  ACS Nano (2025-09-17)  
+  https://doi.org/https://doi.org/10.1021/acsnano.5c12652
+
+- **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
+  ACS Nano (2025-09-17)  
+  https://doi.org/10.1021/acsnano.5c12652
+
+- **NDLPNet: A Location-Aware Nighttime Deraining Network and a Real-World   Benchmark Dataset**  
+  arXiv (2025-09-17)  
+  https://arxiv.org/abs/2509.13766v1
+
+- **Million-event, single-pulse arbitrary access of PCM-silicon photonic devices**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3066151
+
+- **Nonvolatile programmable Mach-Zehnder meshes**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3066154
+
+- **Tunable free-space optics via phase change materials**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3057053
+
+- **Towards Native AI in 6G Standardization: The Roadmap of Semantic   Communication**  
+  arXiv (2025-09-16)  
+  https://arxiv.org/abs/2509.12758v1
 
 - **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
   Science Advances (2025-09-12)  
@@ -44,6 +68,10 @@
 - **Knowledge Distillation Driven Semantic NOMA for Image Transmission with   Diffusion Model**  
   arXiv (2025-09-09)  
   https://arxiv.org/abs/2509.07363v1
+
+- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
+  The Journal of Chemical Physics (2025-09-09)  
+  https://doi.org/https://doi.org/10.1063/5.0278675
 
 - **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
   The Journal of Chemical Physics (2025-09-09)  
@@ -96,6 +124,10 @@
 - **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
   Nano Letters (2025-09-01)  
   https://doi.org/10.1021/acs.nanolett.5c03023
+
+- **Unveiling PoPFP: A short-chain pentraxin involving antibacterial immunity in marine teleost**  
+  International Journal of Biological Macromolecules (2025-09-01)  
+  https://doi.org/https://doi.org/10.1016/j.ijbiomac.2025.147703
 
 - **What is Computational Physics?**  
    (2025-09-01)  
@@ -344,31 +376,3 @@
 - **A Comprehensive Multi-Snapshot Joint Estimation Algorithm for Sound Source Localization**  
   IEEE Sensors Journal (2025-06-25)  
   https://doi.org/https://doi.org/10.1109/jsen.2025.3581242
-
-- **NEO-PGA: Nonvolatile electro-optically programmable gate array**  
-  arXiv (2025-06-23)  
-  https://arxiv.org/abs/2506.18592v1
-
-- **Towards Group Fairness with Multiple Sensitive Attributes in Federated   Foundation Models**  
-  arXiv (2025-06-23)  
-  https://arxiv.org/abs/2506.18732v1
-
-- **Simulation of Vibronic Strong Coupling and Cavity-Modified Hydrogen   Tunneling Dynamics**  
-  arXiv (2025-06-23)  
-  https://arxiv.org/abs/2506.18647v1
-
-- **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
-  Photochem (2025-06-19)  
-  https://doi.org/https://doi.org/10.3390/photochem5020016
-
-- **Tracking Photoinduced Charge Redistribution in a Cu(I) Diimine Donor–Bridge–Acceptor System with Time-Resolved Infrared Spectroscopy**  
-  Photochem (2025-06-19)  
-  https://doi.org/10.3390/photochem5020016
-
-- **Full color visible imaging with crystalline silicon meta-optics**  
-  Light Science & Applications (2025-06-18)  
-  https://doi.org/https://doi.org/10.1038/s41377-025-01888-w
-
-- **Full color visible imaging with crystalline silicon meta-optics**  
-  Light: Science &amp; Applications (2025-06-18)  
-  https://doi.org/10.1038/s41377-025-01888-w
