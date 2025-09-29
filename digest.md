@@ -1,9 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-09-22*
+*generated 2025-09-29*
 
 - **The anomalous magnetic moment of the muon in the Standard Model: an update**  
   Physics Reports (2025-11-01)  
   https://doi.org/10.1016/j.physrep.2025.08.002
+
+- **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
+  Journal of the American Chemical Society (2025-09-26)  
+  https://doi.org/https://doi.org/10.1021/jacs.5c09172
+
+- **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
+  Journal of the American Chemical Society (2025-09-26)  
+  https://doi.org/10.1021/jacs.5c09172
+
+- **Gradient-based multi-focus image fusion with focus-aware saliency   enhancement**  
+  arXiv (2025-09-26)  
+  https://arxiv.org/abs/2509.22392v1
+
+- **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
+  Physical Review Letters (2025-09-23)  
+  https://doi.org/10.1103/v4x6-2dzs
+
+- **Meta-optical Miniscope for Multifunctional Imaging**  
+  arXiv (2025-09-19)  
+  https://arxiv.org/abs/2509.16373v1
 
 - **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
   ACS Nano (2025-09-17)  
@@ -129,6 +149,10 @@
   International Journal of Biological Macromolecules (2025-09-01)  
   https://doi.org/https://doi.org/10.1016/j.ijbiomac.2025.147703
 
+- **From recognition to defense: the multifaceted functions of PoPGRP-2 and PoPGRP-5 in Paralichthys olivaceus immunity**  
+  Aquaculture (2025-09-01)  
+  https://doi.org/https://doi.org/10.1016/j.aquaculture.2025.743252
+
 - **What is Computational Physics?**  
    (2025-09-01)  
   https://doi.org/https://doi.org/10.1063/5.0297896
@@ -137,6 +161,10 @@
   Chemical Engineering Journal (2025-09-01)  
   https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
 
+- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
+  Cell (2025-09-01)  
+  https://doi.org/https://doi.org/10.1016/j.cell.2025.08.035
+
 - **What is Computational Physics?**  
   APL Computational Physics (2025-09-01)  
   https://doi.org/10.1063/5.0297896
@@ -144,6 +172,14 @@
 - **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
   Nano Letters (2025-08-31)  
   https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
+
+- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
+  arXiv (Cornell University) (2025-08-28)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2508.20329
+
+- **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
+  Physical Review Letters (2025-08-28)  
+  https://doi.org/https://doi.org/10.1103/v4x6-2dzs
 
 - **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix   Engineering**  
   arXiv (2025-08-28)  
@@ -325,6 +361,10 @@
   Angewandte Chemie (2025-07-10)  
   https://doi.org/https://doi.org/10.1002/ange.202509496
 
+- **Measurement of the positive muon anomalous magnetic moment to 127 ppb**  
+  Physical Review Letters (2025-07-09)  
+  https://doi.org/https://doi.org/10.1103/7clf-sm2v
+
 - **Phase-biased Andreev diffraction grating**  
   Physical Review Letters (2025-07-07)  
   https://doi.org/https://doi.org/10.1103/d4kk-sgmh
@@ -352,27 +392,3 @@
 - **Dual‐Amide Engineered Blue Phase Liquid Crystal Elastomers: Synergistic Fatigue Resistance, Programmable Mechanochromics and Spatiotemporally Encrypted Photonics**  
   Advanced Materials (2025-07-01)  
   https://doi.org/https://doi.org/10.1002/adma.202506129
-
-- **MPC in the Quantum Head (or: Superposition-Secure (Quantum)   Zero-Knowledge)**  
-  arXiv (2025-06-28)  
-  https://arxiv.org/abs/2506.22961v1
-
-- **Compact broadband thermal absorbers based on plasmonic fractal   metasurfaces**  
-  arXiv (2025-06-26)  
-  https://arxiv.org/abs/2506.20905v1
-
-- **Unraveling Ground-State Electron Transfer in Photoredox n-Doping of Conjugated Polymers through Real-Time Quantum Dynamics**  
-  Journal of the American Chemical Society (2025-06-26)  
-  https://doi.org/https://doi.org/10.1021/jacs.5c07990
-
-- **Unraveling Ground-State Electron Transfer in Photoredox n-Doping of Conjugated Polymers through Real-Time Quantum Dynamics**  
-  Journal of the American Chemical Society (2025-06-26)  
-  https://doi.org/10.1021/jacs.5c07990
-
-- **All-Dielectric Metasurface with a Two-Dimensional Locally Flat Photonic   Band**  
-  arXiv (2025-06-25)  
-  https://arxiv.org/abs/2506.20871v1
-
-- **A Comprehensive Multi-Snapshot Joint Estimation Algorithm for Sound Source Localization**  
-  IEEE Sensors Journal (2025-06-25)  
-  https://doi.org/https://doi.org/10.1109/jsen.2025.3581242
