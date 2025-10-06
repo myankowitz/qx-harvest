@@ -1,9 +1,41 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-09-29*
+*generated 2025-10-06*
 
 - **The anomalous magnetic moment of the muon in the Standard Model: an update**  
   Physics Reports (2025-11-01)  
   https://doi.org/10.1016/j.physrep.2025.08.002
+
+- **Meta-optical imaging at thermal wavelengths**  
+  Journal of Physics Photonics (2025-10-02)  
+  https://doi.org/https://doi.org/10.1088/2515-7647/ae0ee4
+
+- **Meta-optical imaging at thermal wavelengths**  
+  Journal of Physics: Photonics (2025-10-02)  
+  https://doi.org/10.1088/2515-7647/ae0ee4
+
+- **Simulation of vibronic strong coupling and cavity-modified hydrogen tunneling dynamics**  
+  The Journal of Chemical Physics (2025-10-02)  
+  https://doi.org/https://doi.org/10.1063/5.0286132
+
+- **Simulation of vibronic strong coupling and cavity-modified hydrogen tunneling dynamics**  
+  The Journal of Chemical Physics (2025-10-02)  
+  https://doi.org/10.1063/5.0286132
+
+- **Semantic-Driven AI Agent Communications: Challenges and Solutions**  
+  arXiv (2025-10-01)  
+  https://arxiv.org/abs/2510.00381v1
+
+- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
+  Cell (2025-10-01)  
+  https://doi.org/https://doi.org/10.1016/j.cell.2025.09.024
+
+- **Deep Reinforcement Learning for Distributed 5G Core Network Scheduling with Dynamic QoS/QoE Optimization**  
+  Advances in transdisciplinary engineering (2025-10-01)  
+  https://doi.org/https://doi.org/10.3233/atde250858
+
+- **Large-field-of-view narrowband light collection enabled by metasurfaces**  
+  Applied Optics (2025-09-29)  
+  https://doi.org/10.1364/ao.571628
 
 - **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
   Journal of the American Chemical Society (2025-09-26)  
@@ -105,6 +137,10 @@
   Optics Letters (2025-09-08)  
   https://doi.org/10.1364/ol.571991
 
+- **An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma**  
+  Chemical Engineering Journal (2025-09-07)  
+  https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
+
 - **SemSteDiff: Generative Diffusion Model-based Coverless Semantic   Steganography Communication**  
   arXiv (2025-09-05)  
   https://arxiv.org/abs/2509.04803v1
@@ -143,6 +179,10 @@
 
 - **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
   Nano Letters (2025-09-01)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
+
+- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
+  Nano Letters (2025-09-01)  
   https://doi.org/10.1021/acs.nanolett.5c03023
 
 - **Unveiling PoPFP: A short-chain pentraxin involving antibacterial immunity in marine teleost**  
@@ -153,25 +193,17 @@
   Aquaculture (2025-09-01)  
   https://doi.org/https://doi.org/10.1016/j.aquaculture.2025.743252
 
-- **What is Computational Physics?**  
-   (2025-09-01)  
-  https://doi.org/https://doi.org/10.1063/5.0297896
-
-- **An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma**  
-  Chemical Engineering Journal (2025-09-01)  
-  https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
-
 - **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
   Cell (2025-09-01)  
   https://doi.org/https://doi.org/10.1016/j.cell.2025.08.035
 
 - **What is Computational Physics?**  
+   (2025-09-01)  
+  https://doi.org/https://doi.org/10.1063/5.0297896
+
+- **What is Computational Physics?**  
   APL Computational Physics (2025-09-01)  
   https://doi.org/10.1063/5.0297896
-
-- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
-  Nano Letters (2025-08-31)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
 
 - **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
   arXiv (Cornell University) (2025-08-28)  
@@ -248,10 +280,6 @@
 - **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
   Nature Physics (2025-08-11)  
   https://doi.org/10.1038/s41567-025-02997-4
-
-- **MambaTrans: Multimodal Fusion Image Translation via Large Language Model   Priors for Downstream Visual Tasks**  
-  arXiv (2025-08-11)  
-  https://arxiv.org/abs/2508.07803v1
 
 - **Physical Layer Authentication Based on Hierarchical Variational   Auto-Encoder for Industrial Internet of Things**  
   arXiv (2025-08-09)  
@@ -364,31 +392,3 @@
 - **Measurement of the positive muon anomalous magnetic moment to 127 ppb**  
   Physical Review Letters (2025-07-09)  
   https://doi.org/https://doi.org/10.1103/7clf-sm2v
-
-- **Phase-biased Andreev diffraction grating**  
-  Physical Review Letters (2025-07-07)  
-  https://doi.org/https://doi.org/10.1103/d4kk-sgmh
-
-- **Characterizing Ultrafast Intersystem Crossing Pathways in Molecular Pt Dimers Using Time-Resolved Wide-Angle X-ray Scattering**  
-  The Journal of Physical Chemistry Letters (2025-07-03)  
-  https://doi.org/https://doi.org/10.1021/acs.jpclett.5c01245
-
-- **Characterizing Ultrafast Intersystem Crossing Pathways in Molecular Pt Dimers Using Time-Resolved Wide-Angle X-ray Scattering**  
-  The Journal of Physical Chemistry Letters (2025-07-03)  
-  https://doi.org/10.1021/acs.jpclett.5c01245
-
-- **Transferable polychromatic optical encoder for neural networks**  
-  Nature Communications (2025-07-01)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-61338-4
-
-- **Interleaved Resistive Microheater for Switching Phase-Change Materials Integrated in Silicon Photonics**  
-  Applied Optics (2025-07-01)  
-  https://doi.org/https://doi.org/10.1364/ao.563383
-
-- **Transferable polychromatic optical encoder for neural networks**  
-  Nature Communications (2025-07-01)  
-  https://doi.org/10.1038/s41467-025-61338-4
-
-- **Dual‐Amide Engineered Blue Phase Liquid Crystal Elastomers: Synergistic Fatigue Resistance, Programmable Mechanochromics and Spatiotemporally Encrypted Photonics**  
-  Advanced Materials (2025-07-01)  
-  https://doi.org/https://doi.org/10.1002/adma.202506129
