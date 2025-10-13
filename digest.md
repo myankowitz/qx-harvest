@@ -1,9 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-10-06*
+*generated 2025-10-13*
 
 - **The anomalous magnetic moment of the muon in the Standard Model: an update**  
   Physics Reports (2025-11-01)  
   https://doi.org/10.1016/j.physrep.2025.08.002
+
+- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
+   (2025-10-10)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-j86q4
+
+- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
+  Crossref (2025-10-10)  
+  https://doi.org/10.26434/chemrxiv-2025-j86q4
+
+- **A Meta-Complexity Characterization of Minimal Quantum Cryptography**  
+  arXiv (2025-10-09)  
+  https://arxiv.org/abs/2510.07859v1
+
+- **Deterministic Printing of Single Quantum Dots**  
+  Advanced Materials (2025-10-08)  
+  https://doi.org/https://doi.org/10.1002/adma.202513707
+
+- **Deterministic Printing of Single Quantum Dots**  
+  Advanced Materials (2025-10-08)  
+  https://doi.org/10.1002/adma.202513707
 
 - **Meta-optical imaging at thermal wavelengths**  
   Journal of Physics Photonics (2025-10-02)  
@@ -24,6 +44,10 @@
 - **Semantic-Driven AI Agent Communications: Challenges and Solutions**  
   arXiv (2025-10-01)  
   https://arxiv.org/abs/2510.00381v1
+
+- **Iterative coherence factor (iCF) beamforming method for ultrasound-based nondestructive testing**  
+  Ultrasonics (2025-10-01)  
+  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107841
 
 - **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
   Cell (2025-10-01)  
@@ -281,6 +305,10 @@
   Nature Physics (2025-08-11)  
   https://doi.org/10.1038/s41567-025-02997-4
 
+- **MambaTrans: Multimodal Fusion Image Translation via Large Language Model   Priors for Downstream Visual Tasks**  
+  arXiv (2025-08-11)  
+  https://arxiv.org/abs/2508.07803v1
+
 - **Physical Layer Authentication Based on Hierarchical Variational   Auto-Encoder for Industrial Internet of Things**  
   arXiv (2025-08-09)  
   https://arxiv.org/abs/2508.06794v1
@@ -368,27 +396,3 @@
 - **Sequential Cation Exchange in InP Magic-Sized Clusters**  
   Crossref (2025-07-17)  
   https://doi.org/10.26434/chemrxiv-2025-hmdnm
-
-- **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
-  ACS Photonics (2025-07-10)  
-  https://doi.org/https://doi.org/10.1021/acsphotonics.5c00715
-
-- **Near-Visible Low-Power Tuning of Nematic-Liquid Crystal Integrated Silicon Nitride Ring Resonator**  
-  ACS Photonics (2025-07-10)  
-  https://doi.org/10.1021/acsphotonics.5c00715
-
-- **Purcell enhancement of photogalvanic currents in a van der Waals   plasmonic self-cavity**  
-  arXiv (2025-07-10)  
-  https://arxiv.org/abs/2507.07987v1
-
-- **Revealing Parallel Inter‐ and Intra‐ligand Charge Transfer Dynamics in [Ru(L)2(dppz)]2+ Molecular Lightswitch with N K‐edge X‐ray Absorption Spectroscopy**  
-  Angewandte Chemie International Edition (2025-07-10)  
-  https://doi.org/https://doi.org/10.1002/anie.202509496
-
-- **Revealing Parallel Inter‐ and Intra‐ligand Charge Transfer Dynamics in [Ru(L)2(dppz)]2+ Molecular Lightswitch with N K‐edge X‐ray Absorption Spectroscopy**  
-  Angewandte Chemie (2025-07-10)  
-  https://doi.org/https://doi.org/10.1002/ange.202509496
-
-- **Measurement of the positive muon anomalous magnetic moment to 127 ppb**  
-  Physical Review Letters (2025-07-09)  
-  https://doi.org/https://doi.org/10.1103/7clf-sm2v
