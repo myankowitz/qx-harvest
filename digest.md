@@ -1,9 +1,33 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-10-13*
+*generated 2025-10-20*
 
 - **The anomalous magnetic moment of the muon in the Standard Model: an update**  
   Physics Reports (2025-11-01)  
   https://doi.org/10.1016/j.physrep.2025.08.002
+
+- **QuGStep: Refining step size selection in gradient estimation for variational quantum algorithms**  
+  APL Computational Physics (2025-10-20)  
+  https://doi.org/10.1063/5.0287269
+
+- **Perspective on Many-Body Methods for Molecular Polaritonic Systems**  
+  Journal of Chemical Theory and Computation (2025-10-17)  
+  https://doi.org/https://doi.org/10.1021/acs.jctc.5c00801
+
+- **Perspective on Many-Body Methods for Molecular Polaritonic Systems**  
+  Journal of Chemical Theory and Computation (2025-10-17)  
+  https://doi.org/10.1021/acs.jctc.5c00801
+
+- **Qwen3Guard Technical Report**  
+  arXiv (2025-10-16)  
+  https://arxiv.org/abs/2510.14276v1
+
+- **Magnetocaloric Effect in a Microporous Material Using a Rare-Earth-Free, Hybrid Perovskite**  
+  Journal of the American Chemical Society (2025-10-14)  
+  https://doi.org/https://doi.org/10.1021/jacs.5c11644
+
+- **Magnetocaloric Effect in a Microporous Material Using a Rare-Earth-Free, Hybrid Perovskite**  
+  Journal of the American Chemical Society (2025-10-14)  
+  https://doi.org/10.1021/jacs.5c11644
 
 - **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
    (2025-10-10)  
@@ -78,6 +102,10 @@
   https://doi.org/10.1103/v4x6-2dzs
 
 - **Meta-optical Miniscope for Multifunctional Imaging**  
+  arXiv (Cornell University) (2025-09-19)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2509.16373
+
+- **Meta-optical Miniscope for Multifunctional Imaging**  
   arXiv (2025-09-19)  
   https://arxiv.org/abs/2509.16373v1
 
@@ -93,6 +121,10 @@
   arXiv (2025-09-17)  
   https://arxiv.org/abs/2509.13766v1
 
+- **Tunable free-space optics via phase change materials**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3057053
+
 - **Million-event, single-pulse arbitrary access of PCM-silicon photonic devices**  
    (2025-09-16)  
   https://doi.org/https://doi.org/10.1117/12.3066151
@@ -100,10 +132,6 @@
 - **Nonvolatile programmable Mach-Zehnder meshes**  
    (2025-09-16)  
   https://doi.org/https://doi.org/10.1117/12.3066154
-
-- **Tunable free-space optics via phase change materials**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3057053
 
 - **Towards Native AI in 6G Standardization: The Roadmap of Semantic   Communication**  
   arXiv (2025-09-16)  
@@ -229,13 +257,13 @@
   APL Computational Physics (2025-09-01)  
   https://doi.org/10.1063/5.0297896
 
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
-  arXiv (Cornell University) (2025-08-28)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2508.20329
-
 - **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
   Physical Review Letters (2025-08-28)  
   https://doi.org/https://doi.org/10.1103/v4x6-2dzs
+
+- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
+  arXiv (Cornell University) (2025-08-28)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2508.20329
 
 - **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix   Engineering**  
   arXiv (2025-08-28)  
@@ -372,27 +400,3 @@
 - **Generative Diffusion Models for Wireless Networks: Fundamental,   Architecture, and State-of-the-Art**  
   arXiv (2025-07-22)  
   https://arxiv.org/abs/2507.16733v1
-
-- **Interleaved resistive micro-heater for switching phase-change materials integrated in silicon photonics**  
-  Applied Optics (2025-07-21)  
-  https://doi.org/10.1364/ao.563383
-
-- **Publisher Correction: Van der Waals waveguide quantum electrodynamics probed by infrared nano-photoluminescence**  
-  Nature Photonics (2025-07-21)  
-  https://doi.org/https://doi.org/10.1038/s41566-025-01743-9
-
-- **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
-  Advanced Optical Materials (2025-07-20)  
-  https://doi.org/https://doi.org/10.1002/adom.202501375
-
-- **Defect Passivation via Dual‐Ligand Surface Modification for Bright and Stable Blue Emission in CsPbBr<sub>3</sub> Nanoplatelets**  
-  Advanced Optical Materials (2025-07-20)  
-  https://doi.org/10.1002/adom.202501375
-
-- **Sequential Cation Exchange in InP Magic-Sized Clusters**  
-   (2025-07-17)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-hmdnm
-
-- **Sequential Cation Exchange in InP Magic-Sized Clusters**  
-  Crossref (2025-07-17)  
-  https://doi.org/10.26434/chemrxiv-2025-hmdnm
