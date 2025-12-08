@@ -1,9 +1,111 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-10-20*
+*generated 2025-12-08*
 
-- **The anomalous magnetic moment of the muon in the Standard Model: an update**  
-  Physics Reports (2025-11-01)  
-  https://doi.org/10.1016/j.physrep.2025.08.002
+- **Nonmonotonic Band Flattening near the Magic Angle of Twisted Bilayer
+                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline">
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mrow>
+                            <mml:mi>MoTe</mml:mi>
+                          </mml:mrow>
+                          <mml:mrow>
+                            <mml:mn>2</mml:mn>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                    </mml:math>**  
+  Physical Review X (2025-12-05)  
+  https://doi.org/10.1103/q11l-9jy1
+
+- **Supramolecular Effects of Alkyl Sulfonates in Silver Nanocrystal Synthesis**  
+  ACS Nanoscience Au (2025-12-04)  
+  https://doi.org/10.1021/acsnanoscienceau.5c00121
+
+- **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
+  Journal of the American Chemical Society (2025-11-30)  
+  https://doi.org/https://doi.org/10.1021/jacs.5c18410
+
+- **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
+  Journal of the American Chemical Society (2025-11-30)  
+  https://doi.org/10.1021/jacs.5c18410
+
+- **Z-Space: A Multi-Agent Tool Orchestration Framework for Enterprise-Grade LLM Automation**  
+  arXiv (2025-11-23)  
+  https://arxiv.org/abs/2511.19483v1
+
+- **A golay metalens for long-range, large aperture, thermal imaging via sparse aperture computational imaging**  
+  Nature Communications (2025-11-21)  
+  https://doi.org/10.1038/s41467-025-65188-y
+
+- **Automated <i>In Situ</i> Optimization and Disorder Mitigation in a Quantum Device**  
+  Physical Review Letters (2025-11-19)  
+  https://doi.org/https://doi.org/10.1103/13c4-p4fq
+
+- **Automated
+                    <i>In Situ</i>
+                    Optimization and Disorder Mitigation in a Quantum Device**  
+  Physical Review Letters (2025-11-19)  
+  https://doi.org/10.1103/13c4-p4fq
+
+- **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
+  Nature Communications (2025-11-18)  
+  https://doi.org/10.1038/s41467-025-65088-1
+
+- **Text-Guided Channel Perturbation and Pretrained Knowledge Integration for Unified Multi-Modality Image Fusion**  
+  arXiv (2025-11-16)  
+  https://arxiv.org/abs/2511.12432v1
+
+- **Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**  
+  arXiv (2025-11-14)  
+  https://arxiv.org/abs/2511.11236v2
+
+- **Wafer-scale conformal metasurface optics**  
+  arXiv (2025-11-13)  
+  https://arxiv.org/abs/2511.10447v1
+
+- **2D Addressable Mid-infrared Metasurface Spatial Light Modulator**  
+  arXiv (2025-11-05)  
+  https://arxiv.org/abs/2511.03583v1
+
+- **Enhancing Geological Workflows with AI Assisted Applications**  
+   (2025-11-03)  
+  https://doi.org/https://doi.org/10.2118/229349-ms
+
+- **Increased Voltage in CdSe Solar Cells by Mitigation of Charge Carrier Trapping Due to Se Vacancies**  
+  Advanced Materials Technologies (2025-10-30)  
+  https://doi.org/https://doi.org/10.1002/admt.202501967
+
+- **Nonmonotonic Band Flattening near the Magic Angle of Twisted Bilayer <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>MoTe</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> </mml:math>**  
+  Physical Review X (2025-10-29)  
+  https://doi.org/https://doi.org/10.1103/q11l-9jy1
+
+- **Super-Moiré Spin Textures in Twisted Antiferromagnets**  
+  arXiv (2025-10-29)  
+  https://arxiv.org/abs/2510.25545v1
+
+- **Achieving Constant-Envelope Waveform in CP-OFDMA Framework**  
+  arXiv (2025-10-28)  
+  https://arxiv.org/abs/2510.24350v1
+
+- **A Luminance-Aware Multi-Scale Network for Polarization Image Fusion with a Multi-Scene Dataset**  
+  arXiv (2025-10-28)  
+  https://arxiv.org/abs/2510.24379v1
+
+- **Size-Dependent Optical Gaps in Metal-Organic Framework Nanoparticles**  
+   (2025-10-23)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-42x1t-v2
+
+- **Non-volatile tuning of cryogenic silicon photonic micro-ring modulators**  
+  Nature Communications (2025-10-21)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-64126-2
+
+- **Non-volatile tuning of cryogenic silicon photonic micro-ring modulators**  
+  Nature Communications (2025-10-21)  
+  https://doi.org/10.1038/s41467-025-64126-2
+
+- **QuGStep: Refining step size selection in gradient estimation for variational quantum algorithms**  
+  APL Computational Physics (2025-10-20)  
+  https://doi.org/https://doi.org/10.1063/5.0287269
 
 - **QuGStep: Refining step size selection in gradient estimation for variational quantum algorithms**  
   APL Computational Physics (2025-10-20)  
@@ -37,6 +139,14 @@
   Crossref (2025-10-10)  
   https://doi.org/10.26434/chemrxiv-2025-j86q4
 
+- **Iterative coherence factor (iCF) beamforming method for ultrasound-based nondestructive testing**  
+  Ultrasonics (2025-10-10)  
+  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107841
+
+- **A Meta-Complexity Characterization of Minimal Quantum Cryptography**  
+  arXiv (Cornell University) (2025-10-09)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2510.07859
+
 - **A Meta-Complexity Characterization of Minimal Quantum Cryptography**  
   arXiv (2025-10-09)  
   https://arxiv.org/abs/2510.07859v1
@@ -48,6 +158,10 @@
 - **Deterministic Printing of Single Quantum Dots**  
   Advanced Materials (2025-10-08)  
   https://doi.org/10.1002/adma.202513707
+
+- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
+  Cell (2025-10-03)  
+  https://doi.org/https://doi.org/10.1016/j.cell.2025.09.024
 
 - **Meta-optical imaging at thermal wavelengths**  
   Journal of Physics Photonics (2025-10-02)  
@@ -69,14 +183,6 @@
   arXiv (2025-10-01)  
   https://arxiv.org/abs/2510.00381v1
 
-- **Iterative coherence factor (iCF) beamforming method for ultrasound-based nondestructive testing**  
-  Ultrasonics (2025-10-01)  
-  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107841
-
-- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
-  Cell (2025-10-01)  
-  https://doi.org/https://doi.org/10.1016/j.cell.2025.09.024
-
 - **Deep Reinforcement Learning for Distributed 5G Core Network Scheduling with Dynamic QoS/QoE Optimization**  
   Advances in transdisciplinary engineering (2025-10-01)  
   https://doi.org/https://doi.org/10.3233/atde250858
@@ -84,6 +190,10 @@
 - **Large-field-of-view narrowband light collection enabled by metasurfaces**  
   Applied Optics (2025-09-29)  
   https://doi.org/10.1364/ao.571628
+
+- **From recognition to defense: the multifaceted functions of PoPGRP-2 and PoPGRP-5 in Paralichthys olivaceus immunity**  
+  Aquaculture (2025-09-27)  
+  https://doi.org/https://doi.org/10.1016/j.aquaculture.2025.743252
 
 - **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
   Journal of the American Chemical Society (2025-09-26)  
@@ -93,13 +203,17 @@
   Journal of the American Chemical Society (2025-09-26)  
   https://doi.org/10.1021/jacs.5c09172
 
-- **Gradient-based multi-focus image fusion with focus-aware saliency   enhancement**  
+- **Gradient-based multi-focus image fusion with focus-aware saliency enhancement**  
   arXiv (2025-09-26)  
   https://arxiv.org/abs/2509.22392v1
 
 - **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
   Physical Review Letters (2025-09-23)  
   https://doi.org/10.1103/v4x6-2dzs
+
+- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
+  Cell (2025-09-22)  
+  https://doi.org/https://doi.org/10.1016/j.cell.2025.08.035
 
 - **Meta-optical Miniscope for Multifunctional Imaging**  
   arXiv (Cornell University) (2025-09-19)  
@@ -117,25 +231,29 @@
   ACS Nano (2025-09-17)  
   https://doi.org/10.1021/acsnano.5c12652
 
-- **NDLPNet: A Location-Aware Nighttime Deraining Network and a Real-World   Benchmark Dataset**  
+- **NDLPNet: A Location-Aware Nighttime Deraining Network and a Real-World Benchmark Dataset**  
   arXiv (2025-09-17)  
   https://arxiv.org/abs/2509.13766v1
-
-- **Tunable free-space optics via phase change materials**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3057053
-
-- **Million-event, single-pulse arbitrary access of PCM-silicon photonic devices**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3066151
 
 - **Nonvolatile programmable Mach-Zehnder meshes**  
    (2025-09-16)  
   https://doi.org/https://doi.org/10.1117/12.3066154
 
-- **Towards Native AI in 6G Standardization: The Roadmap of Semantic   Communication**  
+- **Million-event, single-pulse arbitrary access of PCM-silicon photonic devices**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3066151
+
+- **Tunable free-space optics via phase change materials**  
+   (2025-09-16)  
+  https://doi.org/https://doi.org/10.1117/12.3057053
+
+- **Towards Native AI in 6G Standardization: The Roadmap of Semantic Communication**  
   arXiv (2025-09-16)  
   https://arxiv.org/abs/2509.12758v1
+
+- **Unveiling PoPFP: A short-chain pentraxin involving antibacterial immunity in marine teleost**  
+  International Journal of Biological Macromolecules (2025-09-15)  
+  https://doi.org/https://doi.org/10.1016/j.ijbiomac.2025.147703
 
 - **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
   Science Advances (2025-09-12)  
@@ -145,11 +263,11 @@
   arXiv (2025-09-11)  
   https://arxiv.org/abs/2509.09080v1
 
-- **FlexiD-Fuse: Flexible number of inputs multi-modal medical image fusion   based on diffusion model**  
+- **FlexiD-Fuse: Flexible number of inputs multi-modal medical image fusion based on diffusion model**  
   arXiv (2025-09-11)  
   https://arxiv.org/abs/2509.09456v1
 
-- **FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal   image fusion and super-resolution**  
+- **FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**  
   arXiv (2025-09-11)  
   https://arxiv.org/abs/2509.09427v1
 
@@ -165,11 +283,11 @@
   Chemistry of Materials (2025-09-10)  
   https://doi.org/10.1021/acs.chemmater.5c01576
 
-- **Non-monotonic band flattening near the magic angle of twisted bilayer   MoTe$_2$**  
+- **Non-monotonic band flattening near the magic angle of twisted bilayer MoTe$_2$**  
   arXiv (2025-09-10)  
   https://arxiv.org/abs/2509.08993v1
 
-- **Knowledge Distillation Driven Semantic NOMA for Image Transmission with   Diffusion Model**  
+- **Knowledge Distillation Driven Semantic NOMA for Image Transmission with Diffusion Model**  
   arXiv (2025-09-09)  
   https://arxiv.org/abs/2509.07363v1
 
@@ -180,223 +298,3 @@
 - **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
   The Journal of Chemical Physics (2025-09-09)  
   https://doi.org/10.1063/5.0278675
-
-- **Large Field of View Narrowband Light Collection Enabled by Metasurfaces**  
-  Applied Optics (2025-09-08)  
-  https://doi.org/https://doi.org/10.1364/ao.571628
-
-- **Compact broadband thermal absorbers based on plasmonic fractal metasurfaces**  
-  Optics Letters (2025-09-08)  
-  https://doi.org/10.1364/ol.571991
-
-- **An excellent-performance electrocatalyst in oxygen reduction reaction: Pt anchored on a bulk-engineered black titania synthesized by nitrogen gliding arc plasma**  
-  Chemical Engineering Journal (2025-09-07)  
-  https://doi.org/https://doi.org/10.1016/j.cej.2025.168027
-
-- **SemSteDiff: Generative Diffusion Model-based Coverless Semantic   Steganography Communication**  
-  arXiv (2025-09-05)  
-  https://arxiv.org/abs/2509.04803v1
-
-- **KGRAG-SC: Knowledge Graph RAG-Assisted Semantic Communication**  
-  arXiv (2025-09-05)  
-  https://arxiv.org/abs/2509.04801v1
-
-- **SREC: Encrypted Semantic Super-Resolution Enhanced Communication**  
-  arXiv (2025-09-05)  
-  https://arxiv.org/abs/2509.04787v1
-
-- **Prospects of Nanoscience with Nanocrystals: 2025 Edition**  
-  ACS Nano (2025-09-03)  
-  https://doi.org/https://doi.org/10.1021/acsnano.5c07838
-
-- **Prospects of Nanoscience with Nanocrystals: 2025 Edition**  
-  ACS Nano (2025-09-03)  
-  https://doi.org/10.1021/acsnano.5c07838
-
-- **Free-space optical encoder for computer vision**  
-  Deleted Journal (2025-09-02)  
-  https://doi.org/https://doi.org/10.1038/s44310-025-00082-5
-
-- **Electrically reconfigurable nonvolatile transmissive metasurface in   visible**  
-  arXiv (2025-09-02)  
-  https://arxiv.org/abs/2509.02748v1
-
-- **Know What, Know Why: Semantic Hazard Communication for Intelligent V2X   Systems**  
-  arXiv (2025-09-02)  
-  https://arxiv.org/abs/2509.02442v1
-
-- **The curious case of "XOR repetition" of monogamy-of-entanglement games**  
-  arXiv (2025-09-01)  
-  https://arxiv.org/abs/2509.01831v1
-
-- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
-  Nano Letters (2025-09-01)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c03023
-
-- **Electrically Reconfigurable Nonvolatile Flatband Absorbers in the Mid-Infrared with Wide Spectral Tuning Range**  
-  Nano Letters (2025-09-01)  
-  https://doi.org/10.1021/acs.nanolett.5c03023
-
-- **Unveiling PoPFP: A short-chain pentraxin involving antibacterial immunity in marine teleost**  
-  International Journal of Biological Macromolecules (2025-09-01)  
-  https://doi.org/https://doi.org/10.1016/j.ijbiomac.2025.147703
-
-- **From recognition to defense: the multifaceted functions of PoPGRP-2 and PoPGRP-5 in Paralichthys olivaceus immunity**  
-  Aquaculture (2025-09-01)  
-  https://doi.org/https://doi.org/10.1016/j.aquaculture.2025.743252
-
-- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
-  Cell (2025-09-01)  
-  https://doi.org/https://doi.org/10.1016/j.cell.2025.08.035
-
-- **What is Computational Physics?**  
-   (2025-09-01)  
-  https://doi.org/https://doi.org/10.1063/5.0297896
-
-- **What is Computational Physics?**  
-  APL Computational Physics (2025-09-01)  
-  https://doi.org/10.1063/5.0297896
-
-- **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
-  Physical Review Letters (2025-08-28)  
-  https://doi.org/https://doi.org/10.1103/v4x6-2dzs
-
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
-  arXiv (Cornell University) (2025-08-28)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2508.20329
-
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix   Engineering**  
-  arXiv (2025-08-28)  
-  https://arxiv.org/abs/2508.20329v1
-
-- **Magnetoelectric Control of Helical Light Emission in a Moiré Chern Magnet**  
-  Physical Review X (2025-08-27)  
-  https://doi.org/10.1103/ds5p-763x
-
-- **Optical control over topological Chern number in moiré materials**  
-  arXiv (2025-08-26)  
-  https://arxiv.org/abs/2508.19063v1
-
-- **Optical Control of Integer and Fractional Chern Insulators**  
-  arXiv (2025-08-26)  
-  https://arxiv.org/abs/2508.18639v1
-
-- **AWM-Fuse: Multi-Modality Image Fusion for Adverse Weather via Global and   Local Text Perception**  
-  arXiv (2025-08-23)  
-  https://arxiv.org/abs/2508.16881v1
-
-- **Way to Build Native AI-driven 6G Air Interface: Principles, Roadmap, and   Outlook**  
-  arXiv (2025-08-21)  
-  https://arxiv.org/abs/2508.15277v1
-
-- **Size-Dependent Band Gaps in Metal-Organic Framework Nanoparticles**  
-   (2025-08-19)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-42x1t
-
-- **Tuning Nitrate Electroreduction Selectivity via Doping of Nickel Phosphide Nanocrystals**  
-  ACS Applied Nano Materials (2025-08-15)  
-  https://doi.org/https://doi.org/10.1021/acsanm.5c02823
-
-- **Tuning Nitrate Electroreduction Selectivity via Doping of Nickel Phosphide Nanocrystals**  
-  ACS Applied Nano Materials (2025-08-15)  
-  https://doi.org/10.1021/acsanm.5c02823
-
-- **Importance-Aware Robust Semantic Transmission for LEO Satellite-Ground   Communication**  
-  arXiv (2025-08-15)  
-  https://arxiv.org/abs/2508.11457v1
-
-- **Important Bit Prefix M-ary Quadrature Amplitude Modulation for Semantic   Communications**  
-  arXiv (2025-08-15)  
-  https://arxiv.org/abs/2508.11351v1
-
-- **CSGO: Generalized Optimization for Cold Start in Wireless Collaborative   Edge LLM Systems**  
-  arXiv (2025-08-15)  
-  https://arxiv.org/abs/2508.11287v1
-
-- **Compact broadband thermal absorbers based on plasmonic fractal metasurfaces**  
-  Optics Letters (2025-08-14)  
-  https://doi.org/https://doi.org/10.1364/ol.571991
-
-- **VQ-VAE Based Digital Semantic Communication with Importance-Aware OFDM   Transmission**  
-  arXiv (2025-08-12)  
-  https://arxiv.org/abs/2508.08686v1
-
-- **Neural Tangent Knowledge Distillation for Optical Convolutional Networks**  
-  arXiv (2025-08-11)  
-  https://arxiv.org/abs/2508.08421v1
-
-- **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
-  Nature Physics (2025-08-11)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-02997-4
-
-- **Strongly interacting Hofstadter states in magic-angle twisted bilayer graphene**  
-  Nature Physics (2025-08-11)  
-  https://doi.org/10.1038/s41567-025-02997-4
-
-- **MambaTrans: Multimodal Fusion Image Translation via Large Language Model   Priors for Downstream Visual Tasks**  
-  arXiv (2025-08-11)  
-  https://arxiv.org/abs/2508.07803v1
-
-- **Physical Layer Authentication Based on Hierarchical Variational   Auto-Encoder for Industrial Internet of Things**  
-  arXiv (2025-08-09)  
-  https://arxiv.org/abs/2508.06794v1
-
-- **Phase-Biased Andreev Diffraction Grating**  
-  Physical Review Letters (2025-08-06)  
-  https://doi.org/10.1103/d4kk-sgmh
-
-- **Mixed Precision Photonic Computing with 3D Electronic-Photonic   Integrated Circuits**  
-  arXiv (2025-08-05)  
-  https://arxiv.org/abs/2508.03063v1
-
-- **Electronic ordering driven by flat band nesting in a van der Waals   magnet Fe5GeTe2**  
-  arXiv (2025-08-05)  
-  https://arxiv.org/abs/2508.03116v1
-
-- **Dichotomy of flat bands in the van der Waals ferromagnet Fe$_5$GeTe$_2$**  
-  arXiv (2025-08-05)  
-  https://arxiv.org/abs/2508.03029v2
-
-- **Conquering High Packet-Loss Erasure: MoE Swin Transformer-Based Video   Semantic Communication**  
-  arXiv (2025-08-02)  
-  https://arxiv.org/abs/2508.01205v1
-
-- **VQ-DeepISC: Vector Quantized-Enabled Digital Semantic Communication with   Channel Adaptive Image Transmission**  
-  arXiv (2025-08-01)  
-  https://arxiv.org/abs/2508.03740v1
-
-- **Scalable Ion Fluorescence Collection Using a Trap-Integrated Metalens**  
-  arXiv (2025-07-30)  
-  https://arxiv.org/abs/2507.23071v2
-
-- **Universal Magnetic Phases in Twisted Bilayer MoTe$_2$**  
-  arXiv (2025-07-30)  
-  https://arxiv.org/abs/2507.22354v1
-
-- **Collaborative On-Sensor Array Cameras**  
-  ACM Transactions on Graphics (2025-07-26)  
-  https://doi.org/https://doi.org/10.1145/3731200
-
-- **Collaborative On-Sensor Array Cameras**  
-  ACM Transactions on Graphics (2025-07-26)  
-  https://doi.org/10.1145/3731200
-
-- **Is cooperative always better? Multi-Agent Reinforcement Learning with explicit neighborhood backtracking for network-wide traffic signal control**  
-  Transportation Research Part C Emerging Technologies (2025-07-25)  
-  https://doi.org/https://doi.org/10.1016/j.trc.2025.105265
-
-- **Roadmap for Photonics with 2D Materials**  
-  ACS Photonics (2025-07-24)  
-  https://doi.org/10.1021/acsphotonics.5c00353
-
-- **Expanding Parameter Space to Enable Low Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
-   (2025-07-23)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-23m9h
-
-- **Expanding Parameter Space to Enable Low Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
-  Crossref (2025-07-23)  
-  https://doi.org/10.26434/chemrxiv-2025-23m9h
-
-- **Generative Diffusion Models for Wireless Networks: Fundamental,   Architecture, and State-of-the-Art**  
-  arXiv (2025-07-22)  
-  https://arxiv.org/abs/2507.16733v1
