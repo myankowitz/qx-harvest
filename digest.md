@@ -1,5 +1,43 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-12-08*
+*generated 2025-12-15*
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+   (2025-12-12)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-nv8rg
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+  Crossref (2025-12-12)  
+  https://doi.org/10.26434/chemrxiv-2025-nv8rg
+
+- **Single-Determinant Ground State in Ce <sup>4+</sup> Imidophosphorane Complexes**  
+  Inorganic Chemistry (2025-12-11)  
+  https://doi.org/https://doi.org/10.1021/acs.inorgchem.5c03376
+
+- **Single-Determinant Ground State in Ce
+                    <sup>4+</sup>
+                    Imidophosphorane Complexes**  
+  Inorganic Chemistry (2025-12-11)  
+  https://doi.org/10.1021/acs.inorgchem.5c03376
+
+- **Numerically exact configuration interaction at quadrillion-determinant scale**  
+  Nature Communications (2025-12-10)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-65967-7
+
+- **Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap**  
+  Inorganic Chemistry (2025-12-10)  
+  https://doi.org/https://doi.org/10.1021/acs.inorgchem.5c04290
+
+- **Numerically exact configuration interaction at quadrillion-determinant scale**  
+  Nature Communications (2025-12-10)  
+  https://doi.org/10.1038/s41467-025-65967-7
+
+- **Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap**  
+  Inorganic Chemistry (2025-12-10)  
+  https://doi.org/10.1021/acs.inorgchem.5c04290
+
+- **Applicability of Metalenses for Generalizable Computer Vision**  
+  arXiv (2025-12-08)  
+  https://arxiv.org/abs/2512.08109v1
 
 - **Nonmonotonic Band Flattening near the Magic Angle of Twisted Bilayer
                     <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline">
@@ -70,6 +108,10 @@
 - **Enhancing Geological Workflows with AI Assisted Applications**  
    (2025-11-03)  
   https://doi.org/https://doi.org/10.2118/229349-ms
+
+- **The anomalous magnetic moment of the muon in the Standard Model: an update**  
+  Physics Reports (2025-11-01)  
+  https://doi.org/10.1016/j.physrep.2025.08.002
 
 - **Increased Voltage in CdSe Solar Cells by Mitigation of Charge Carrier Trapping Due to Se Vacancies**  
   Advanced Materials Technologies (2025-10-30)  
@@ -221,7 +263,7 @@
 
 - **Meta-optical Miniscope for Multifunctional Imaging**  
   arXiv (2025-09-19)  
-  https://arxiv.org/abs/2509.16373v1
+  https://arxiv.org/abs/2509.16373v2
 
 - **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
   ACS Nano (2025-09-17)  
@@ -250,51 +292,3 @@
 - **Towards Native AI in 6G Standardization: The Roadmap of Semantic Communication**  
   arXiv (2025-09-16)  
   https://arxiv.org/abs/2509.12758v1
-
-- **Unveiling PoPFP: A short-chain pentraxin involving antibacterial immunity in marine teleost**  
-  International Journal of Biological Macromolecules (2025-09-15)  
-  https://doi.org/https://doi.org/10.1016/j.ijbiomac.2025.147703
-
-- **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
-  Science Advances (2025-09-12)  
-  https://doi.org/10.1126/sciadv.adx6485
-
-- **Visualizing Electronic Structure of Twisted Bilayer MoTe2 in Devices**  
-  arXiv (2025-09-11)  
-  https://arxiv.org/abs/2509.09080v1
-
-- **FlexiD-Fuse: Flexible number of inputs multi-modal medical image fusion based on diffusion model**  
-  arXiv (2025-09-11)  
-  https://arxiv.org/abs/2509.09456v1
-
-- **FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**  
-  arXiv (2025-09-11)  
-  https://arxiv.org/abs/2509.09427v1
-
-- **Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator**  
-  Science Advances (2025-09-10)  
-  https://doi.org/https://doi.org/10.1126/sciadv.adx6485
-
-- **Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters**  
-  Chemistry of Materials (2025-09-10)  
-  https://doi.org/https://doi.org/10.1021/acs.chemmater.5c01576
-
-- **Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters**  
-  Chemistry of Materials (2025-09-10)  
-  https://doi.org/10.1021/acs.chemmater.5c01576
-
-- **Non-monotonic band flattening near the magic angle of twisted bilayer MoTe$_2$**  
-  arXiv (2025-09-10)  
-  https://arxiv.org/abs/2509.08993v1
-
-- **Knowledge Distillation Driven Semantic NOMA for Image Transmission with Diffusion Model**  
-  arXiv (2025-09-09)  
-  https://arxiv.org/abs/2509.07363v1
-
-- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
-  The Journal of Chemical Physics (2025-09-09)  
-  https://doi.org/https://doi.org/10.1063/5.0278675
-
-- **Relativistic two-component double ionization potential equation-of-motion coupled cluster with the Dirac–Coulomb–Breit Hamiltonian**  
-  The Journal of Chemical Physics (2025-09-09)  
-  https://doi.org/10.1063/5.0278675
