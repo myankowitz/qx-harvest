@@ -1,5 +1,30 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-12-15*
+*generated 2025-12-22*
+
+- **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
+  IEEE Transactions on Quantum Engineering (2026-01-01)  
+  https://doi.org/10.1109/tqe.2025.3632540
+
+- **Highly coherent organic lasing based on etch-free metasurface**  
+  Nature Communications (2025-12-19)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-67628-1
+
+- **Highly coherent organic lasing based on etch-free metasurface**  
+  Nature Communications (2025-12-19)  
+  https://doi.org/10.1038/s41467-025-67628-1
+
+- **Universal Magnetic Phases in Twisted Bilayer MoTe <sub>2</sub>**  
+  Nano Letters (2025-12-18)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04751
+
+- **Universal Magnetic Phases in Twisted Bilayer MoTe
+                    <sub>2</sub>**  
+  Nano Letters (2025-12-18)  
+  https://doi.org/10.1021/acs.nanolett.5c04751
+
+- **Driving the field-free Josephson diode effect using Kagome Mott insulator barriers**  
+  arXiv (2025-12-18)  
+  https://arxiv.org/abs/2512.17099v1
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
    (2025-12-12)  
@@ -59,6 +84,14 @@
   ACS Nanoscience Au (2025-12-04)  
   https://doi.org/10.1021/acsnanoscienceau.5c00121
 
+- **Interview with Professor Yi-Qin Gao**  
+  APL Computational Physics (2025-12-01)  
+  https://doi.org/https://doi.org/10.1063/5.0315249
+
+- **Interview with Professor Yi-Qin Gao**  
+  APL Computational Physics (2025-12-01)  
+  https://doi.org/10.1063/5.0315249
+
 - **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
   Journal of the American Chemical Society (2025-11-30)  
   https://doi.org/https://doi.org/10.1021/jacs.5c18410
@@ -92,6 +125,10 @@
 - **Text-Guided Channel Perturbation and Pretrained Knowledge Integration for Unified Multi-Modality Image Fusion**  
   arXiv (2025-11-16)  
   https://arxiv.org/abs/2511.12432v1
+
+- **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
+  IEEE Transactions on Quantum Engineering (2025-11-14)  
+  https://doi.org/https://doi.org/10.1109/tqe.2025.3632540
 
 - **Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**  
   arXiv (2025-11-14)  
@@ -252,43 +289,3 @@
 - **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
   Physical Review Letters (2025-09-23)  
   https://doi.org/10.1103/v4x6-2dzs
-
-- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
-  Cell (2025-09-22)  
-  https://doi.org/https://doi.org/10.1016/j.cell.2025.08.035
-
-- **Meta-optical Miniscope for Multifunctional Imaging**  
-  arXiv (Cornell University) (2025-09-19)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2509.16373
-
-- **Meta-optical Miniscope for Multifunctional Imaging**  
-  arXiv (2025-09-19)  
-  https://arxiv.org/abs/2509.16373v2
-
-- **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
-  ACS Nano (2025-09-17)  
-  https://doi.org/https://doi.org/10.1021/acsnano.5c12652
-
-- **Expanding Parameter Space to Enable Low-Temperature Synthesis of Crystalline Indium Phosphide Quantum Dots**  
-  ACS Nano (2025-09-17)  
-  https://doi.org/10.1021/acsnano.5c12652
-
-- **NDLPNet: A Location-Aware Nighttime Deraining Network and a Real-World Benchmark Dataset**  
-  arXiv (2025-09-17)  
-  https://arxiv.org/abs/2509.13766v1
-
-- **Nonvolatile programmable Mach-Zehnder meshes**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3066154
-
-- **Million-event, single-pulse arbitrary access of PCM-silicon photonic devices**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3066151
-
-- **Tunable free-space optics via phase change materials**  
-   (2025-09-16)  
-  https://doi.org/https://doi.org/10.1117/12.3057053
-
-- **Towards Native AI in 6G Standardization: The Roadmap of Semantic Communication**  
-  arXiv (2025-09-16)  
-  https://arxiv.org/abs/2509.12758v1
