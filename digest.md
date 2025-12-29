@@ -1,9 +1,53 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-12-22*
+*generated 2025-12-29*
 
 - **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
   IEEE Transactions on Quantum Engineering (2026-01-01)  
   https://doi.org/10.1109/tqe.2025.3632540
+
+- **Reversible Polymorph Switching in IV–VI Thin Films with Epitaxial Control and Birefringence Contrast**  
+  Nano Letters (2025-12-26)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04974
+
+- **Reversible Polymorph Switching in IV–VI Thin Films with Epitaxial Control and Birefringence Contrast**  
+  Nano Letters (2025-12-26)  
+  https://doi.org/10.1021/acs.nanolett.5c04974
+
+- **Semantic Radio Access Networks: Architecture, State-of-the-Art, and Future Directions**  
+  arXiv (2025-12-24)  
+  https://arxiv.org/abs/2512.20917v1
+
+- **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
+  The Journal of Physical Chemistry A (2025-12-23)  
+  https://doi.org/https://doi.org/10.1021/acs.jpca.5c06077
+
+- **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
+  The Journal of Physical Chemistry A (2025-12-23)  
+  https://doi.org/10.1021/acs.jpca.5c06077
+
+- **Hardware-aware and Resource-efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
+  arXiv (Cornell University) (2025-12-23)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2512.20554
+
+- **Hardware-aware and Resource-efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
+  arXiv (2025-12-23)  
+  https://arxiv.org/abs/2512.20554v2
+
+- **JDPNet: A Network Based on Joint Degradation Processing for Underwater Image Enhancement**  
+  arXiv (2025-12-23)  
+  https://arxiv.org/abs/2512.20213v1
+
+- **Fractional Quantum Anomalous Hall Effect**  
+  Annual Review of Condensed Matter Physics (2025-12-22)  
+  https://doi.org/https://doi.org/10.1146/annurev-conmatphys-031524-071133
+
+- **Geometric Muon g-2 in the Aether Physics Model (APM): Torsion Closure and a Casimir Sidereal-Drift Test**  
+  arXiv (Cornell University) (2025-12-20)  
+  https://doi.org/https://doi.org/10.5281/zenodo.18009178
+
+- **Towards Efficient Agents: A Co-Design of Inference Architecture and System**  
+  arXiv (2025-12-20)  
+  https://arxiv.org/abs/2512.18337v1
 
 - **Highly coherent organic lasing based on etch-free metasurface**  
   Nature Communications (2025-12-19)  
@@ -12,6 +56,14 @@
 - **Highly coherent organic lasing based on etch-free metasurface**  
   Nature Communications (2025-12-19)  
   https://doi.org/10.1038/s41467-025-67628-1
+
+- **The anomalous magnetic moment of the muon: status and perspectives**  
+  arXiv (Cornell University) (2025-12-18)  
+  https://doi.org/https://doi.org/10.1146/annurev-nucl-102422-040841
+
+- **The anomalous magnetic moment of the muon: status and perspectives**  
+  arXiv (Cornell University) (2025-12-18)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2512.16980
 
 - **Universal Magnetic Phases in Twisted Bilayer MoTe <sub>2</sub>**  
   Nano Letters (2025-12-18)  
@@ -83,6 +135,10 @@
 - **Supramolecular Effects of Alkyl Sulfonates in Silver Nanocrystal Synthesis**  
   ACS Nanoscience Au (2025-12-04)  
   https://doi.org/10.1021/acsnanoscienceau.5c00121
+
+- **The emerging applications of silicon photonics**  
+  Newton (2025-12-01)  
+  https://doi.org/https://doi.org/10.1016/j.newton.2025.100357
 
 - **Interview with Professor Yi-Qin Gao**  
   APL Computational Physics (2025-12-01)  
@@ -265,27 +321,3 @@
 - **Deep Reinforcement Learning for Distributed 5G Core Network Scheduling with Dynamic QoS/QoE Optimization**  
   Advances in transdisciplinary engineering (2025-10-01)  
   https://doi.org/https://doi.org/10.3233/atde250858
-
-- **Large-field-of-view narrowband light collection enabled by metasurfaces**  
-  Applied Optics (2025-09-29)  
-  https://doi.org/10.1364/ao.571628
-
-- **From recognition to defense: the multifaceted functions of PoPGRP-2 and PoPGRP-5 in Paralichthys olivaceus immunity**  
-  Aquaculture (2025-09-27)  
-  https://doi.org/https://doi.org/10.1016/j.aquaculture.2025.743252
-
-- **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
-  Journal of the American Chemical Society (2025-09-26)  
-  https://doi.org/https://doi.org/10.1021/jacs.5c09172
-
-- **Fusion Deep Learning for Predicting Conductivity in Electron-Doped Organic Polymers**  
-  Journal of the American Chemical Society (2025-09-26)  
-  https://doi.org/10.1021/jacs.5c09172
-
-- **Gradient-based multi-focus image fusion with focus-aware saliency enhancement**  
-  arXiv (2025-09-26)  
-  https://arxiv.org/abs/2509.22392v1
-
-- **Quantum-Optimal Frequency Estimation of Stochastic ac Fields**  
-  Physical Review Letters (2025-09-23)  
-  https://doi.org/10.1103/v4x6-2dzs
