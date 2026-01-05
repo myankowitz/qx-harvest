@@ -1,9 +1,17 @@
 # Quantum X – new papers (last 90 days)
-*generated 2025-12-29*
+*generated 2026-01-05*
 
 - **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
   IEEE Transactions on Quantum Engineering (2026-01-01)  
   https://doi.org/10.1109/tqe.2025.3632540
+
+- **Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**  
+  arXiv (2025-12-29)  
+  https://arxiv.org/abs/2512.23294v1
+
+- **Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission**  
+  arXiv (2025-12-27)  
+  https://arxiv.org/abs/2512.22693v1
 
 - **Reversible Polymorph Switching in IV–VI Thin Films with Epitaxial Control and Birefringence Contrast**  
   Nano Letters (2025-12-26)  
@@ -293,31 +301,3 @@
 - **Deterministic Printing of Single Quantum Dots**  
   Advanced Materials (2025-10-08)  
   https://doi.org/10.1002/adma.202513707
-
-- **Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains**  
-  Cell (2025-10-03)  
-  https://doi.org/https://doi.org/10.1016/j.cell.2025.09.024
-
-- **Meta-optical imaging at thermal wavelengths**  
-  Journal of Physics Photonics (2025-10-02)  
-  https://doi.org/https://doi.org/10.1088/2515-7647/ae0ee4
-
-- **Meta-optical imaging at thermal wavelengths**  
-  Journal of Physics: Photonics (2025-10-02)  
-  https://doi.org/10.1088/2515-7647/ae0ee4
-
-- **Simulation of vibronic strong coupling and cavity-modified hydrogen tunneling dynamics**  
-  The Journal of Chemical Physics (2025-10-02)  
-  https://doi.org/https://doi.org/10.1063/5.0286132
-
-- **Simulation of vibronic strong coupling and cavity-modified hydrogen tunneling dynamics**  
-  The Journal of Chemical Physics (2025-10-02)  
-  https://doi.org/10.1063/5.0286132
-
-- **Semantic-Driven AI Agent Communications: Challenges and Solutions**  
-  arXiv (2025-10-01)  
-  https://arxiv.org/abs/2510.00381v1
-
-- **Deep Reinforcement Learning for Distributed 5G Core Network Scheduling with Dynamic QoS/QoE Optimization**  
-  Advances in transdisciplinary engineering (2025-10-01)  
-  https://doi.org/https://doi.org/10.3233/atde250858
