@@ -1,9 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-01-05*
+*generated 2026-01-12*
+
+- **Bilayer Metasurfaces for Angular Control of Light**  
+  Laser & Photonics Review (2026-01-07)  
+  https://doi.org/https://doi.org/10.1002/lpor.202502168
+
+- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
+  Nature Physics (2026-01-06)  
+  https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
+
+- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
+  Nature Physics (2026-01-06)  
+  https://doi.org/10.1038/s41567-025-03117-y
+
+- **Relativistic core–valence-separated molecular mean-field exact-two-component equation-of-motion coupled cluster theory: Applications to L-edge x-ray absorption spectroscopy**  
+  APL Computational Physics (2026-01-06)  
+  https://doi.org/10.1063/5.0284813
 
 - **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
   IEEE Transactions on Quantum Engineering (2026-01-01)  
   https://doi.org/10.1109/tqe.2025.3632540
+
+- **Emulating Biological Synapses with Solution-Processed Ca-CuI Transistors: A Route to Low-Voltage Neuromorphic Hardware**  
+  IEEE Electron Device Letters (2026-01-01)  
+  https://doi.org/https://doi.org/10.1109/led.2025.3649619
 
 - **Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**  
   arXiv (2025-12-29)  
@@ -21,17 +41,17 @@
   Nano Letters (2025-12-26)  
   https://doi.org/10.1021/acs.nanolett.5c04974
 
-- **Semantic Radio Access Networks: Architecture, State-of-the-Art, and Future Directions**  
-  arXiv (2025-12-24)  
-  https://arxiv.org/abs/2512.20917v1
-
 - **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
-  The Journal of Physical Chemistry A (2025-12-23)  
+  The Journal of Physical Chemistry A (2025-12-24)  
   https://doi.org/https://doi.org/10.1021/acs.jpca.5c06077
 
 - **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
-  The Journal of Physical Chemistry A (2025-12-23)  
+  The Journal of Physical Chemistry A (2025-12-24)  
   https://doi.org/10.1021/acs.jpca.5c06077
+
+- **Semantic Radio Access Networks: Architecture, State-of-the-Art, and Future Directions**  
+  arXiv (2025-12-24)  
+  https://arxiv.org/abs/2512.20917v1
 
 - **Hardware-aware and Resource-efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
   arXiv (Cornell University) (2025-12-23)  
@@ -45,13 +65,13 @@
   arXiv (2025-12-23)  
   https://arxiv.org/abs/2512.20213v1
 
+- **The emerging applications of silicon photonics**  
+  Newton (2025-12-22)  
+  https://doi.org/https://doi.org/10.1016/j.newton.2025.100357
+
 - **Fractional Quantum Anomalous Hall Effect**  
   Annual Review of Condensed Matter Physics (2025-12-22)  
   https://doi.org/https://doi.org/10.1146/annurev-conmatphys-031524-071133
-
-- **Geometric Muon g-2 in the Aether Physics Model (APM): Torsion Closure and a Casimir Sidereal-Drift Test**  
-  arXiv (Cornell University) (2025-12-20)  
-  https://doi.org/https://doi.org/10.5281/zenodo.18009178
 
 - **Towards Efficient Agents: A Co-Design of Inference Architecture and System**  
   arXiv (2025-12-20)  
@@ -76,11 +96,6 @@
 - **Universal Magnetic Phases in Twisted Bilayer MoTe <sub>2</sub>**  
   Nano Letters (2025-12-18)  
   https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04751
-
-- **Universal Magnetic Phases in Twisted Bilayer MoTe
-                    <sub>2</sub>**  
-  Nano Letters (2025-12-18)  
-  https://doi.org/10.1021/acs.nanolett.5c04751
 
 - **Driving the field-free Josephson diode effect using Kagome Mott insulator barriers**  
   arXiv (2025-12-18)  
@@ -144,10 +159,6 @@
   ACS Nanoscience Au (2025-12-04)  
   https://doi.org/10.1021/acsnanoscienceau.5c00121
 
-- **The emerging applications of silicon photonics**  
-  Newton (2025-12-01)  
-  https://doi.org/https://doi.org/10.1016/j.newton.2025.100357
-
 - **Interview with Professor Yi-Qin Gao**  
   APL Computational Physics (2025-12-01)  
   https://doi.org/https://doi.org/10.1063/5.0315249
@@ -170,6 +181,10 @@
 
 - **A golay metalens for long-range, large aperture, thermal imaging via sparse aperture computational imaging**  
   Nature Communications (2025-11-21)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-65188-y
+
+- **A golay metalens for long-range, large aperture, thermal imaging via sparse aperture computational imaging**  
+  Nature Communications (2025-11-21)  
   https://doi.org/10.1038/s41467-025-65188-y
 
 - **Automated <i>In Situ</i> Optimization and Disorder Mitigation in a Quantum Device**  
@@ -181,6 +196,10 @@
                     Optimization and Disorder Mitigation in a Quantum Device**  
   Physical Review Letters (2025-11-19)  
   https://doi.org/10.1103/13c4-p4fq
+
+- **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
+  Nature Communications (2025-11-18)  
+  https://doi.org/https://doi.org/10.1038/s41467-025-65088-1
 
 - **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
   Nature Communications (2025-11-18)  
@@ -197,6 +216,10 @@
 - **Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**  
   arXiv (2025-11-14)  
   https://arxiv.org/abs/2511.11236v2
+
+- **Wafer-scale conformal metasurface optics**  
+  arXiv (Cornell University) (2025-11-13)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2511.10447
 
 - **Wafer-scale conformal metasurface optics**  
   arXiv (2025-11-13)  
@@ -233,6 +256,10 @@
 - **A Luminance-Aware Multi-Scale Network for Polarization Image Fusion with a Multi-Scene Dataset**  
   arXiv (2025-10-28)  
   https://arxiv.org/abs/2510.24379v1
+
+- **Circuit Folding: Scalable and Graph-Based Circuit Cutting via Modular Structure Exploitation**  
+   (2025-10-26)  
+  https://doi.org/https://doi.org/10.1109/iccad66269.2025.11240933
 
 - **Size-Dependent Optical Gaps in Metal-Organic Framework Nanoparticles**  
    (2025-10-23)  
@@ -273,31 +300,3 @@
 - **Magnetocaloric Effect in a Microporous Material Using a Rare-Earth-Free, Hybrid Perovskite**  
   Journal of the American Chemical Society (2025-10-14)  
   https://doi.org/10.1021/jacs.5c11644
-
-- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
-   (2025-10-10)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-j86q4
-
-- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
-  Crossref (2025-10-10)  
-  https://doi.org/10.26434/chemrxiv-2025-j86q4
-
-- **Iterative coherence factor (iCF) beamforming method for ultrasound-based nondestructive testing**  
-  Ultrasonics (2025-10-10)  
-  https://doi.org/https://doi.org/10.1016/j.ultras.2025.107841
-
-- **A Meta-Complexity Characterization of Minimal Quantum Cryptography**  
-  arXiv (Cornell University) (2025-10-09)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2510.07859
-
-- **A Meta-Complexity Characterization of Minimal Quantum Cryptography**  
-  arXiv (2025-10-09)  
-  https://arxiv.org/abs/2510.07859v1
-
-- **Deterministic Printing of Single Quantum Dots**  
-  Advanced Materials (2025-10-08)  
-  https://doi.org/https://doi.org/10.1002/adma.202513707
-
-- **Deterministic Printing of Single Quantum Dots**  
-  Advanced Materials (2025-10-08)  
-  https://doi.org/10.1002/adma.202513707
