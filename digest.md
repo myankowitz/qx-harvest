@@ -1,17 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-01-12*
+*generated 2026-01-19*
+
+- **Regarding the existence of abelian fractional topological insulators in twisted MoTe2 and related systems**  
+  Communications Physics (2026-01-16)  
+  https://doi.org/https://doi.org/10.1038/s42005-025-02483-6
+
+- **Regarding the existence of abelian fractional topological insulators in twisted MoTe2 and related systems**  
+  Communications Physics (2026-01-16)  
+  https://doi.org/10.1038/s42005-025-02483-6
+
+- **Correction to “Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap”**  
+  Inorganic Chemistry (2026-01-16)  
+  https://doi.org/10.1021/acs.inorgchem.6c00059
 
 - **Bilayer Metasurfaces for Angular Control of Light**  
   Laser & Photonics Review (2026-01-07)  
   https://doi.org/https://doi.org/10.1002/lpor.202502168
-
-- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
-  Nature Physics (2026-01-06)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
-
-- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
-  Nature Physics (2026-01-06)  
-  https://doi.org/10.1038/s41567-025-03117-y
 
 - **Relativistic core–valence-separated molecular mean-field exact-two-component equation-of-motion coupled cluster theory: Applications to L-edge x-ray absorption spectroscopy**  
   APL Computational Physics (2026-01-06)  
@@ -21,9 +25,17 @@
   IEEE Transactions on Quantum Engineering (2026-01-01)  
   https://doi.org/10.1109/tqe.2025.3632540
 
+- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
+  Nature Physics (2026-01-01)  
+  https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
+
 - **Emulating Biological Synapses with Solution-Processed Ca-CuI Transistors: A Route to Low-Voltage Neuromorphic Hardware**  
   IEEE Electron Device Letters (2026-01-01)  
   https://doi.org/https://doi.org/10.1109/led.2025.3649619
+
+- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
+  Nature Physics (2026-01-01)  
+  https://doi.org/10.1038/s41567-025-03117-y
 
 - **Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**  
   arXiv (2025-12-29)  
@@ -96,6 +108,11 @@
 - **Universal Magnetic Phases in Twisted Bilayer MoTe <sub>2</sub>**  
   Nano Letters (2025-12-18)  
   https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04751
+
+- **Universal Magnetic Phases in Twisted Bilayer MoTe
+                    <sub>2</sub>**  
+  Nano Letters (2025-12-18)  
+  https://doi.org/10.1021/acs.nanolett.5c04751
 
 - **Driving the field-free Josephson diode effect using Kagome Mott insulator barriers**  
   arXiv (2025-12-18)  
@@ -272,31 +289,3 @@
 - **Non-volatile tuning of cryogenic silicon photonic micro-ring modulators**  
   Nature Communications (2025-10-21)  
   https://doi.org/10.1038/s41467-025-64126-2
-
-- **QuGStep: Refining step size selection in gradient estimation for variational quantum algorithms**  
-  APL Computational Physics (2025-10-20)  
-  https://doi.org/https://doi.org/10.1063/5.0287269
-
-- **QuGStep: Refining step size selection in gradient estimation for variational quantum algorithms**  
-  APL Computational Physics (2025-10-20)  
-  https://doi.org/10.1063/5.0287269
-
-- **Perspective on Many-Body Methods for Molecular Polaritonic Systems**  
-  Journal of Chemical Theory and Computation (2025-10-17)  
-  https://doi.org/https://doi.org/10.1021/acs.jctc.5c00801
-
-- **Perspective on Many-Body Methods for Molecular Polaritonic Systems**  
-  Journal of Chemical Theory and Computation (2025-10-17)  
-  https://doi.org/10.1021/acs.jctc.5c00801
-
-- **Qwen3Guard Technical Report**  
-  arXiv (2025-10-16)  
-  https://arxiv.org/abs/2510.14276v1
-
-- **Magnetocaloric Effect in a Microporous Material Using a Rare-Earth-Free, Hybrid Perovskite**  
-  Journal of the American Chemical Society (2025-10-14)  
-  https://doi.org/https://doi.org/10.1021/jacs.5c11644
-
-- **Magnetocaloric Effect in a Microporous Material Using a Rare-Earth-Free, Hybrid Perovskite**  
-  Journal of the American Chemical Society (2025-10-14)  
-  https://doi.org/10.1021/jacs.5c11644
