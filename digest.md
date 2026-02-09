@@ -1,5 +1,17 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-02-02*
+*generated 2026-02-09*
+
+- **Signatures of fractional charges via anyon–trions in twisted MoTe2**  
+  Nature (2026-02-04)  
+  https://doi.org/10.1038/s41586-026-10101-w
+
+- **Meta-optical imaging at thermal wavelengths**  
+  Journal of Physics: Photonics (2026-02-02)  
+  https://doi.org/10.1088/2515-7647/ae0ee4
+
+- **Zero-Shot Knowledge Base Resizing for Rate-Adaptive Digital Semantic Communication**  
+  arXiv (2026-02-02)  
+  https://arxiv.org/abs/2602.01829v1
 
 - **Observation of dissipationless fractional Chern insulator**  
   Nature Physics (2026-01-30)  
@@ -76,6 +88,10 @@
 - **Correction to “Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap”**  
   Inorganic Chemistry (2026-01-16)  
   https://doi.org/10.1021/acs.inorgchem.6c00059
+
+- **Chirality-driven magnetization emerges from relativistic four-current dynamics**  
+  APL Computational Physics (2026-01-14)  
+  https://doi.org/10.1063/5.0313445
 
 - **Bilayer Metasurfaces for Angular Control of Light**  
   Laser & Photonics Review (2026-01-07)  
@@ -309,7 +325,3 @@
 - **Wafer-scale conformal metasurface optics**  
   arXiv (2025-11-13)  
   https://arxiv.org/abs/2511.10447v1
-
-- **2D Addressable Mid-infrared Metasurface Spatial Light Modulator**  
-  arXiv (2025-11-05)  
-  https://arxiv.org/abs/2511.03583v1
