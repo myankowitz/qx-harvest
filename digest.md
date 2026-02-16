@@ -1,5 +1,33 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-02-09*
+*generated 2026-02-16*
+
+- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
+  arXiv (Cornell University) (2026-02-12)  
+  
+
+- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
+  arXiv (Cornell University) (2026-02-12)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2602.11616
+
+- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
+  arXiv (2026-02-12)  
+  https://arxiv.org/abs/2602.11616v1
+
+- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
+  ACS Nano (2026-02-11)  
+  https://doi.org/https://doi.org/10.1021/acsnano.5c17237
+
+- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
+  ACS Nano (2026-02-11)  
+  https://doi.org/10.1021/acsnano.5c17237
+
+- **Excitons in van der Waals magnetic materials**  
+  arXiv (2026-02-11)  
+  https://arxiv.org/abs/2602.10409v1
+
+- **DLLM Agent: See Farther, Run Faster**  
+  arXiv (2026-02-07)  
+  https://arxiv.org/abs/2602.07451v2
 
 - **Signatures of fractional charges via anyon–trions in twisted MoTe2**  
   Nature (2026-02-04)  
@@ -305,23 +333,3 @@
 - **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
   Nature Communications (2025-11-18)  
   https://doi.org/10.1038/s41467-025-65088-1
-
-- **Text-Guided Channel Perturbation and Pretrained Knowledge Integration for Unified Multi-Modality Image Fusion**  
-  arXiv (2025-11-16)  
-  https://arxiv.org/abs/2511.12432v1
-
-- **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
-  IEEE Transactions on Quantum Engineering (2025-11-14)  
-  https://doi.org/https://doi.org/10.1109/tqe.2025.3632540
-
-- **Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**  
-  arXiv (2025-11-14)  
-  https://arxiv.org/abs/2511.11236v3
-
-- **Wafer-scale conformal metasurface optics**  
-  arXiv (Cornell University) (2025-11-13)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2511.10447
-
-- **Wafer-scale conformal metasurface optics**  
-  arXiv (2025-11-13)  
-  https://arxiv.org/abs/2511.10447v1
