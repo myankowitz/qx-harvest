@@ -1,5 +1,17 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-02-16*
+*generated 2026-02-23*
+
+- **Convolutional Optical Encoders for Generalizable Image Compression**  
+  arXiv (2026-02-20)  
+  https://arxiv.org/abs/2602.18032v1
+
+- **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
+  arXiv (2026-02-19)  
+  https://arxiv.org/abs/2602.17582v1
+
+- **Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective**  
+  arXiv (2026-02-17)  
+  https://arxiv.org/abs/2602.15290v1
 
 - **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
   arXiv (Cornell University) (2026-02-12)  
@@ -28,6 +40,10 @@
 - **DLLM Agent: See Farther, Run Faster**  
   arXiv (2026-02-07)  
   https://arxiv.org/abs/2602.07451v2
+
+- **VQ-DSC-R: Robust Vector Quantized-Enabled Digital Semantic Communication With OFDM Transmission**  
+  arXiv (2026-02-05)  
+  https://arxiv.org/abs/2602.15045v1
 
 - **Signatures of fractional charges via anyon–trions in twisted MoTe2**  
   Nature (2026-02-04)  
@@ -303,33 +319,3 @@
 - **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
   Journal of the American Chemical Society (2025-11-30)  
   https://doi.org/10.1021/jacs.5c18410
-
-- **Z-Space: A Multi-Agent Tool Orchestration Framework for Enterprise-Grade LLM Automation**  
-  arXiv (2025-11-23)  
-  https://arxiv.org/abs/2511.19483v1
-
-- **A golay metalens for long-range, large aperture, thermal imaging via sparse aperture computational imaging**  
-  Nature Communications (2025-11-21)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-65188-y
-
-- **A golay metalens for long-range, large aperture, thermal imaging via sparse aperture computational imaging**  
-  Nature Communications (2025-11-21)  
-  https://doi.org/10.1038/s41467-025-65188-y
-
-- **Automated <i>In Situ</i> Optimization and Disorder Mitigation in a Quantum Device**  
-  Physical Review Letters (2025-11-19)  
-  https://doi.org/https://doi.org/10.1103/13c4-p4fq
-
-- **Automated
-                    <i>In Situ</i>
-                    Optimization and Disorder Mitigation in a Quantum Device**  
-  Physical Review Letters (2025-11-19)  
-  https://doi.org/10.1103/13c4-p4fq
-
-- **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
-  Nature Communications (2025-11-18)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-65088-1
-
-- **Free space few-photon nonlinearity in critically coupled polaritonic metasurfaces**  
-  Nature Communications (2025-11-18)  
-  https://doi.org/10.1038/s41467-025-65088-1
