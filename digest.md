@@ -1,5 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-02-23*
+*generated 2026-03-02*
+
+- **Moire Engineering of Cooper-Pair Density Modulation States**  
+  arXiv (2026-02-26)  
+  https://arxiv.org/abs/2602.22637v1
+
+- **Statistical analysis and inverse design of programmable photonic integrated circuits using a Python-interfaced simulation framework**  
+  Optics Continuum (2026-02-23)  
+  https://doi.org/https://doi.org/10.1364/optcon.588100
+
+- **Convolutional Optical Encoders for Generalizable Image Compression**  
+  arXiv (Cornell University) (2026-02-20)  
+  
+
+- **Convolutional Optical Encoders for Generalizable Image Compression**  
+  arXiv (Cornell University) (2026-02-20)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2602.18032
 
 - **Convolutional Optical Encoders for Generalizable Image Compression**  
   arXiv (2026-02-20)  
@@ -145,6 +161,10 @@
   APL Computational Physics (2026-01-06)  
   https://doi.org/10.1063/5.0284813
 
+- **Emulating Biological Synapses With Solution-Processed Ca-CuI Transistors: A Route to Low-Voltage Neuromorphic Hardware**  
+  IEEE Electron Device Letters (2026-01-05)  
+  https://doi.org/https://doi.org/10.1109/led.2025.3649619
+
 - **EPD-Serve: A Flexible Multimodal EPD Disaggregation Inference Serving System On Ascend**  
   arXiv (2026-01-05)  
   https://arxiv.org/abs/2601.11590v1
@@ -154,7 +174,7 @@
   https://doi.org/https://doi.org/10.1103/dg1f-hm99
 
 - **The Curious Case of "XOR Repetition" of Monogamy-Of-Entanglement Games**  
-  Leibniz-Zentrum für Informatik (Schloss Dagstuhl) (2026-01-01)  
+  DROPS (Schloss Dagstuhl – Leibniz Center for Informatics) (2026-01-01)  
   https://doi.org/https://doi.org/10.4230/lipics.itcs.2026.41
 
 - **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
@@ -164,10 +184,6 @@
 - **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
   Nature Physics (2026-01-01)  
   https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
-
-- **Emulating Biological Synapses with Solution-Processed Ca-CuI Transistors: A Route to Low-Voltage Neuromorphic Hardware**  
-  IEEE Electron Device Letters (2026-01-01)  
-  https://doi.org/https://doi.org/10.1109/led.2025.3649619
 
 - **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
   Nature Physics (2026-01-01)  
@@ -223,7 +239,7 @@
 
 - **Towards Efficient Agents: A Co-Design of Inference Architecture and System**  
   arXiv (2025-12-20)  
-  https://arxiv.org/abs/2512.18337v1
+  https://arxiv.org/abs/2512.18337v2
 
 - **Highly coherent organic lasing based on etch-free metasurface**  
   Nature Communications (2025-12-19)  
@@ -303,19 +319,3 @@
 - **Supramolecular Effects of Alkyl Sulfonates in Silver Nanocrystal Synthesis**  
   ACS Nanoscience Au (2025-12-04)  
   https://doi.org/10.1021/acsnanoscienceau.5c00121
-
-- **Interview with Professor Yi-Qin Gao**  
-  APL Computational Physics (2025-12-01)  
-  https://doi.org/https://doi.org/10.1063/5.0315249
-
-- **Interview with Professor Yi-Qin Gao**  
-  APL Computational Physics (2025-12-01)  
-  https://doi.org/10.1063/5.0315249
-
-- **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
-  Journal of the American Chemical Society (2025-11-30)  
-  https://doi.org/https://doi.org/10.1021/jacs.5c18410
-
-- **Size-Dependent Optical Band Gaps in Metal–Organic Framework Nanoparticles**  
-  Journal of the American Chemical Society (2025-11-30)  
-  https://doi.org/10.1021/jacs.5c18410
