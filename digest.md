@@ -1,5 +1,33 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-03-02*
+*generated 2026-03-09*
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+  Crossref (2026-03-09)  
+  https://doi.org/10.26434/chemrxiv-2025-nv8rg/v2
+
+- **NEO-PGA: Nonvolatile electro-optically programmable gate array**  
+  Science Advances (2026-03-06)  
+  https://doi.org/10.1126/sciadv.aea9383
+
+- **Tunable free-space optics for sub-wavelength spatial light modulator**  
+   (2026-03-05)  
+  https://doi.org/https://doi.org/10.1117/12.3082067
+
+- **Liquid crystal-based phase modulators on low-loss silicon nitride photonic integrated circuit platforms**  
+   (2026-03-04)  
+  https://doi.org/https://doi.org/10.1117/12.3079264
+
+- **Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**  
+  arXiv (2026-03-03)  
+  https://arxiv.org/abs/2603.02536v1
+
+- **CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**  
+  arXiv (2026-03-03)  
+  https://arxiv.org/abs/2603.02560v1
+
+- **Electrically Reconfigurable Nonvolatile Transmissive Metasurface in Visible**  
+  Advanced Optical Materials (2026-02-28)  
+  https://doi.org/10.1002/adom.71094
 
 - **Moire Engineering of Cooper-Pair Density Modulation States**  
   arXiv (2026-02-26)  
@@ -189,6 +217,12 @@
   Nature Physics (2026-01-01)  
   https://doi.org/10.1038/s41567-025-03117-y
 
+- **Jahn–Teller distortion controls electron transfer in photoexcited Cu(
+                    <scp>i</scp>
+                    ) donor–acceptor systems**  
+  Chemical Science (2026-01-01)  
+  https://doi.org/10.1039/d5sc10209j
+
 - **Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**  
   arXiv (2025-12-29)  
   https://arxiv.org/abs/2512.23294v1
@@ -295,27 +329,3 @@
 - **Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap**  
   Inorganic Chemistry (2025-12-10)  
   https://doi.org/10.1021/acs.inorgchem.5c04290
-
-- **Applicability of Metalenses for Generalizable Computer Vision**  
-  arXiv (2025-12-08)  
-  https://arxiv.org/abs/2512.08109v1
-
-- **Nonmonotonic Band Flattening near the Magic Angle of Twisted Bilayer
-                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline">
-                      <mml:mrow>
-                        <mml:msub>
-                          <mml:mrow>
-                            <mml:mi>MoTe</mml:mi>
-                          </mml:mrow>
-                          <mml:mrow>
-                            <mml:mn>2</mml:mn>
-                          </mml:mrow>
-                        </mml:msub>
-                      </mml:mrow>
-                    </mml:math>**  
-  Physical Review X (2025-12-05)  
-  https://doi.org/10.1103/q11l-9jy1
-
-- **Supramolecular Effects of Alkyl Sulfonates in Silver Nanocrystal Synthesis**  
-  ACS Nanoscience Au (2025-12-04)  
-  https://doi.org/10.1021/acsnanoscienceau.5c00121
