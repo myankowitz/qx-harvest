@@ -1,5 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-03-09*
+*generated 2026-03-16*
+
+- **Privacy-Aware Meta-Optics for Person Detection**  
+  ACS Photonics (2026-03-13)  
+  https://doi.org/10.1021/acsphotonics.5c02358
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+  Nano Letters (2026-03-10)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c06115
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+  Nano Letters (2026-03-10)  
+  https://doi.org/10.1021/acs.nanolett.5c06115
+
+- **Unlocking High-Fidelity Analog Joint Source-Channel Coding on Standard Digital Transceivers**  
+  arXiv (2026-03-10)  
+  https://arxiv.org/abs/2603.09080v1
+
+- **Optically Active Yb3+ Spin Defects in Cerium Oxide Nanocrystals**  
+   (2026-03-09)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15000731/v1
+
+- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
+   (2026-03-09)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-nv8rg/v2
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
   Crossref (2026-03-09)  
@@ -295,37 +319,3 @@
 - **Driving the field-free Josephson diode effect using Kagome Mott insulator barriers**  
   arXiv (2025-12-18)  
   https://arxiv.org/abs/2512.17099v1
-
-- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
-   (2025-12-12)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv-2025-nv8rg
-
-- **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
-  Crossref (2025-12-12)  
-  https://doi.org/10.26434/chemrxiv-2025-nv8rg
-
-- **Single-Determinant Ground State in Ce <sup>4+</sup> Imidophosphorane Complexes**  
-  Inorganic Chemistry (2025-12-11)  
-  https://doi.org/https://doi.org/10.1021/acs.inorgchem.5c03376
-
-- **Single-Determinant Ground State in Ce
-                    <sup>4+</sup>
-                    Imidophosphorane Complexes**  
-  Inorganic Chemistry (2025-12-11)  
-  https://doi.org/10.1021/acs.inorgchem.5c03376
-
-- **Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap**  
-  Inorganic Chemistry (2025-12-10)  
-  https://doi.org/https://doi.org/10.1021/acs.inorgchem.5c04290
-
-- **Numerically exact configuration interaction at quadrillion-determinant scale**  
-  Nature Communications (2025-12-10)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-65967-7
-
-- **Numerically exact configuration interaction at quadrillion-determinant scale**  
-  Nature Communications (2025-12-10)  
-  https://doi.org/10.1038/s41467-025-65967-7
-
-- **Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap**  
-  Inorganic Chemistry (2025-12-10)  
-  https://doi.org/10.1021/acs.inorgchem.5c04290
