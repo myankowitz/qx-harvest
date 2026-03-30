@@ -1,16 +1,48 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-03-16*
+*generated 2026-03-30*
 
-- **Privacy-Aware Meta-Optics for Person Detection**  
-  ACS Photonics (2026-03-13)  
-  https://doi.org/10.1021/acsphotonics.5c02358
+- **AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents**  
+  arXiv (2026-03-27)  
+  https://arxiv.org/abs/2603.26034v1
+
+- **Scalable Ion Fluorescence Collection Using a Trap-Integrated Metalens**  
+  ACS Photonics (2026-03-26)  
+  https://doi.org/https://doi.org/10.1021/acsphotonics.5c02393
+
+- **Scalable Ion Fluorescence Collection Using a Trap-Integrated Metalens**  
+  ACS Photonics (2026-03-26)  
+  https://doi.org/10.1021/acsphotonics.5c02393
+
+- **Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**  
+  arXiv (2026-03-25)  
+  https://arxiv.org/abs/2603.24328v1
+
+- **APEG: Adaptive Physical Layer Authentication with Channel Extrapolation and Generative AI**  
+  arXiv (2026-03-23)  
+  https://arxiv.org/abs/2603.21923v1
+
+- **From Photons to Electrons: Accelerated Materials Discovery via Random Libraries and Automated Scanning Transmission Electron Microscopy**  
+  arXiv (Cornell University) (2026-03-21)  
+  
+
+- **Novelty-Driven Target-Space Discovery in Automated Electron and Scanning Probe Microscopy**  
+  ArXiv.org (2026-03-17)  
+  
+
+- **Novelty-Driven Target-Space Discovery in Automated Electron and Scanning Probe Microscopy**  
+  arXiv (Cornell University) (2026-03-17)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2603.16715
+
+- **Ferroaxial and nematic transitions in the charge density wave phase of 1T-TiSe$_2$**  
+  arXiv (2026-03-15)  
+  https://arxiv.org/abs/2603.14614v2
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
-  Nano Letters (2026-03-10)  
+  Nano Letters (2026-03-11)  
   https://doi.org/https://doi.org/10.1021/acs.nanolett.5c06115
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
-  Nano Letters (2026-03-10)  
+  Nano Letters (2026-03-11)  
   https://doi.org/10.1021/acs.nanolett.5c06115
 
 - **Unlocking High-Fidelity Analog Joint Source-Channel Coding on Standard Digital Transceivers**  
@@ -18,28 +50,16 @@
   https://arxiv.org/abs/2603.09080v1
 
 - **Optically Active Yb3+ Spin Defects in Cerium Oxide Nanocrystals**  
-   (2026-03-09)  
+  ChemRxiv (2026-03-09)  
   https://doi.org/https://doi.org/10.26434/chemrxiv.15000731/v1
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
-   (2026-03-09)  
+  ChemRxiv (2026-03-09)  
   https://doi.org/https://doi.org/10.26434/chemrxiv-2025-nv8rg/v2
 
 - **Nanomolar Sensitivity Chirality Transfer from Designed Helical Repeat Proteins to Achiral CdS Nanorods**  
   Crossref (2026-03-09)  
   https://doi.org/10.26434/chemrxiv-2025-nv8rg/v2
-
-- **NEO-PGA: Nonvolatile electro-optically programmable gate array**  
-  Science Advances (2026-03-06)  
-  https://doi.org/10.1126/sciadv.aea9383
-
-- **Tunable free-space optics for sub-wavelength spatial light modulator**  
-   (2026-03-05)  
-  https://doi.org/https://doi.org/10.1117/12.3082067
-
-- **Liquid crystal-based phase modulators on low-loss silicon nitride photonic integrated circuit platforms**  
-   (2026-03-04)  
-  https://doi.org/https://doi.org/10.1117/12.3079264
 
 - **Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**  
   arXiv (2026-03-03)  
@@ -49,29 +69,9 @@
   arXiv (2026-03-03)  
   https://arxiv.org/abs/2603.02560v1
 
-- **Electrically Reconfigurable Nonvolatile Transmissive Metasurface in Visible**  
-  Advanced Optical Materials (2026-02-28)  
-  https://doi.org/10.1002/adom.71094
-
 - **Moire Engineering of Cooper-Pair Density Modulation States**  
   arXiv (2026-02-26)  
   https://arxiv.org/abs/2602.22637v1
-
-- **Statistical analysis and inverse design of programmable photonic integrated circuits using a Python-interfaced simulation framework**  
-  Optics Continuum (2026-02-23)  
-  https://doi.org/https://doi.org/10.1364/optcon.588100
-
-- **Convolutional Optical Encoders for Generalizable Image Compression**  
-  arXiv (Cornell University) (2026-02-20)  
-  
-
-- **Convolutional Optical Encoders for Generalizable Image Compression**  
-  arXiv (Cornell University) (2026-02-20)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2602.18032
-
-- **Convolutional Optical Encoders for Generalizable Image Compression**  
-  arXiv (2026-02-20)  
-  https://arxiv.org/abs/2602.18032v1
 
 - **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
   arXiv (2026-02-19)  
@@ -80,18 +80,6 @@
 - **Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective**  
   arXiv (2026-02-17)  
   https://arxiv.org/abs/2602.15290v1
-
-- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
-  arXiv (Cornell University) (2026-02-12)  
-  
-
-- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
-  arXiv (Cornell University) (2026-02-12)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2602.11616
-
-- **The Power of Two Bases: Robust and copy-optimal certification of nearly all quantum states with few-qubit measurements**  
-  arXiv (2026-02-12)  
-  https://arxiv.org/abs/2602.11616v1
 
 - **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
   ACS Nano (2026-02-11)  
@@ -107,7 +95,7 @@
 
 - **DLLM Agent: See Farther, Run Faster**  
   arXiv (2026-02-07)  
-  https://arxiv.org/abs/2602.07451v2
+  https://arxiv.org/abs/2602.07451v3
 
 - **VQ-DSC-R: Robust Vector Quantized-Enabled Digital Semantic Communication With OFDM Transmission**  
   arXiv (2026-02-05)  
@@ -117,9 +105,13 @@
   Nature (2026-02-04)  
   https://doi.org/10.1038/s41586-026-10101-w
 
-- **Meta-optical imaging at thermal wavelengths**  
-  Journal of Physics: Photonics (2026-02-02)  
-  https://doi.org/10.1088/2515-7647/ae0ee4
+- **Dual Metal Complex Functionalization of Black Phosphorus**  
+  Nano Letters (2026-02-02)  
+  https://doi.org/10.1021/acs.nanolett.5c05464
+
+- **Temperature-dependent acoustic loss at microwave frequencies in thin-film lithium niobate**  
+  arXiv (2026-02-02)  
+  https://arxiv.org/abs/2602.02797v2
 
 - **Zero-Shot Knowledge Base Resizing for Rate-Adaptive Digital Semantic Communication**  
   arXiv (2026-02-02)  
@@ -145,25 +137,25 @@
   Crossref (2026-01-28)  
   https://doi.org/10.21203/rs.3.rs-8701020/v1
 
-- **Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**  
-  arXiv (2026-01-27)  
-  https://arxiv.org/abs/2601.19403v1
-
 - **Visualizing electronic structure of twisted bilayer MoTe2 in devices**  
   Communications Physics (2026-01-27)  
   https://doi.org/10.1038/s42005-026-02497-8
 
-- **Snap-Shot Hyperspectral Imaging Enabled by Metasurface**  
-  Nano Letters (2026-01-26)  
-  https://doi.org/10.1021/acs.nanolett.5c04868
-
 - **Magnetic Signatures of a Putative Fractional Topological Insulator in Twisted MoTe2**  
   arXiv (2026-01-26)  
-  https://arxiv.org/abs/2601.18508v2
+  https://arxiv.org/abs/2601.18508v3
 
 - **S-MDMA: Sensitivity-Aware Model Division Multiple Access for Satellite-Ground Semantic Communication**  
   arXiv (2026-01-25)  
   https://arxiv.org/abs/2601.17731v1
+
+- **Pathfinding quantum simulations of neutrinoless double-β decay**  
+  Nature Communications (2026-01-23)  
+  https://doi.org/https://doi.org/10.1038/s41467-026-68536-8
+
+- **Pathfinding quantum simulations of neutrinoless double-β decay**  
+  Nature Communications (2026-01-23)  
+  https://doi.org/10.1038/s41467-026-68536-8
 
 - **Atomically Resolved Acoustic Dynamics Coupled with Magnetic Order in a van der Waals Antiferromagnet**  
   arXiv (2026-01-23)  
@@ -172,10 +164,6 @@
 - **Secure Intellicise Wireless Network: Agentic AI for Coverless Semantic Steganography Communication**  
   arXiv (2026-01-23)  
   https://arxiv.org/abs/2601.16472v1
-
-- **Experiental features of volunteering predict changes in college students’ social, emotional, and behavioral skills**  
-  Journal of Research in Personality (2026-01-22)  
-  https://doi.org/https://doi.org/10.1016/j.jrp.2026.104705
 
 - **Orbital Seebeck effect induced by chiral phonons**  
   Nature Physics (2026-01-21)  
@@ -205,10 +193,6 @@
   APL Computational Physics (2026-01-14)  
   https://doi.org/10.1063/5.0313445
 
-- **Bilayer Metasurfaces for Angular Control of Light**  
-  Laser & Photonics Review (2026-01-07)  
-  https://doi.org/https://doi.org/10.1002/lpor.202502168
-
 - **Relativistic core–valence-separated molecular mean-field exact-two-component equation-of-motion coupled cluster theory: Applications to L-edge x-ray absorption spectroscopy**  
   APL Computational Physics (2026-01-06)  
   https://doi.org/10.1063/5.0284813
@@ -221,21 +205,21 @@
   arXiv (2026-01-05)  
   https://arxiv.org/abs/2601.11590v1
 
-- **Electronic structure reconstruction for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msqrt> <mml:mn>3</mml:mn> </mml:msqrt> <mml:mo>×</mml:mo> <mml:msqrt> <mml:mn>3</mml:mn> </mml:msqrt> </mml:mrow> </mml:math> charge density wave in heavily Cu-intercalated <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:msub> <mml:mi>TiSe</mml:mi> <mml:mn>2</mml:mn> </mml:msub> </mml:math> revealed by spatially resolved photoemission spectroscopy**  
-  Physical review. B./Physical review. B (2026-01-02)  
-  https://doi.org/https://doi.org/10.1103/dg1f-hm99
-
-- **The Curious Case of "XOR Repetition" of Monogamy-Of-Entanglement Games**  
-  DROPS (Schloss Dagstuhl – Leibniz Center for Informatics) (2026-01-01)  
-  https://doi.org/https://doi.org/10.4230/lipics.itcs.2026.41
-
 - **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
   IEEE Transactions on Quantum Engineering (2026-01-01)  
   https://doi.org/10.1109/tqe.2025.3632540
 
+- **Towards full optimisation of automated double electron–electron resonance spectroscopy**  
+  Physical Chemistry Chemical Physics (2026-01-01)  
+  https://doi.org/10.1039/d5cp03536h
+
 - **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
   Nature Physics (2026-01-01)  
   https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
+
+- **Low-Voltage Solution-Processed Li-Doped CuI Thin-Film Transistors for Neuromorphic Computing**  
+  IEEE Transactions on Electron Devices (2026-01-01)  
+  https://doi.org/https://doi.org/10.1109/ted.2026.3676042
 
 - **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
   Nature Physics (2026-01-01)  
@@ -246,76 +230,3 @@
                     ) donor–acceptor systems**  
   Chemical Science (2026-01-01)  
   https://doi.org/10.1039/d5sc10209j
-
-- **Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**  
-  arXiv (2025-12-29)  
-  https://arxiv.org/abs/2512.23294v1
-
-- **Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission**  
-  arXiv (2025-12-27)  
-  https://arxiv.org/abs/2512.22693v1
-
-- **Reversible Polymorph Switching in IV–VI Thin Films with Epitaxial Control and Birefringence Contrast**  
-  Nano Letters (2025-12-26)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04974
-
-- **Reversible Polymorph Switching in IV–VI Thin Films with Epitaxial Control and Birefringence Contrast**  
-  Nano Letters (2025-12-26)  
-  https://doi.org/10.1021/acs.nanolett.5c04974
-
-- **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
-  The Journal of Physical Chemistry A (2025-12-24)  
-  https://doi.org/https://doi.org/10.1021/acs.jpca.5c06077
-
-- **Single-Particle Photothermal Microscopy Using On-Chip Silicon Nitride Microring Resonators**  
-  The Journal of Physical Chemistry A (2025-12-24)  
-  https://doi.org/10.1021/acs.jpca.5c06077
-
-- **Semantic Radio Access Networks: Architecture, State-of-the-Art, and Future Directions**  
-  arXiv (2025-12-24)  
-  https://arxiv.org/abs/2512.20917v1
-
-- **Hardware-aware and Resource-efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
-  arXiv (Cornell University) (2025-12-23)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2512.20554
-
-- **Hardware-aware and Resource-efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
-  arXiv (2025-12-23)  
-  https://arxiv.org/abs/2512.20554v2
-
-- **JDPNet: A Network Based on Joint Degradation Processing for Underwater Image Enhancement**  
-  arXiv (2025-12-23)  
-  https://arxiv.org/abs/2512.20213v1
-
-- **The emerging applications of silicon photonics**  
-  Newton (2025-12-22)  
-  https://doi.org/https://doi.org/10.1016/j.newton.2025.100357
-
-- **Fractional Quantum Anomalous Hall Effect**  
-  Annual Review of Condensed Matter Physics (2025-12-22)  
-  https://doi.org/https://doi.org/10.1146/annurev-conmatphys-031524-071133
-
-- **Towards Efficient Agents: A Co-Design of Inference Architecture and System**  
-  arXiv (2025-12-20)  
-  https://arxiv.org/abs/2512.18337v2
-
-- **Highly coherent organic lasing based on etch-free metasurface**  
-  Nature Communications (2025-12-19)  
-  https://doi.org/https://doi.org/10.1038/s41467-025-67628-1
-
-- **Highly coherent organic lasing based on etch-free metasurface**  
-  Nature Communications (2025-12-19)  
-  https://doi.org/10.1038/s41467-025-67628-1
-
-- **Universal Magnetic Phases in Twisted Bilayer MoTe <sub>2</sub>**  
-  Nano Letters (2025-12-18)  
-  https://doi.org/https://doi.org/10.1021/acs.nanolett.5c04751
-
-- **Universal Magnetic Phases in Twisted Bilayer MoTe
-                    <sub>2</sub>**  
-  Nano Letters (2025-12-18)  
-  https://doi.org/10.1021/acs.nanolett.5c04751
-
-- **Driving the field-free Josephson diode effect using Kagome Mott insulator barriers**  
-  arXiv (2025-12-18)  
-  https://arxiv.org/abs/2512.17099v1
