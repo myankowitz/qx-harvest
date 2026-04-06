@@ -1,5 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-03-30*
+*generated 2026-04-06*
+
+- **Synthesis and Conversion of InAsxP1-x Alloy Nanoclusters**  
+  ChemRxiv (2026-04-02)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15001546/v1
+
+- **Synthesis and Conversion of InAsxP1-x Alloy Nanoclusters**  
+  Crossref (2026-04-02)  
+  https://doi.org/10.26434/chemrxiv.15001546/v1
+
+- **Definitive Assessment of the Accuracy, Variationality, and Convergence of Relativistic Coupled Cluster and Density Matrix Renormalization Group in 100-Orbital Space**  
+  arXiv (2026-04-02)  
+  https://arxiv.org/abs/2604.02144v1
+
+- **MAVFusion: Efficient Infrared and Visible Video Fusion via Motion-Aware Sparse Interaction**  
+  arXiv (2026-04-02)  
+  https://arxiv.org/abs/2604.01958v1
+
+- **FTPFusion: Frequency-Aware Infrared and Visible Video Fusion with Temporal Perturbation**  
+  arXiv (2026-04-02)  
+  https://arxiv.org/abs/2604.01900v1
+
+- **Moiré engineering of Cooper-pair density modulation states**  
+  Nature (2026-04-01)  
+  https://doi.org/10.1038/s41586-026-10325-w
 
 - **AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents**  
   arXiv (2026-03-27)  
@@ -196,37 +220,3 @@
 - **Relativistic core–valence-separated molecular mean-field exact-two-component equation-of-motion coupled cluster theory: Applications to L-edge x-ray absorption spectroscopy**  
   APL Computational Physics (2026-01-06)  
   https://doi.org/10.1063/5.0284813
-
-- **Emulating Biological Synapses With Solution-Processed Ca-CuI Transistors: A Route to Low-Voltage Neuromorphic Hardware**  
-  IEEE Electron Device Letters (2026-01-05)  
-  https://doi.org/https://doi.org/10.1109/led.2025.3649619
-
-- **EPD-Serve: A Flexible Multimodal EPD Disaggregation Inference Serving System On Ascend**  
-  arXiv (2026-01-05)  
-  https://arxiv.org/abs/2601.11590v1
-
-- **Hardware-Aware and Resource-Efficient Circuit Packing and Scheduling on Trapped-Ion Quantum Computers**  
-  IEEE Transactions on Quantum Engineering (2026-01-01)  
-  https://doi.org/10.1109/tqe.2025.3632540
-
-- **Towards full optimisation of automated double electron–electron resonance spectroscopy**  
-  Physical Chemistry Chemical Physics (2026-01-01)  
-  https://doi.org/10.1039/d5cp03536h
-
-- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
-  Nature Physics (2026-01-01)  
-  https://doi.org/https://doi.org/10.1038/s41567-025-03117-y
-
-- **Low-Voltage Solution-Processed Li-Doped CuI Thin-Film Transistors for Neuromorphic Computing**  
-  IEEE Transactions on Electron Devices (2026-01-01)  
-  https://doi.org/https://doi.org/10.1109/ted.2026.3676042
-
-- **Optical control of orbital magnetism in magic-angle twisted bilayer graphene**  
-  Nature Physics (2026-01-01)  
-  https://doi.org/10.1038/s41567-025-03117-y
-
-- **Jahn–Teller distortion controls electron transfer in photoexcited Cu(
-                    <scp>i</scp>
-                    ) donor–acceptor systems**  
-  Chemical Science (2026-01-01)  
-  https://doi.org/10.1039/d5sc10209j
