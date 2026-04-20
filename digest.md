@@ -1,5 +1,29 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-04-06*
+*generated 2026-04-20*
+
+- **Definitive Assessment of the Accuracy, Variationality, and Convergence of Relativistic Coupled Cluster and Density Matrix Renormalization Group in 100-Orbital Space**  
+  Journal of Chemical Theory and Computation (2026-04-20)  
+  https://doi.org/10.1021/acs.jctc.6c00098
+
+- **Giant and Helical Exciton Dipole from Berry Curvature in Flat Chern Bands**  
+  arXiv (2026-04-14)  
+  https://arxiv.org/abs/2604.12295v1
+
+- **Nuclear–electronic orbital quasiclassical trajectory method for vibrational spectroscopy**  
+  The Journal of Chemical Physics (2026-04-14)  
+  https://doi.org/10.1063/5.0317500
+
+- **Source data for "Detecting Linear Dichroism with Atomic Resolution"**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-04-08)  
+  https://doi.org/https://doi.org/10.5281/zenodo.19451990
+
+- **Source data for "Detecting Linear Dichroism with Atomic Resolution"**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-04-08)  
+  https://doi.org/https://doi.org/10.5281/zenodo.19451991
+
+- **Generative Channel Knowledge Base With Environmental Information for Joint Source-Channel Coding in Semantic Communications**  
+  arXiv (2026-04-07)  
+  https://arxiv.org/abs/2604.05342v1
 
 - **Synthesis and Conversion of InAsxP1-x Alloy Nanoclusters**  
   ChemRxiv (2026-04-02)  
@@ -173,14 +197,6 @@
   arXiv (2026-01-25)  
   https://arxiv.org/abs/2601.17731v1
 
-- **Pathfinding quantum simulations of neutrinoless double-β decay**  
-  Nature Communications (2026-01-23)  
-  https://doi.org/https://doi.org/10.1038/s41467-026-68536-8
-
-- **Pathfinding quantum simulations of neutrinoless double-β decay**  
-  Nature Communications (2026-01-23)  
-  https://doi.org/10.1038/s41467-026-68536-8
-
 - **Atomically Resolved Acoustic Dynamics Coupled with Magnetic Order in a van der Waals Antiferromagnet**  
   arXiv (2026-01-23)  
   https://arxiv.org/abs/2601.16942v1
@@ -192,31 +208,3 @@
 - **Orbital Seebeck effect induced by chiral phonons**  
   Nature Physics (2026-01-21)  
   https://doi.org/10.1038/s41567-025-03134-x
-
-- **Integrated Sensing and Semantic Communication with Adaptive Source-Channel Coding**  
-  arXiv (2026-01-19)  
-  https://arxiv.org/abs/2601.12827v1
-
-- **Rethinking Quantum Noise in Quantum Machine Learning: When Noise Improves Learning**  
-  arXiv (2026-01-19)  
-  https://arxiv.org/abs/2601.13275v1
-
-- **Regarding the existence of abelian fractional topological insulators in twisted MoTe2 and related systems**  
-  Communications Physics (2026-01-16)  
-  https://doi.org/https://doi.org/10.1038/s42005-025-02483-6
-
-- **Regarding the existence of abelian fractional topological insulators in twisted MoTe2 and related systems**  
-  Communications Physics (2026-01-16)  
-  https://doi.org/10.1038/s42005-025-02483-6
-
-- **Correction to “Varying Diphosphine Bridge Length in Cyclometalated Platinum(II) Dimers Tunes Photophysics by Modulating Orbital Overlap”**  
-  Inorganic Chemistry (2026-01-16)  
-  https://doi.org/10.1021/acs.inorgchem.6c00059
-
-- **Chirality-driven magnetization emerges from relativistic four-current dynamics**  
-  APL Computational Physics (2026-01-14)  
-  https://doi.org/10.1063/5.0313445
-
-- **Relativistic core–valence-separated molecular mean-field exact-two-component equation-of-motion coupled cluster theory: Applications to L-edge x-ray absorption spectroscopy**  
-  APL Computational Physics (2026-01-06)  
-  https://doi.org/10.1063/5.0284813
