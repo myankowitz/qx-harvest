@@ -1,5 +1,57 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-04-20*
+*generated 2026-05-11*
+
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  Crossref (2026-05-10)  
+  https://doi.org/10.26434/chemrxiv.15002931/v1
+
+- **Sequential Measurements as a Resource for Quantum Metrology**  
+  arXiv (2026-04-30)  
+  https://arxiv.org/abs/2605.00287v1
+
+- **Correction to “Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters”**  
+  Chemistry of Materials (2026-04-29)  
+  https://doi.org/10.1021/acs.chemmater.6c01111
+
+- **Ballistic Exciton Flow Driven by Intertwined Exciton-Electron Orders in a Moiré Superlattice**  
+  arXiv (2026-04-29)  
+  https://arxiv.org/abs/2604.26871v1
+
+- **Purcell enhancement of directional edge photocurrent in a van der Waals self-cavity**  
+  Nature Communications (2026-04-28)  
+  https://doi.org/10.1038/s41467-026-72260-8
+
+- **Experimental study of acoustic loss at microwave frequencies in thin-film lithium niobate**  
+  Applied Physics Letters (2026-04-27)  
+  https://doi.org/https://doi.org/10.1063/5.0324532
+
+- **Experimental study of acoustic loss at microwave frequencies in thin-film lithium niobate**  
+  Applied Physics Letters (2026-04-27)  
+  https://doi.org/10.1063/5.0324532
+
+- **IPRU: Input-Perturbation-based Radio Frequency Fingerprinting Unlearning for LAWNs**  
+  arXiv (2026-04-27)  
+  https://arxiv.org/abs/2604.24022v1
+
+- **Van Hove Singularity-Driven Topological Magnetism in Twisted MoTe2**  
+  arXiv (2026-04-26)  
+  https://arxiv.org/abs/2604.23587v1
+
+- **Record magnetoresistance, enhanced superconductivity, and fermiology in WTe2**  
+  arXiv (2026-04-25)  
+  https://arxiv.org/abs/2604.23378v1
+
+- **Instability of prevailing small molecule acceptors in organic solar cells toward water/nucleophiles**  
+  Science Advances (2026-04-24)  
+  https://doi.org/10.1126/sciadv.aed7732
+
+- **SemanticAgent: A Semantics-Aware Framework for Text-to-SQL Data Synthesis**  
+  arXiv (2026-04-23)  
+  https://arxiv.org/abs/2604.21414v1
+
+- **Kinetic characteristics of naphthalene degradation in the gas phase via cycled storage-discharge: thermal effects on reaction processes within catalyst pores**  
+  Separation and Purification Technology (2026-04-20)  
+  https://doi.org/https://doi.org/10.1016/j.seppur.2026.138098
 
 - **Definitive Assessment of the Accuracy, Variationality, and Convergence of Relativistic Coupled Cluster and Density Matrix Renormalization Group in 100-Orbital Space**  
   Journal of Chemical Theory and Computation (2026-04-20)  
@@ -140,71 +192,3 @@
 - **Excitons in van der Waals magnetic materials**  
   arXiv (2026-02-11)  
   https://arxiv.org/abs/2602.10409v1
-
-- **DLLM Agent: See Farther, Run Faster**  
-  arXiv (2026-02-07)  
-  https://arxiv.org/abs/2602.07451v3
-
-- **VQ-DSC-R: Robust Vector Quantized-Enabled Digital Semantic Communication With OFDM Transmission**  
-  arXiv (2026-02-05)  
-  https://arxiv.org/abs/2602.15045v1
-
-- **Signatures of fractional charges via anyon–trions in twisted MoTe2**  
-  Nature (2026-02-04)  
-  https://doi.org/10.1038/s41586-026-10101-w
-
-- **Dual Metal Complex Functionalization of Black Phosphorus**  
-  Nano Letters (2026-02-02)  
-  https://doi.org/10.1021/acs.nanolett.5c05464
-
-- **Temperature-dependent acoustic loss at microwave frequencies in thin-film lithium niobate**  
-  arXiv (2026-02-02)  
-  https://arxiv.org/abs/2602.02797v2
-
-- **Zero-Shot Knowledge Base Resizing for Rate-Adaptive Digital Semantic Communication**  
-  arXiv (2026-02-02)  
-  https://arxiv.org/abs/2602.01829v1
-
-- **Observation of dissipationless fractional Chern insulator**  
-  Nature Physics (2026-01-30)  
-  https://doi.org/10.1038/s41567-025-03167-2
-
-- **Trapped Fragments Reshape Ultrafast Photoinduced Surface Reaction Dynamics and Pathways on TiO2(110)**  
-  Crossref (2026-01-29)  
-  https://doi.org/10.26434/chemrxiv.10001684/v1
-
-- **Optical control of integer and fractional Chern insulators**  
-  Nature (2026-01-28)  
-  https://doi.org/10.1038/s41586-025-09777-3
-
-- **Optical control over topological Chern number in moiré materials**  
-  Nature (2026-01-28)  
-  https://doi.org/10.1038/s41586-025-09851-w
-
-- **Magnetic Signatures of a Putative Fractional Topological Insulator in Twisted MoTe2**  
-  Crossref (2026-01-28)  
-  https://doi.org/10.21203/rs.3.rs-8701020/v1
-
-- **Visualizing electronic structure of twisted bilayer MoTe2 in devices**  
-  Communications Physics (2026-01-27)  
-  https://doi.org/10.1038/s42005-026-02497-8
-
-- **Magnetic Signatures of a Putative Fractional Topological Insulator in Twisted MoTe2**  
-  arXiv (2026-01-26)  
-  https://arxiv.org/abs/2601.18508v3
-
-- **S-MDMA: Sensitivity-Aware Model Division Multiple Access for Satellite-Ground Semantic Communication**  
-  arXiv (2026-01-25)  
-  https://arxiv.org/abs/2601.17731v1
-
-- **Atomically Resolved Acoustic Dynamics Coupled with Magnetic Order in a van der Waals Antiferromagnet**  
-  arXiv (2026-01-23)  
-  https://arxiv.org/abs/2601.16942v1
-
-- **Secure Intellicise Wireless Network: Agentic AI for Coverless Semantic Steganography Communication**  
-  arXiv (2026-01-23)  
-  https://arxiv.org/abs/2601.16472v1
-
-- **Orbital Seebeck effect induced by chiral phonons**  
-  Nature Physics (2026-01-21)  
-  https://doi.org/10.1038/s41567-025-03134-x
