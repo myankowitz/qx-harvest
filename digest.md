@@ -1,9 +1,49 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-05-11*
+*generated 2026-05-25*
+
+- **Data for: Tripling of the Superconducting Critical Current Density in BaFe2(As(1-x)Px)2 Retained After Pressure Release**  
+  Mendeley Data (2026-05-23)  
+  https://doi.org/https://doi.org/10.17632/j5x7z8nzhy.2
+
+- **Tripling of the superconducting critical current density in BaFe <sub>2</sub> (As <sub>1-x</sub> P <sub>x</sub> ) <sub>2</sub> retained after pressure release**  
+  Superconductor Science and Technology (2026-05-19)  
+  https://doi.org/https://doi.org/10.1088/1361-6668/ae702f
+
+- **Strong Light–Matter Coupling as a Photonic Substituent: Correlation-Enhanced Control of Regioselectivity in Nitrobenzene**  
+  ChemRxiv (2026-05-19)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15003350/v2
+
+- **Degradation-Aware Blur-Segmentation of Brain Tumor**  
+  arXiv (2026-05-15)  
+  https://arxiv.org/abs/2605.15671v1
+
+- **Strong Light–Matter Coupling as a Photonic Substituent: Correlation-Enhanced Control of Regioselectivity in Nitrobenzene**  
+  ChemRxiv (2026-05-14)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15003350/v1
+
+- **Detecting linear dichroism with atomic resolution**  
+  Nature Materials (2026-05-12)  
+  https://doi.org/https://doi.org/10.1038/s41563-026-02606-6
+
+- **Detecting linear dichroism with atomic resolution**  
+  Nature Materials (2026-05-12)  
+  https://doi.org/10.1038/s41563-026-02606-6
+
+- **Comment on “Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR” [J. Chem. Phys. 163, 064104 (2025)]**  
+  The Journal of Chemical Physics (2026-05-12)  
+  https://doi.org/10.1063/5.0308643
 
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Crossref (2026-05-10)  
   https://doi.org/10.26434/chemrxiv.15002931/v1
+
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  ChemRxiv (2026-05-10)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15002931/v1
+
+- **Graduate Training in Quantum Information Science and Engineering: Lessons, Challenges, and a Roadmap from the NSF Research Traineeship Programs**  
+  arXiv (2026-05-08)  
+  https://arxiv.org/abs/2605.08510v1
 
 - **Sequential Measurements as a Resource for Quantum Metrology**  
   arXiv (2026-04-30)  
@@ -57,13 +97,13 @@
   Journal of Chemical Theory and Computation (2026-04-20)  
   https://doi.org/10.1021/acs.jctc.6c00098
 
-- **Giant and Helical Exciton Dipole from Berry Curvature in Flat Chern Bands**  
-  arXiv (2026-04-14)  
-  https://arxiv.org/abs/2604.12295v1
-
 - **Nuclear–electronic orbital quasiclassical trajectory method for vibrational spectroscopy**  
   The Journal of Chemical Physics (2026-04-14)  
   https://doi.org/10.1063/5.0317500
+
+- **Giant and Helical Exciton Dipole from Berry Curvature in Flat Chern Bands**  
+  arXiv (2026-04-14)  
+  https://arxiv.org/abs/2604.12295v1
 
 - **Source data for "Detecting Linear Dichroism with Atomic Resolution"**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-04-08)  
@@ -161,34 +201,14 @@
   Crossref (2026-03-09)  
   https://doi.org/10.26434/chemrxiv-2025-nv8rg/v2
 
-- **Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**  
-  arXiv (2026-03-03)  
-  https://arxiv.org/abs/2603.02536v1
-
 - **CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**  
   arXiv (2026-03-03)  
   https://arxiv.org/abs/2603.02560v1
 
+- **Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks**  
+  arXiv (2026-03-03)  
+  https://arxiv.org/abs/2603.02536v1
+
 - **Moire Engineering of Cooper-Pair Density Modulation States**  
   arXiv (2026-02-26)  
   https://arxiv.org/abs/2602.22637v1
-
-- **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
-  arXiv (2026-02-19)  
-  https://arxiv.org/abs/2602.17582v1
-
-- **Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective**  
-  arXiv (2026-02-17)  
-  https://arxiv.org/abs/2602.15290v1
-
-- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
-  ACS Nano (2026-02-11)  
-  https://doi.org/https://doi.org/10.1021/acsnano.5c17237
-
-- **Heterostructure-Controlled Charge Transfer Dynamics in CdSe/CdS Dot-in-Rods and Tetrapods**  
-  ACS Nano (2026-02-11)  
-  https://doi.org/10.1021/acsnano.5c17237
-
-- **Excitons in van der Waals magnetic materials**  
-  arXiv (2026-02-11)  
-  https://arxiv.org/abs/2602.10409v1
