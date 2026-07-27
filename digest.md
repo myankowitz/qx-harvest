@@ -1,7 +1,13 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-07-20*
+*generated 2026-07-27*
 
-- **One-Pot, One-Step Mn-bis(imino)pyridine Complexes through Sonochemistry**  
+- **The Anomalous Magnetic Moment of the Muon: Status and Perspectives**  
+  Annual Review of Nuclear and Particle Science (2026-07-20)  
+  https://doi.org/https://doi.org/10.1146/annurev-nucl-102422-040841
+
+- **One-Pot, One-Step
+Mn-bis(imino)pyridine Complexes
+through Sonochemistry**  
   Inorganic Chemistry (2026-07-14)  
   https://doi.org/10.1021/acs.inorgchem.6c01196
 
@@ -232,10 +238,6 @@
   
 
 - **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  arXiv (Cornell University) (2026-05-26)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2605.27543
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
   arXiv (2026-05-26)  
   https://arxiv.org/abs/2605.27543v2
 
@@ -302,31 +304,3 @@
 - **Purcell enhancement of directional edge photocurrent in a van der Waals self-cavity**  
   Nature Communications (2026-04-28)  
   https://doi.org/10.1038/s41467-026-72260-8
-
-- **Experimental study of acoustic loss at microwave frequencies in thin-film lithium niobate**  
-  Applied Physics Letters (2026-04-27)  
-  https://doi.org/https://doi.org/10.1063/5.0324532
-
-- **Experimental study of acoustic loss at microwave frequencies in thin-film lithium niobate**  
-  Applied Physics Letters (2026-04-27)  
-  https://doi.org/10.1063/5.0324532
-
-- **IPRU: Input-Perturbation-based Radio Frequency Fingerprinting Unlearning for LAWNs**  
-  arXiv (2026-04-27)  
-  https://arxiv.org/abs/2604.24022v1
-
-- **Van Hove Singularity-Driven Topological Magnetism in Twisted MoTe2**  
-  arXiv (2026-04-26)  
-  https://arxiv.org/abs/2604.23587v1
-
-- **Record magnetoresistance, enhanced superconductivity, and fermiology in WTe2**  
-  arXiv (2026-04-25)  
-  https://arxiv.org/abs/2604.23378v1
-
-- **Instability of prevailing small molecule acceptors in organic solar cells toward water/nucleophiles**  
-  Science Advances (2026-04-24)  
-  https://doi.org/10.1126/sciadv.aed7732
-
-- **SemanticAgent: A Semantics-Aware Framework for Text-to-SQL Data Synthesis**  
-  arXiv (2026-04-23)  
-  https://arxiv.org/abs/2604.21414v1
