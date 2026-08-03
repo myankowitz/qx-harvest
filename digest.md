@@ -1,5 +1,25 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-07-27*
+*generated 2026-08-03*
+
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21724156
+
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21724155
+
+- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21686294
+
+- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21686295
+
+- **Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**  
+  arXiv (2026-07-26)  
+  https://arxiv.org/abs/2607.23615v1
 
 - **The Anomalous Magnetic Moment of the Muon: Status and Perspectives**  
   Annual Review of Nuclear and Particle Science (2026-07-20)  
@@ -10,10 +30,6 @@ Mn-bis(imino)pyridine Complexes
 through Sonochemistry**  
   Inorganic Chemistry (2026-07-14)  
   https://doi.org/10.1021/acs.inorgchem.6c01196
-
-- **EPR characterization of a metal-binding site in RquA**  
-  JBIC Journal of Biological Inorganic Chemistry (2026-07-14)  
-  https://doi.org/10.1007/s00775-026-02160-1
 
 - **-8 dB SNR + 90% Packet Loss: MamVSC -- CSI-Guided Semantic Mamba for Extreme-Robust Video Semantic Communication**  
   arXiv (2026-07-08)  
@@ -46,6 +62,30 @@ through Sonochemistry**
 - **LLM-Empowered Multimodal Fusion Framework for Autonomous Driving: Semantic Enhancement and Channel-Adaptive Design**  
   arXiv (2026-07-02)  
   https://arxiv.org/abs/2607.01772v1
+
+- **Atomic Insights into Hidden Structural Order in Altermagnets and Chirality-Driven Topology**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.858
+
+- **Moving Towards Measuring the Valley Hall Effect using EMCD in Monolayer WSe2**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.775
+
+- **Self-Supported Thin-Film Device Platform for In-Situ EMCD Measurements of Hall Effects**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.776
+
+- **Atomic Resolution Studies of Single-Atom Yb3+ Dopants in CrX3 2D Ferromagnets Using Scanning Transmission Electron Microscopy**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.895
+
+- **Progress in Spatially Resolved Magnon Spectroscopy in the STEM**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.773
+
+- **Towards an Understanding of Phase-Shape Dichroism in Vibrational EELS**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.781
 
 - **Spin–orbit-resolved strong-field ionization from real-time relativistic dynamics**  
   The Journal of Chemical Physics (2026-07-01)  
@@ -273,10 +313,6 @@ through Sonochemistry**
   Physical Review Letters (2026-05-12)  
   https://doi.org/https://doi.org/10.1103/c6wf-z99k
 
-- **Comment on “Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR” [J. Chem. Phys. 163, 064104 (2025)]**  
-  The Journal of Chemical Physics (2026-05-12)  
-  https://doi.org/10.1063/5.0308643
-
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Crossref (2026-05-10)  
   https://doi.org/10.26434/chemrxiv.15002931/v1
@@ -288,19 +324,3 @@ through Sonochemistry**
 - **Graduate Training in Quantum Information Science and Engineering: Lessons, Challenges, and a Roadmap from the NSF Research Traineeship Programs**  
   arXiv (2026-05-08)  
   https://arxiv.org/abs/2605.08510v1
-
-- **Sequential Measurements as a Resource for Quantum Metrology**  
-  arXiv (2026-04-30)  
-  https://arxiv.org/abs/2605.00287v1
-
-- **Correction to “Sequential Cation Exchange in Indium Phosphide Magic-Sized Clusters”**  
-  Chemistry of Materials (2026-04-29)  
-  https://doi.org/10.1021/acs.chemmater.6c01111
-
-- **Ballistic Exciton Flow Driven by Intertwined Exciton-Electron Orders in a Moiré Superlattice**  
-  arXiv (2026-04-29)  
-  https://arxiv.org/abs/2604.26871v1
-
-- **Purcell enhancement of directional edge photocurrent in a van der Waals self-cavity**  
-  Nature Communications (2026-04-28)  
-  https://doi.org/10.1038/s41467-026-72260-8
