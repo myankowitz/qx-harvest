@@ -1,5 +1,56 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-08-03*
+*generated 2026-08-10*
+
+- **Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation**  
+  arXiv (2026-08-07)  
+  https://arxiv.org/abs/2608.07055v1
+
+- **Interaction-driven flat band and charge order in Fe <sub>5</sub> GeTe <sub>2</sub>**  
+  Science Advances (2026-08-07)  
+  https://doi.org/https://doi.org/10.1126/sciadv.aeg5930
+
+- **Interaction-driven flat band and charge order in Fe
+                    <sub>5</sub>
+                    GeTe
+                    <sub>2</sub>**  
+  Science Advances (2026-08-07)  
+  https://doi.org/10.1126/sciadv.aeg5930
+
+- **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
+  ChemRxiv (2026-08-06)  
+  https://doi.org/https://doi.org/10.26434/chemrxiv.15007098/v1
+
+- **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
+  Crossref (2026-08-06)  
+  https://doi.org/10.26434/chemrxiv.15007098/v1
+
+- **Observation of metastable chiral domain walls in a topological magnet**  
+  arXiv (2026-08-06)  
+  https://arxiv.org/abs/2608.06569v1
+
+- **Surface LigandVibrations Resolve Exciton Fine Structurein Quantum Dots**  
+  The Journal of Physical Chemistry Letters (2026-08-05)  
+  https://doi.org/https://doi.org/10.1021/acs.jpclett.6c02125
+
+- **Surface Ligand
+Vibrations Resolve Exciton Fine Structure
+in Quantum Dots**  
+  The Journal of Physical
+Chemistry Letters (2026-08-05)  
+  https://doi.org/10.1021/acs.jpclett.6c02125
+
+- **Review of Particle Physics <sup>*</sup>**  
+  International Journal of Modern Physics A (2026-08-05)  
+  https://doi.org/https://doi.org/10.1142/s0217751x26300115
+
+- **Review of Particle Physics
+                    <sup>*</sup>**  
+  International Journal of Modern Physics A (2026-08-05)  
+  https://doi.org/10.1142/s0217751x26300115
+
+- **Recent advances in lateral flow immunoassay for virus detection: current achievements, challenges and future prospects**  
+  Talanta (2026-08-01)  
+  https://doi.org/https://doi.org/10.1016/j.talanta.2026.130402
 
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
@@ -17,6 +68,15 @@
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
   https://doi.org/https://doi.org/10.5281/zenodo.21686295
 
+- **A StandardizedPlatform for QLED Fabrication and Characterization**  
+  Chemistry of Materials (2026-07-29)  
+  https://doi.org/https://doi.org/10.1021/acs.chemmater.6c01124
+
+- **A Standardized
+Platform for QLED Fabrication and Characterization**  
+  Chemistry of Materials (2026-07-29)  
+  https://doi.org/10.1021/acs.chemmater.6c01124
+
 - **Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**  
   arXiv (2026-07-26)  
   https://arxiv.org/abs/2607.23615v1
@@ -30,6 +90,10 @@ Mn-bis(imino)pyridine Complexes
 through Sonochemistry**  
   Inorganic Chemistry (2026-07-14)  
   https://doi.org/10.1021/acs.inorgchem.6c01196
+
+- **EPR characterization of a metal-binding site in RquA**  
+  JBIC Journal of Biological Inorganic Chemistry (2026-07-14)  
+  https://doi.org/10.1007/s00775-026-02160-1
 
 - **-8 dB SNR + 90% Packet Loss: MamVSC -- CSI-Guided Semantic Mamba for Extreme-Robust Video Semantic Communication**  
   arXiv (2026-07-08)  
@@ -313,14 +377,6 @@ through Sonochemistry**
   Physical Review Letters (2026-05-12)  
   https://doi.org/https://doi.org/10.1103/c6wf-z99k
 
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  Crossref (2026-05-10)  
-  https://doi.org/10.26434/chemrxiv.15002931/v1
-
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  ChemRxiv (2026-05-10)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv.15002931/v1
-
-- **Graduate Training in Quantum Information Science and Engineering: Lessons, Challenges, and a Roadmap from the NSF Research Traineeship Programs**  
-  arXiv (2026-05-08)  
-  https://arxiv.org/abs/2605.08510v1
+- **Comment on “Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR” [J. Chem. Phys. 163, 064104 (2025)]**  
+  The Journal of Chemical Physics (2026-05-12)  
+  https://doi.org/10.1063/5.0308643
