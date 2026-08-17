@@ -1,9 +1,36 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-08-10*
+*generated 2026-08-17*
+
+- **Synthesis
+and Magnetism of Silver Chromium Selenide
+Spinels**  
+  Journal of the American
+Chemical Society (2026-08-14)  
+  https://doi.org/10.1021/jacs.6c09346
+
+- **Synthesisand Magnetism of Silver Chromium SelenideSpinels**  
+  Journal of the American Chemical Society (2026-08-14)  
+  https://doi.org/https://doi.org/10.1021/jacs.6c09346
+
+- **Relativistic Dirac-Coulomb-Breit Four-Component Multireference Perturbation Theory within the Small Tensor Product Distributed Active Space Framework**  
+  arXiv (2026-08-12)  
+  https://arxiv.org/abs/2608.11529v1
+
+- **Adaptive Source-Channel Coding for Bi-static Integrated Sensing and Semantic Communications**  
+  arXiv (2026-08-11)  
+  https://arxiv.org/abs/2608.10898v1
+
+- **Nonequilibrium dynamics of doped Chern ferromagnets: a case study for false vacuum decay**  
+  arXiv (2026-08-09)  
+  https://arxiv.org/abs/2608.08937v2
+
+- **IRPol-Fuse: Energy-structure coordination for infrared polarization fusion under low visibility**  
+  arXiv (2026-08-08)  
+  https://arxiv.org/abs/2608.07848v1
 
 - **Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation**  
   arXiv (2026-08-07)  
-  https://arxiv.org/abs/2608.07055v1
+  https://arxiv.org/abs/2608.07055v2
 
 - **Interaction-driven flat band and charge order in Fe <sub>5</sub> GeTe <sub>2</sub>**  
   Science Advances (2026-08-07)  
@@ -23,6 +50,10 @@
 - **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
   Crossref (2026-08-06)  
   https://doi.org/10.26434/chemrxiv.15007098/v1
+
+- **Recent advances in lateral flow immunoassay for virus detection: current achievements, challenges and future prospects**  
+  Talanta (2026-08-06)  
+  https://doi.org/https://doi.org/10.1016/j.talanta.2026.130402
 
 - **Observation of metastable chiral domain walls in a topological magnet**  
   arXiv (2026-08-06)  
@@ -47,10 +78,6 @@ Chemistry Letters (2026-08-05)
                     <sup>*</sup>**  
   International Journal of Modern Physics A (2026-08-05)  
   https://doi.org/10.1142/s0217751x26300115
-
-- **Recent advances in lateral flow immunoassay for virus detection: current achievements, challenges and future prospects**  
-  Talanta (2026-08-01)  
-  https://doi.org/https://doi.org/10.1016/j.talanta.2026.130402
 
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
@@ -342,6 +369,10 @@ through Sonochemistry**
   
 
 - **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
+  arXiv (Cornell University) (2026-05-26)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2605.27543
+
+- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
   arXiv (2026-05-26)  
   https://arxiv.org/abs/2605.27543v2
 
@@ -356,27 +387,3 @@ through Sonochemistry**
 - **Strong Light–Matter Coupling as a Photonic Substituent: Correlation-Enhanced Control of Regioselectivity in Nitrobenzene**  
   ChemRxiv (2026-05-19)  
   https://doi.org/https://doi.org/10.26434/chemrxiv.15003350/v2
-
-- **Degradation-Aware Blur-Segmentation of Brain Tumor**  
-  arXiv (2026-05-15)  
-  https://arxiv.org/abs/2605.15671v1
-
-- **Strong Light–Matter Coupling as a Photonic Substituent: Correlation-Enhanced Control of Regioselectivity in Nitrobenzene**  
-  ChemRxiv (2026-05-14)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv.15003350/v1
-
-- **Detecting linear dichroism with atomic resolution**  
-  Nature Materials (2026-05-12)  
-  https://doi.org/https://doi.org/10.1038/s41563-026-02606-6
-
-- **Detecting linear dichroism with atomic resolution**  
-  Nature Materials (2026-05-12)  
-  https://doi.org/10.1038/s41563-026-02606-6
-
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
-  Physical Review Letters (2026-05-12)  
-  https://doi.org/https://doi.org/10.1103/c6wf-z99k
-
-- **Comment on “Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR” [J. Chem. Phys. 163, 064104 (2025)]**  
-  The Journal of Chemical Physics (2026-05-12)  
-  https://doi.org/10.1063/5.0308643
