@@ -1,5 +1,5 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-08-17*
+*generated 2026-08-24*
 
 - **Synthesis
 and Magnetism of Silver Chromium Selenide
@@ -8,7 +8,7 @@ Spinels**
 Chemical Society (2026-08-14)  
   https://doi.org/10.1021/jacs.6c09346
 
-- **Synthesisand Magnetism of Silver Chromium SelenideSpinels**  
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Journal of the American Chemical Society (2026-08-14)  
   https://doi.org/https://doi.org/10.1021/jacs.6c09346
 
@@ -32,7 +32,7 @@ Chemical Society (2026-08-14)
   arXiv (2026-08-07)  
   https://arxiv.org/abs/2608.07055v2
 
-- **Interaction-driven flat band and charge order in Fe <sub>5</sub> GeTe <sub>2</sub>**  
+- **Interaction-driven flat band and charge order in Fe 5 GeTe 2**  
   Science Advances (2026-08-07)  
   https://doi.org/https://doi.org/10.1126/sciadv.aeg5930
 
@@ -59,7 +59,7 @@ Chemical Society (2026-08-14)
   arXiv (2026-08-06)  
   https://arxiv.org/abs/2608.06569v1
 
-- **Surface LigandVibrations Resolve Exciton Fine Structurein Quantum Dots**  
+- **Surface Ligand Vibrations Resolve Exciton Fine Structure in Quantum Dots**  
   The Journal of Physical Chemistry Letters (2026-08-05)  
   https://doi.org/https://doi.org/10.1021/acs.jpclett.6c02125
 
@@ -70,7 +70,7 @@ in Quantum Dots**
 Chemistry Letters (2026-08-05)  
   https://doi.org/10.1021/acs.jpclett.6c02125
 
-- **Review of Particle Physics <sup>*</sup>**  
+- **Review of Particle Physics ***  
   International Journal of Modern Physics A (2026-08-05)  
   https://doi.org/https://doi.org/10.1142/s0217751x26300115
 
@@ -95,7 +95,7 @@ Chemistry Letters (2026-08-05)
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
   https://doi.org/https://doi.org/10.5281/zenodo.21686295
 
-- **A StandardizedPlatform for QLED Fabrication and Characterization**  
+- **A Standardized Platform for QLED Fabrication and Characterization**  
   Chemistry of Materials (2026-07-29)  
   https://doi.org/https://doi.org/10.1021/acs.chemmater.6c01124
 
@@ -274,7 +274,7 @@ through Sonochemistry**
   arXiv (2026-06-10)  
   https://arxiv.org/abs/2606.11819v1
 
-- **Optically Active Yb <sup>3+</sup> Spin Defects in Cerium Oxide Nanocrystals**  
+- **Optically Active Yb 3+ Spin Defects in Cerium Oxide Nanocrystals**  
   ACS Applied Nano Materials (2026-06-09)  
   https://doi.org/https://doi.org/10.1021/acsanm.6c01017
 
@@ -375,15 +375,3 @@ through Sonochemistry**
 - **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
   arXiv (2026-05-26)  
   https://arxiv.org/abs/2605.27543v2
-
-- **Data for: Tripling of the Superconducting Critical Current Density in BaFe2(As(1-x)Px)2 Retained After Pressure Release**  
-  Mendeley Data (2026-05-23)  
-  https://doi.org/https://doi.org/10.17632/j5x7z8nzhy.2
-
-- **Tripling of the superconducting critical current density in BaFe <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msub> <mml:mi/> <mml:mn>2</mml:mn> </mml:msub> </mml:mrow> </mml:math> (As <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msub> <mml:mi/> <mml:mrow> <mml:mn>1</mml:mn> <mml:mo>−</mml:mo> <mml:mi>x</mml:mi> </mml:mrow> </mml:msub> </mml:mrow> </mml:math> P <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msub> <mml:mi/> <mml:mi>x</mml:mi> </mml:msub> </mml:mrow> </mml:math> ) <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msub> <mml:mi/> <mml:mn>2</mml:mn> </mml:msub> </mml:mrow> </mml:math> retained after pressure release**  
-  Superconductor Science and Technology (2026-05-19)  
-  https://doi.org/https://doi.org/10.1088/1361-6668/ae702f
-
-- **Strong Light–Matter Coupling as a Photonic Substituent: Correlation-Enhanced Control of Regioselectivity in Nitrobenzene**  
-  ChemRxiv (2026-05-19)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv.15003350/v2
