@@ -1,5 +1,20 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-08-24*
+*generated 2026-08-31*
+
+- **A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning**  
+  arXiv (2026-08-25)  
+  https://arxiv.org/abs/2608.24229v1
+
+- **Structural Homology
+Allows Alloyed II–V Magic-Sized
+Clusters with Continuously Tunable Emission**  
+  Journal of the American
+Chemical Society (2026-08-24)  
+  https://doi.org/10.1021/jacs.6c12508
+
+- **Large scale theoretical investigation of the phase diagram of twisted bilayer MoTe$_2$ at fractional fillings: agreements and contradictions with current experiments**  
+  arXiv (2026-08-24)  
+  https://arxiv.org/abs/2608.23675v1
 
 - **Synthesis
 and Magnetism of Silver Chromium Selenide
@@ -74,26 +89,21 @@ Chemistry Letters (2026-08-05)
   International Journal of Modern Physics A (2026-08-05)  
   https://doi.org/https://doi.org/10.1142/s0217751x26300115
 
-- **Review of Particle Physics
-                    <sup>*</sup>**  
-  International Journal of Modern Physics A (2026-08-05)  
-  https://doi.org/10.1142/s0217751x26300115
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21724155
 
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
   https://doi.org/https://doi.org/10.5281/zenodo.21724156
 
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
-  https://doi.org/https://doi.org/10.5281/zenodo.21724155
+- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
+  Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
+  https://doi.org/https://doi.org/10.5281/zenodo.21686295
 
 - **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
   https://doi.org/https://doi.org/10.5281/zenodo.21686294
-
-- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
-  Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
-  https://doi.org/https://doi.org/10.5281/zenodo.21686295
 
 - **A Standardized Platform for QLED Fabrication and Characterization**  
   Chemistry of Materials (2026-07-29)  
@@ -154,9 +164,17 @@ through Sonochemistry**
   arXiv (2026-07-02)  
   https://arxiv.org/abs/2607.01772v1
 
-- **Atomic Insights into Hidden Structural Order in Altermagnets and Chirality-Driven Topology**  
+- **Progress in Spatially Resolved Magnon Spectroscopy in the STEM**  
   Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.858
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.773
+
+- **Towards an Understanding of Phase-Shape Dichroism in Vibrational EELS**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.781
+
+- **Atomic Resolution Studies of Single-Atom Yb3+ Dopants in CrX3 2D Ferromagnets Using Scanning Transmission Electron Microscopy**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.895
 
 - **Moving Towards Measuring the Valley Hall Effect using EMCD in Monolayer WSe2**  
   Microscopy and Microanalysis (2026-07-01)  
@@ -166,17 +184,9 @@ through Sonochemistry**
   Microscopy and Microanalysis (2026-07-01)  
   https://doi.org/https://doi.org/10.1093/mam/ozag053.776
 
-- **Atomic Resolution Studies of Single-Atom Yb3+ Dopants in CrX3 2D Ferromagnets Using Scanning Transmission Electron Microscopy**  
+- **Atomic Insights into Hidden Structural Order in Altermagnets and Chirality-Driven Topology**  
   Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.895
-
-- **Progress in Spatially Resolved Magnon Spectroscopy in the STEM**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.773
-
-- **Towards an Understanding of Phase-Shape Dichroism in Vibrational EELS**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.781
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.858
 
 - **Spin–orbit-resolved strong-field ionization from real-time relativistic dynamics**  
   The Journal of Chemical Physics (2026-07-01)  
@@ -221,10 +231,6 @@ through Sonochemistry**
 - **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
   Crossref (2026-06-23)  
   https://doi.org/10.21203/rs.3.rs-9862551/v1
-
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
-  Physical Review Letters (2026-06-23)  
-  https://doi.org/10.1103/c6wf-z99k
 
 - **upsFISH: An Occupancy-Reporting Fluorescence In Situ Hybridization Method for Single-Cell Detection of Chromatin Interactions**  
   Analytical Chemistry (2026-06-20)  
@@ -299,79 +305,3 @@ through Sonochemistry**
 - **Quaternion Dirac--Coulomb--Breit Integral Transformation for Relativistic Four-Component Correlated Electronic Structure Theory**  
   arXiv (2026-06-03)  
   https://arxiv.org/abs/2606.04316v1
-
-- **Tripling of the superconducting critical current density in BaFe
-                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
-                      <mml:mrow>
-                        <mml:msub>
-                          <mml:mi/>
-                          <mml:mn>2</mml:mn>
-                        </mml:msub>
-                      </mml:mrow>
-                    </mml:math>
-                    (As
-                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
-                      <mml:mrow>
-                        <mml:msub>
-                          <mml:mi/>
-                          <mml:mrow>
-                            <mml:mn>1</mml:mn>
-                            <mml:mo>−</mml:mo>
-                            <mml:mi>x</mml:mi>
-                          </mml:mrow>
-                        </mml:msub>
-                      </mml:mrow>
-                    </mml:math>
-                    P
-                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
-                      <mml:mrow>
-                        <mml:msub>
-                          <mml:mi/>
-                          <mml:mi>x</mml:mi>
-                        </mml:msub>
-                      </mml:mrow>
-                    </mml:math>
-                    )
-                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
-                      <mml:mrow>
-                        <mml:msub>
-                          <mml:mi/>
-                          <mml:mn>2</mml:mn>
-                        </mml:msub>
-                      </mml:mrow>
-                    </mml:math>
-                    retained after pressure release**  
-  Superconductor Science and Technology (2026-06-01)  
-  https://doi.org/10.1088/1361-6668/ae702f
-
-- **Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023**  
-  The Lancet Infectious Diseases (2026-06-01)  
-  https://doi.org/https://doi.org/10.1016/s1473-3099(26)00194-5
-
-- **Nuclear–electronic orbital method at scale: A two-stage hybrid-layout distributed Cholesky decomposition approach**  
-  APL Computational Physics (2026-06-01)  
-  https://doi.org/https://doi.org/10.1063/5.0318199
-
-- **Nuclear–electronic orbital method at scale: A two-stage hybrid-layout distributed Cholesky decomposition approach**  
-  APL Computational Physics (2026-06-01)  
-  https://doi.org/10.1063/5.0318199
-
-- **A cryogenic apparatus for coupling two-dimensional materials to a confocal multimode optical cavity**  
-  arXiv (2026-05-27)  
-  https://arxiv.org/abs/2605.28815v1
-
-- **SIDMA: Semantic Interleave Division Multiple Access Communication System**  
-  arXiv (2026-05-27)  
-  https://arxiv.org/abs/2607.08777v1
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  arXiv (Cornell University) (2026-05-26)  
-  
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  arXiv (Cornell University) (2026-05-26)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2605.27543
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  arXiv (2026-05-26)  
-  https://arxiv.org/abs/2605.27543v2
