@@ -1,9 +1,17 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-08-31*
+*generated 2026-09-07*
+
+- **Type I Solar Radio Bursts Modulated by Solar Flares**  
+  arXiv (2026-08-30)  
+  https://arxiv.org/abs/2608.29744v1
 
 - **A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning**  
   arXiv (2026-08-25)  
   https://arxiv.org/abs/2608.24229v1
+
+- **Structural Homology Allows Alloyed II–V Magic-Sized Clusters with Continuously Tunable Emission**  
+  Journal of the American Chemical Society (2026-08-24)  
+  https://doi.org/https://doi.org/10.1021/jacs.6c12508
 
 - **Structural Homology
 Allows Alloyed II–V Magic-Sized
@@ -15,6 +23,10 @@ Chemical Society (2026-08-24)
 - **Large scale theoretical investigation of the phase diagram of twisted bilayer MoTe$_2$ at fractional fillings: agreements and contradictions with current experiments**  
   arXiv (2026-08-24)  
   https://arxiv.org/abs/2608.23675v1
+
+- **Towards Semantic Internet of Everything in the Age of Agentic AI**  
+  arXiv (2026-08-22)  
+  https://arxiv.org/abs/2609.02924v1
 
 - **Synthesis
 and Magnetism of Silver Chromium Selenide
@@ -89,6 +101,11 @@ Chemistry Letters (2026-08-05)
   International Journal of Modern Physics A (2026-08-05)  
   https://doi.org/https://doi.org/10.1142/s0217751x26300115
 
+- **Review of Particle Physics
+                    <sup>*</sup>**  
+  International Journal of Modern Physics A (2026-08-05)  
+  https://doi.org/10.1142/s0217751x26300115
+
 - **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
   Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
   https://doi.org/https://doi.org/10.5281/zenodo.21724155
@@ -147,10 +164,6 @@ through Sonochemistry**
 - **Excitons in van der Waals magnetic materials**  
   Nature Materials (2026-07-03)  
   https://doi.org/10.1038/s41563-026-02636-0
-
-- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
-  ChemRxiv (2026-07-02)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv.15005606/v1
 
 - **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
   Crossref (2026-07-02)  
@@ -232,6 +245,10 @@ through Sonochemistry**
   Crossref (2026-06-23)  
   https://doi.org/10.21203/rs.3.rs-9862551/v1
 
+- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
+  Physical Review Letters (2026-06-23)  
+  https://doi.org/10.1103/c6wf-z99k
+
 - **upsFISH: An Occupancy-Reporting Fluorescence In Situ Hybridization Method for Single-Cell Detection of Chromatin Interactions**  
   Analytical Chemistry (2026-06-20)  
   https://doi.org/https://doi.org/10.1021/acs.analchem.6c02127
@@ -289,19 +306,3 @@ through Sonochemistry**
                     Spin Defects in Cerium Oxide Nanocrystals**  
   ACS Applied Nano Materials (2026-06-09)  
   https://doi.org/10.1021/acsanm.6c01017
-
-- **Structural characterization of neutron irradiated hexagonal boron-10 nitride-15 single crystals**  
-  Applied Physics Letters (2026-06-08)  
-  https://doi.org/https://doi.org/10.1063/5.0325443
-
-- **Structural characterization of neutron irradiated hexagonal boron-10 nitride-15 single crystals**  
-  Applied Physics Letters (2026-06-08)  
-  https://doi.org/10.1063/5.0325443
-
-- **Revealing quantum geometry effects in magic angle twisted bilayer graphene using the circular photogalvanic effect**  
-  arXiv (2026-06-04)  
-  https://arxiv.org/abs/2606.06389v1
-
-- **Quaternion Dirac--Coulomb--Breit Integral Transformation for Relativistic Four-Component Correlated Electronic Structure Theory**  
-  arXiv (2026-06-03)  
-  https://arxiv.org/abs/2606.04316v1
