@@ -1,5 +1,45 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-09-07*
+*generated 2026-09-21*
+
+- **EPR spectroscopy 80 years after its discovery**  
+  Science Advances (2026-09-18)  
+  https://doi.org/10.1126/sciadv.aeg0169
+
+- **EPR spectroscopy 80 years after its discovery**  
+  Science Advances (2026-09-16)  
+  https://doi.org/https://doi.org/10.1126/sciadv.aeg0169
+
+- **From definitive benchmarks to new frontiers in quantum chemistry with Chronus Quantum (OAC-2103717)**  
+  Figshare (2026-09-11)  
+  https://doi.org/https://doi.org/10.6084/m9.figshare.33633112
+
+- **From definitive benchmarks to new frontiers in quantum chemistry with Chronus Quantum (OAC-2103717)**  
+  Figshare (2026-09-11)  
+  https://doi.org/https://doi.org/10.6084/m9.figshare.33633112.v1
+
+- **LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection**  
+  arXiv (2026-09-11)  
+  https://arxiv.org/abs/2609.12798v1
+
+- **LG-PF: Lightweight Confidence-Guided Polarization Image Fusion**  
+  arXiv (2026-09-11)  
+  https://arxiv.org/abs/2609.12787v1
+
+- **From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**  
+  arXiv (2026-09-09)  
+  https://arxiv.org/abs/2609.10714v1
+
+- **Multi-Stream Spatiotemporal Channel Coding for MIMO Systems: Transmission Scheme Design and Achievable Rate Optimization**  
+  arXiv (2026-09-09)  
+  https://arxiv.org/abs/2609.09777v1
+
+- **Rethinking noise in quantum machine learning: When noise improves learning**  
+  APL Computational Physics (2026-09-01)  
+  https://doi.org/https://doi.org/10.1063/5.0331090
+
+- **Rethinking noise in quantum machine learning: When noise improves learning**  
+  APL Computational Physics (2026-09-01)  
+  https://doi.org/10.1063/5.0331090
 
 - **Type I Solar Radio Bursts Modulated by Solar Flares**  
   arXiv (2026-08-30)  
@@ -139,6 +179,10 @@ Platform for QLED Fabrication and Characterization**
   Annual Review of Nuclear and Particle Science (2026-07-20)  
   https://doi.org/https://doi.org/10.1146/annurev-nucl-102422-040841
 
+- **SemDPLA: Semantic Communication-based Distributed Physical-Layer Authentication for 6G-enabled Dense IoT**  
+  arXiv (2026-07-17)  
+  https://arxiv.org/abs/2609.18986v1
+
 - **One-Pot, One-Step
 Mn-bis(imino)pyridine Complexes
 through Sonochemistry**  
@@ -248,61 +292,3 @@ through Sonochemistry**
 - **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
   Physical Review Letters (2026-06-23)  
   https://doi.org/10.1103/c6wf-z99k
-
-- **upsFISH: An Occupancy-Reporting Fluorescence In Situ Hybridization Method for Single-Cell Detection of Chromatin Interactions**  
-  Analytical Chemistry (2026-06-20)  
-  https://doi.org/https://doi.org/10.1021/acs.analchem.6c02127
-
-- **Electrically Programmable Correlated Topology and Magnetism in a Moiré Trilayer**  
-  arXiv (2026-06-19)  
-  https://arxiv.org/abs/2606.21004v1
-
-- **Time-Dependent Relativistic Two-Component Equation-of-Motion Coupled Cluster for Open-Shell Systems: TD-EA/IP-EOMCC**  
-  The Journal of Physical Chemistry A (2026-06-18)  
-  https://doi.org/https://doi.org/10.1021/acs.jpca.6c00692
-
-- **Time-Dependent Relativistic Two-Component Equation-of-Motion Coupled Cluster for Open-Shell Systems: TD-EA/IP-EOMCC**  
-  The Journal of Physical Chemistry A (2026-06-18)  
-  https://doi.org/10.1021/acs.jpca.6c00692
-
-- **A three-dimensional partial discharge localization method using alternating search particle swarm optimization and adaptive voice activity detection**  
-  Measurement Science and Technology (2026-06-17)  
-  https://doi.org/https://doi.org/10.1088/1361-6501/ae7741
-
-- **SA-RA-JSCC: SNR-Adaptive and Semantic-Rate-Aware Joint Source-Channel Coding**  
-  arXiv (2026-06-16)  
-  https://arxiv.org/abs/2606.17940v1
-
-- **Switching Chern number by sliding and gating in alternately twisted tetralayer MoTe2**  
-  arXiv (2026-06-14)  
-  https://arxiv.org/abs/2606.15548v1
-
-- **Controlling metal-carbonate phase, form, and function through de novo protein design**  
-  bioRxiv (Cold Spring Harbor Laboratory) (2026-06-11)  
-  https://doi.org/https://doi.org/10.64898/2026.06.10.730916
-
-- **Controlling metal-carbonate phase, form, and function through de novo protein design**  
-  Crossref (2026-06-11)  
-  https://doi.org/10.64898/2026.06.10.730916
-
-- **Imaging of a van der Waals spin-orbit torque system using spin ensembles in hBN**  
-  Nature Communications (2026-06-10)  
-  https://doi.org/https://doi.org/10.1038/s41467-026-74178-7
-
-- **Imaging of a van der Waals spin-orbit torque system using spin ensembles in hBN**  
-  Nature Communications (2026-06-10)  
-  https://doi.org/10.1038/s41467-026-74178-7
-
-- **STCC: A Unified Source-Channel Semantic Token Coding Framework for Semantic Communications**  
-  arXiv (2026-06-10)  
-  https://arxiv.org/abs/2606.11819v1
-
-- **Optically Active Yb 3+ Spin Defects in Cerium Oxide Nanocrystals**  
-  ACS Applied Nano Materials (2026-06-09)  
-  https://doi.org/https://doi.org/10.1021/acsanm.6c01017
-
-- **Optically Active Yb
-                    <sup>3+</sup>
-                    Spin Defects in Cerium Oxide Nanocrystals**  
-  ACS Applied Nano Materials (2026-06-09)  
-  https://doi.org/10.1021/acsanm.6c01017
