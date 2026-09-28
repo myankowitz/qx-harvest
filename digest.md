@@ -1,5 +1,40 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-09-21*
+*generated 2026-09-28*
+
+- **Best Practices in Nanocrystal Synthesis and Characterization**  
+  Accounts of Chemical Research (2026-09-27)  
+  https://doi.org/https://doi.org/10.1021/acs.accounts.6c00456
+
+- **Best Practices
+in Nanocrystal Synthesis and Characterization**  
+  Accounts of Chemical Research (2026-09-27)  
+  https://doi.org/10.1021/acs.accounts.6c00456
+
+- **Antiferroelectric hafnia down to the 2D limit**  
+  Science (2026-09-24)  
+  https://doi.org/10.1126/science.ady5526
+
+- **CAFM: A Cross-Modal Local Alignment Fusion Method for RGB-3D Industrial Anomaly Detection**  
+  Research Square (2026-09-24)  
+  https://doi.org/https://doi.org/10.21203/rs.3.rs-10461475/v1
+
+- **Switching Chern
+Number by Sliding and Gating in Alternately
+Twisted Tetralayer MoTe2**  
+  Nano Letters (2026-09-24)  
+  https://doi.org/10.1021/acs.nanolett.6c03169
+
+- **Emergence of Spin–Vibronic Coherence in the Intermediate Spin–Orbit Coupling Regime Revealed by Mixed Quantum-Classical Dynamics**  
+  The Journal of Physical Chemistry Letters (2026-09-21)  
+  https://doi.org/https://doi.org/10.1021/acs.jpclett.6c01705
+
+- **Emergence of
+Spin–Vibronic Coherence in the
+Intermediate Spin–Orbit Coupling Regime Revealed by Mixed Quantum-Classical
+Dynamics**  
+  The Journal of Physical
+Chemistry Letters (2026-09-21)  
+  https://doi.org/10.1021/acs.jpclett.6c01705
 
 - **EPR spectroscopy 80 years after its discovery**  
   Science Advances (2026-09-18)  
@@ -19,11 +54,11 @@
 
 - **LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection**  
   arXiv (2026-09-11)  
-  https://arxiv.org/abs/2609.12798v1
+  https://arxiv.org/abs/2609.12798v2
 
 - **LG-PF: Lightweight Confidence-Guided Polarization Image Fusion**  
   arXiv (2026-09-11)  
-  https://arxiv.org/abs/2609.12787v1
+  https://arxiv.org/abs/2609.12787v2
 
 - **From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**  
   arXiv (2026-09-09)  
@@ -68,6 +103,14 @@ Chemical Society (2026-08-24)
   arXiv (2026-08-22)  
   https://arxiv.org/abs/2609.02924v1
 
+- **CSD 2552048: Experimental Crystal Structure Determination**  
+  The Cambridge Structural Database (2026-08-17)  
+  https://doi.org/https://doi.org/10.25505/fiz.icsd.cc2rnm46
+
+- **CSD 2552049: Experimental Crystal Structure Determination**  
+  The Cambridge Structural Database (2026-08-17)  
+  https://doi.org/https://doi.org/10.25505/fiz.icsd.cc2rnm57
+
 - **Synthesis
 and Magnetism of Silver Chromium Selenide
 Spinels**  
@@ -82,6 +125,10 @@ Chemical Society (2026-08-14)
 - **Relativistic Dirac-Coulomb-Breit Four-Component Multireference Perturbation Theory within the Small Tensor Product Distributed Active Space Framework**  
   arXiv (2026-08-12)  
   https://arxiv.org/abs/2608.11529v1
+
+- **An improved direct limit on the muon electric dipole moment**  
+  arXiv (Cornell University) (2026-08-11)  
+  https://doi.org/https://doi.org/10.48550/arxiv.2608.11124
 
 - **Adaptive Source-Channel Coding for Bi-static Integrated Sensing and Semantic Communications**  
   arXiv (2026-08-11)  
@@ -117,10 +164,6 @@ Chemical Society (2026-08-14)
 - **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
   Crossref (2026-08-06)  
   https://doi.org/10.26434/chemrxiv.15007098/v1
-
-- **Recent advances in lateral flow immunoassay for virus detection: current achievements, challenges and future prospects**  
-  Talanta (2026-08-06)  
-  https://doi.org/https://doi.org/10.1016/j.talanta.2026.130402
 
 - **Observation of metastable chiral domain walls in a topological magnet**  
   arXiv (2026-08-06)  
@@ -221,9 +264,17 @@ through Sonochemistry**
   arXiv (2026-07-02)  
   https://arxiv.org/abs/2607.01772v1
 
+- **From Photons to Electrons: Building Materials Science for the 21st Century**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.170
+
 - **Progress in Spatially Resolved Magnon Spectroscopy in the STEM**  
   Microscopy and Microanalysis (2026-07-01)  
   https://doi.org/https://doi.org/10.1093/mam/ozag053.773
+
+- **Advanced Operando Electron Microscopy for Disentangling Stability and Orbital Transport at Metallic Interfaces**  
+  Microscopy and Microanalysis (2026-07-01)  
+  https://doi.org/https://doi.org/10.1093/mam/ozag053.853
 
 - **Towards an Understanding of Phase-Shape Dichroism in Vibrational EELS**  
   Microscopy and Microanalysis (2026-07-01)  
@@ -264,31 +315,3 @@ through Sonochemistry**
 - **Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**  
   arXiv (2026-07-01)  
   https://arxiv.org/abs/2607.00316v1
-
-- **Effective Depth in Joint Source-Channel Coding: An Implicit Equilibrium Analysis**  
-  arXiv (2026-06-29)  
-  https://arxiv.org/abs/2606.29737v2
-
-- **Multiple closely spaced transitions and multi-band Hall response in clean ScV$_6$Sn$_6$**  
-  arXiv (2026-06-27)  
-  https://arxiv.org/abs/2606.29048v1
-
-- **Lightweight Multi-Vehicle Collaborative Perception Acceleration with Fusion Position Adjustment**  
-  arXiv (2026-06-26)  
-  https://arxiv.org/abs/2606.27750v1
-
-- **Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction**  
-  arXiv (2026-06-25)  
-  https://arxiv.org/abs/2606.26812v1
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  Research Square (2026-06-23)  
-  https://doi.org/https://doi.org/10.21203/rs.3.rs-9862551/v1
-
-- **Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe**  
-  Crossref (2026-06-23)  
-  https://doi.org/10.21203/rs.3.rs-9862551/v1
-
-- **Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering**  
-  Physical Review Letters (2026-06-23)  
-  https://doi.org/10.1103/c6wf-z99k
