@@ -1,5 +1,9 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-09-28*
+*generated 2026-10-05*
+
+- **Dual-Branch Vector-Quantization-Aided Satellite Digital Semantic Communication with Index Compression for High-Resolution RSI Over AFDM**  
+  arXiv (2026-09-28)  
+  https://arxiv.org/abs/2609.35906v1
 
 - **Best Practices in Nanocrystal Synthesis and Characterization**  
   Accounts of Chemical Research (2026-09-27)  
@@ -23,6 +27,10 @@ Number by Sliding and Gating in Alternately
 Twisted Tetralayer MoTe2**  
   Nano Letters (2026-09-24)  
   https://doi.org/10.1021/acs.nanolett.6c03169
+
+- **The Anomalous Magnetic Moment of the Muon: Status and Perspectives**  
+  Open Access CRIS of the University of Bern (2026-09-21)  
+  https://doi.org/https://doi.org/10.48620/101461
 
 - **Emergence of Spin–Vibronic Coherence in the Intermediate Spin–Orbit Coupling Regime Revealed by Mixed Quantum-Classical Dynamics**  
   The Journal of Physical Chemistry Letters (2026-09-21)  
@@ -75,6 +83,14 @@ Chemistry Letters (2026-09-21)
 - **Rethinking noise in quantum machine learning: When noise improves learning**  
   APL Computational Physics (2026-09-01)  
   https://doi.org/10.1063/5.0331090
+
+- **A cryogenic apparatus for coupling two-dimensional materials to a confocal multimode optical cavity**  
+  Review of Scientific Instruments (2026-09-01)  
+  https://doi.org/https://doi.org/10.1063/5.0345897
+
+- **A cryogenic apparatus for coupling two-dimensional materials to a confocal multimode optical cavity**  
+  Review of Scientific Instruments (2026-09-01)  
+  https://doi.org/10.1063/5.0345897
 
 - **Type I Solar Radio Bursts Modulated by Solar Flares**  
   arXiv (2026-08-30)  
@@ -243,75 +259,3 @@ through Sonochemistry**
 - **Dual Metal Functionalization of Black Phosphorus Towards Molecularly Defined Single Site Catalysts**  
   ECS Meeting Abstracts (2026-07-07)  
   https://doi.org/https://doi.org/10.1149/ma2026-0113992mtgabs
-
-- **Excitons in van der Waals magnetic materials**  
-  Nature Materials (2026-07-03)  
-  https://doi.org/https://doi.org/10.1038/s41563-026-02636-0
-
-- **Excitons in van der Waals magnetic materials**  
-  Nature Materials (2026-07-03)  
-  https://doi.org/10.1038/s41563-026-02636-0
-
-- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
-  Crossref (2026-07-02)  
-  https://doi.org/10.26434/chemrxiv.15005606/v1
-
-- **The influence of cyclic hydrogenated and oxygenated high temperature water on corrosion and stress corrosion cracking in Alloy 690**  
-  Materials Science and Technology (2026-07-02)  
-  https://doi.org/https://doi.org/10.1177/02670836261463836
-
-- **LLM-Empowered Multimodal Fusion Framework for Autonomous Driving: Semantic Enhancement and Channel-Adaptive Design**  
-  arXiv (2026-07-02)  
-  https://arxiv.org/abs/2607.01772v1
-
-- **From Photons to Electrons: Building Materials Science for the 21st Century**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.170
-
-- **Progress in Spatially Resolved Magnon Spectroscopy in the STEM**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.773
-
-- **Advanced Operando Electron Microscopy for Disentangling Stability and Orbital Transport at Metallic Interfaces**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.853
-
-- **Towards an Understanding of Phase-Shape Dichroism in Vibrational EELS**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.781
-
-- **Atomic Resolution Studies of Single-Atom Yb3+ Dopants in CrX3 2D Ferromagnets Using Scanning Transmission Electron Microscopy**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.895
-
-- **Moving Towards Measuring the Valley Hall Effect using EMCD in Monolayer WSe2**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.775
-
-- **Self-Supported Thin-Film Device Platform for In-Situ EMCD Measurements of Hall Effects**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.776
-
-- **Atomic Insights into Hidden Structural Order in Altermagnets and Chirality-Driven Topology**  
-  Microscopy and Microanalysis (2026-07-01)  
-  https://doi.org/https://doi.org/10.1093/mam/ozag053.858
-
-- **Spin–orbit-resolved strong-field ionization from real-time relativistic dynamics**  
-  The Journal of Chemical Physics (2026-07-01)  
-  https://doi.org/https://doi.org/10.1063/5.0320154
-
-- **Spin–orbit-resolved strong-field ionization from real-time relativistic dynamics**  
-  The Journal of Chemical Physics (2026-07-01)  
-  https://doi.org/10.1063/5.0320154
-
-- **Active Learning for Calibrating Entangling Gates via Surrogate-Based Optimization**  
-  arXiv (2026-07-01)  
-  https://arxiv.org/abs/2607.00284v1
-
-- **Semantic-based Internet of Embodied Intelligence: Visions and Frontiers**  
-  arXiv (2026-07-01)  
-  https://arxiv.org/abs/2607.00342v1
-
-- **Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**  
-  arXiv (2026-07-01)  
-  https://arxiv.org/abs/2607.00316v1
