@@ -1,5 +1,33 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-10-12*
+*generated 2026-10-26*
+
+- **Sulfotransferase-Mediated Metabolism of Hydroxylated Polychlorinated Biphenyls: Isoform Characterization and Interspecies Differences**  
+  Research Square (2026-10-22)  
+  https://doi.org/https://doi.org/10.21203/rs.3.rs-11251200/v1
+
+- **Data for EMSL Project 49771 from May 2019**  
+  DOE Pacific Northwest National Laboratory (PNNL) Repository (2026-10-19)  
+  https://doi.org/https://doi.org/10.25582/data.2019-05.1773138/17351910
+
+- **SemVideoSte: Agentic AI for Cross-Modal Semantic Video Steganography Communication**  
+  arXiv (2026-10-18)  
+  https://arxiv.org/abs/2610.25257v1
+
+- **PV-Decoding: Progressive Verification Decoding with Decode Gating for Diffusion Language Models**  
+  arXiv (2026-10-17)  
+  https://arxiv.org/abs/2610.24722v1
+
+- **Quaternion Dirac–Coulomb–Breit integral transformation for relativistic four-component correlated electronic structure theory**  
+  The Journal of Chemical Physics (2026-10-15)  
+  https://doi.org/10.1063/5.0344401
+
+- **Data for EMSL Project 49771 from December 2019**  
+  DOE Pacific Northwest National Laboratory (PNNL) Repository (2026-10-12)  
+  https://doi.org/https://doi.org/10.25582/data.2019-12.1904859/17238107
+
+- **Data for EMSL Project 49771 from December 2019**  
+  DOE Pacific Northwest National Laboratory (PNNL) Repository (2026-10-12)  
+  https://doi.org/https://doi.org/10.25582/data.2019-12.1905476/17238108
 
 - **Data for EMSL Project 51194 from February 2020**  
   DOE Pacific Northwest National Laboratory (PNNL) Repository (2026-10-11)  
@@ -455,16 +483,20 @@ Chemical Society (2026-08-24)
   The Cambridge Structural Database (2026-08-17)  
   https://doi.org/https://doi.org/10.25505/fiz.icsd.cc2rnm57
 
+- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
+  Journal of the American Chemical Society (2026-08-14)  
+  https://doi.org/https://doi.org/10.1021/jacs.6c09346
+
+- **CCDC 2580794: Experimental Crystal Structure Determination**  
+  The Cambridge Structural Database (2026-08-14)  
+  https://doi.org/https://doi.org/10.5517/ccdc.csd.cc2smjfd
+
 - **Synthesis
 and Magnetism of Silver Chromium Selenide
 Spinels**  
   Journal of the American
 Chemical Society (2026-08-14)  
   https://doi.org/10.1021/jacs.6c09346
-
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  Journal of the American Chemical Society (2026-08-14)  
-  https://doi.org/https://doi.org/10.1021/jacs.6c09346
 
 - **Relativistic Dirac-Coulomb-Breit Four-Component Multireference Perturbation Theory within the Small Tensor Product Distributed Active Space Framework**  
   arXiv (2026-08-12)  
@@ -549,25 +581,3 @@ Chemistry Letters (2026-08-05)
 Platform for QLED Fabrication and Characterization**  
   Chemistry of Materials (2026-07-29)  
   https://doi.org/10.1021/acs.chemmater.6c01124
-
-- **Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**  
-  arXiv (2026-07-26)  
-  https://arxiv.org/abs/2607.23615v1
-
-- **The Anomalous Magnetic Moment of the Muon: Status and Perspectives**  
-  Annual Review of Nuclear and Particle Science (2026-07-20)  
-  https://doi.org/https://doi.org/10.1146/annurev-nucl-102422-040841
-
-- **SemDPLA: Semantic Communication-based Distributed Physical-Layer Authentication for 6G-enabled Dense IoT**  
-  arXiv (2026-07-17)  
-  https://arxiv.org/abs/2609.18986v1
-
-- **One-Pot, One-Step
-Mn-bis(imino)pyridine Complexes
-through Sonochemistry**  
-  Inorganic Chemistry (2026-07-14)  
-  https://doi.org/10.1021/acs.inorgchem.6c01196
-
-- **EPR characterization of a metal-binding site in RquA**  
-  JBIC Journal of Biological Inorganic Chemistry (2026-07-14)  
-  https://doi.org/10.1007/s00775-026-02160-1
