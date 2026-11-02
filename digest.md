@@ -1,5 +1,39 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-10-26*
+*generated 2026-11-02*
+
+- **Evaluating Instrument-Centered AI Agents for Table-Top Science Experiments**  
+  arXiv (2026-10-30)  
+  https://arxiv.org/abs/2610.41717v1
+
+- **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
+  Nano Letters (2026-10-29)  
+  https://doi.org/https://doi.org/10.1021/acs.nanolett.6c03845
+
+- **High Refractive
+Index Silver Nanoparticle Metamaterials
+Approaching Fundamental Bounds**  
+  Nano Letters (2026-10-29)  
+  https://doi.org/10.1021/acs.nanolett.6c03845
+
+- **Intertwined ferromagnetic and altermagnetic orders in Cr-doped MnTe**  
+  arXiv (2026-10-29)  
+  https://arxiv.org/abs/2610.40870v1
+
+- **Electronic-Structure-Informed Many-Body Encoding for Quantum Machine Learning**  
+  arXiv (2026-10-29)  
+  https://arxiv.org/abs/2610.40840v1
+
+- **Efficient Multi-modal Video Fusion Network with Dynamic Region-Guided Temporal Interaction**  
+  arXiv (2026-10-26)  
+  https://arxiv.org/abs/2610.34765v1
+
+- **Solid-state laser refrigeration of nanoscale quantum sensors**  
+  Proceedings of the National Academy of Sciences (2026-10-26)  
+  https://doi.org/https://doi.org/10.1073/pnas.2534326123
+
+- **Solid-state laser refrigeration of nanoscale quantum sensors**  
+  Proceedings of the National Academy of Sciences (2026-10-26)  
+  https://doi.org/10.1073/pnas.2534326123
 
 - **Sulfotransferase-Mediated Metabolism of Hydroxylated Polychlorinated Biphenyls: Isoform Characterization and Interspecies Differences**  
   Research Square (2026-10-22)  
@@ -361,6 +395,10 @@
   arXiv (2026-10-06)  
   https://arxiv.org/abs/2610.08934v1
 
+- **Final report on the measurement of the positive muon anomalous magnetic moment at Fermilab to 127 ppb precision**  
+  Physical review. D/Physical review. D. (2026-10-02)  
+  https://doi.org/https://doi.org/10.1103/l9mn-bblh
+
 - **Dual-Branch Vector-Quantization-Aided Satellite Digital Semantic Communication with Index Compression for High-Resolution RSI Over AFDM**  
   arXiv (2026-09-28)  
   https://arxiv.org/abs/2609.35906v1
@@ -534,10 +572,6 @@ Chemical Society (2026-08-14)
   https://doi.org/10.1126/sciadv.aeg5930
 
 - **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
-  ChemRxiv (2026-08-06)  
-  https://doi.org/https://doi.org/10.26434/chemrxiv.15007098/v1
-
-- **High Refractive Index Silver Nanoparticle Metamaterials Approaching Fundamental Bounds**  
   Crossref (2026-08-06)  
   https://doi.org/10.26434/chemrxiv.15007098/v1
 
@@ -564,20 +598,3 @@ Chemistry Letters (2026-08-05)
                     <sup>*</sup>**  
   International Journal of Modern Physics A (2026-08-05)  
   https://doi.org/10.1142/s0217751x26300115
-
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  Zenodo (CERN European Organization for Nuclear Research) (2026-07-31)  
-  https://doi.org/https://doi.org/10.5281/zenodo.21724155
-
-- **Structural Homology Allows Alloyed II-V Magic-Sized Clusters with Continuously Tunable Emission**  
-  Zenodo (CERN European Organization for Nuclear Research) (2026-07-29)  
-  https://doi.org/https://doi.org/10.5281/zenodo.21686294
-
-- **A Standardized Platform for QLED Fabrication and Characterization**  
-  Chemistry of Materials (2026-07-29)  
-  https://doi.org/https://doi.org/10.1021/acs.chemmater.6c01124
-
-- **A Standardized
-Platform for QLED Fabrication and Characterization**  
-  Chemistry of Materials (2026-07-29)  
-  https://doi.org/10.1021/acs.chemmater.6c01124
