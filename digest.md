@@ -1,5 +1,33 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-11-09*
+*generated 2026-11-16*
+
+- **Antiferroelectric hafnia down to the 2D limit**  
+  Science (2026-11-12)  
+  https://doi.org/10.1126/science.ady5526
+
+- **Building and Controlling Quantum Technologies**  
+   (2026-11-12)  
+  https://doi.org/https://doi.org/10.52843/cassyni.xqnp6y
+
+- **Building and Controlling Quantum Technologies**  
+  Crossref (2026-11-12)  
+  https://doi.org/10.52843/cassyni.xqnp6y
+
+- **Giant elastoresistance in magic-angle twisted bilayer graphene**  
+  Science (2026-11-12)  
+  https://doi.org/https://doi.org/10.1126/science.adz0597
+
+- **Giant elastoresistance in magic-angle twisted bilayer graphene**  
+  Science (2026-11-12)  
+  https://doi.org/10.1126/science.adz0597
+
+- **Relativistic Dirac–Coulomb–Breit
+Four-Component
+Multireference Perturbation Theory within the Small Tensor Product
+Distributed Active Space Framework**  
+  Journal of Chemical Theory
+and Computation (2026-11-11)  
+  https://doi.org/10.1021/acs.jctc.6c01649
 
 - **Chronus Quantum 1.0: A unified framework for relativistic, time-dependent, and multicomponent electronic structure theory**  
   APL Computational Physics (2026-11-03)  
@@ -79,6 +107,10 @@ Approaching Fundamental Bounds**
   Physical review. D/Physical review. D. (2026-10-02)  
   https://doi.org/https://doi.org/10.1103/l9mn-bblh
 
+- **Synthesis and conversion of InAs x P 1− x alloy nanoclusters**  
+  Nanoscale (2026-10-01)  
+  https://doi.org/https://doi.org/10.1039/d6nr01273f
+
 - **Dual-Branch Vector-Quantization-Aided Satellite Digital Semantic Communication with Index Compression for High-Resolution RSI Over AFDM**  
   arXiv (2026-09-28)  
   https://arxiv.org/abs/2609.35906v1
@@ -91,10 +123,6 @@ Approaching Fundamental Bounds**
 in Nanocrystal Synthesis and Characterization**  
   Accounts of Chemical Research (2026-09-27)  
   https://doi.org/10.1021/acs.accounts.6c00456
-
-- **Antiferroelectric hafnia down to the 2D limit**  
-  Science (2026-09-24)  
-  https://doi.org/10.1126/science.ady5526
 
 - **CAFM: A Cross-Modal Local Alignment Fusion Method for RGB-3D Industrial Anomaly Detection**  
   Research Square (2026-09-24)  
@@ -150,6 +178,10 @@ Chemistry Letters (2026-09-21)
   arXiv (2026-09-09)  
   https://arxiv.org/abs/2609.09777v1
 
+- **Four-component relativistic density functional theory: grid requirements and small-component contributions**  
+  Physical Chemistry Chemical Physics (2026-09-02)  
+  https://doi.org/https://doi.org/10.1039/d6cp02182d
+
 - **Rethinking noise in quantum machine learning: When noise improves learning**  
   APL Computational Physics (2026-09-01)  
   https://doi.org/https://doi.org/10.1063/5.0331090
@@ -193,37 +225,6 @@ Chemical Society (2026-08-24)
   arXiv (2026-08-22)  
   https://arxiv.org/abs/2609.02924v1
 
-- **CSD 2552048: Experimental Crystal Structure Determination**  
-  The Cambridge Structural Database (2026-08-17)  
-  https://doi.org/https://doi.org/10.25505/fiz.icsd.cc2rnm46
-
-- **CSD 2552049: Experimental Crystal Structure Determination**  
-  The Cambridge Structural Database (2026-08-17)  
-  https://doi.org/https://doi.org/10.25505/fiz.icsd.cc2rnm57
-
-- **Synthesis and Magnetism of Silver Chromium Selenide Spinels**  
-  Journal of the American Chemical Society (2026-08-14)  
-  https://doi.org/https://doi.org/10.1021/jacs.6c09346
-
-- **CCDC 2580794: Experimental Crystal Structure Determination**  
-  The Cambridge Structural Database (2026-08-14)  
-  https://doi.org/https://doi.org/10.5517/ccdc.csd.cc2smjfd
-
-- **Synthesis
-and Magnetism of Silver Chromium Selenide
-Spinels**  
-  Journal of the American
-Chemical Society (2026-08-14)  
-  https://doi.org/10.1021/jacs.6c09346
-
-- **Relativistic Dirac-Coulomb-Breit Four-Component Multireference Perturbation Theory within the Small Tensor Product Distributed Active Space Framework**  
-  arXiv (2026-08-12)  
-  https://arxiv.org/abs/2608.11529v1
-
-- **An improved direct limit on the muon electric dipole moment**  
-  arXiv (Cornell University) (2026-08-11)  
-  https://doi.org/https://doi.org/10.48550/arxiv.2608.11124
-
-- **Adaptive Source-Channel Coding for Bi-static Integrated Sensing and Semantic Communications**  
-  arXiv (2026-08-11)  
-  https://arxiv.org/abs/2608.10898v1
+- **Ab initio two-spinor Ehrenfest dynamics with magnetic field**  
+  Physical Chemistry Chemical Physics (2026-08-19)  
+  https://doi.org/https://doi.org/10.1039/d6cp02263d
