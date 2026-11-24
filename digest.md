@@ -1,5 +1,21 @@
 # Quantum X – new papers (last 90 days)
-*generated 2026-11-16*
+*generated 2026-11-24*
+
+- **Controlling excited state intersystem crossing in pyrazolate-bridged Pt(II) dimers by excitation photon energies**  
+  The Journal of Chemical Physics (2026-11-23)  
+  https://doi.org/10.1063/5.0351530
+
+- **Improved direct limit on the muon electric dipole moment**  
+  Physical Review Letters (2026-11-18)  
+  https://doi.org/https://doi.org/10.1103/xpyj-v7xl
+
+- **Semantic Guidance for Joint Infrared-Visible Video Fusion and Frame Interpolation**  
+  arXiv (2026-11-18)  
+  https://arxiv.org/abs/2611.24277v1
+
+- **Drift-Aware Adaptive Semantic Codec Update Strategy for Dynamic Semantic Communications**  
+  arXiv (2026-11-18)  
+  https://arxiv.org/abs/2611.23722v1
 
 - **Antiferroelectric hafnia down to the 2D limit**  
   Science (2026-11-12)  
@@ -201,30 +217,3 @@ Chemistry Letters (2026-09-21)
 - **Type I Solar Radio Bursts Modulated by Solar Flares**  
   arXiv (2026-08-30)  
   https://arxiv.org/abs/2608.29744v1
-
-- **A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning**  
-  arXiv (2026-08-25)  
-  https://arxiv.org/abs/2608.24229v1
-
-- **Structural Homology Allows Alloyed II–V Magic-Sized Clusters with Continuously Tunable Emission**  
-  Journal of the American Chemical Society (2026-08-24)  
-  https://doi.org/https://doi.org/10.1021/jacs.6c12508
-
-- **Structural Homology
-Allows Alloyed II–V Magic-Sized
-Clusters with Continuously Tunable Emission**  
-  Journal of the American
-Chemical Society (2026-08-24)  
-  https://doi.org/10.1021/jacs.6c12508
-
-- **Large scale theoretical investigation of the phase diagram of twisted bilayer MoTe$_2$ at fractional fillings: agreements and contradictions with current experiments**  
-  arXiv (2026-08-24)  
-  https://arxiv.org/abs/2608.23675v1
-
-- **Towards Semantic Internet of Everything in the Age of Agentic AI**  
-  arXiv (2026-08-22)  
-  https://arxiv.org/abs/2609.02924v1
-
-- **Ab initio two-spinor Ehrenfest dynamics with magnetic field**  
-  Physical Chemistry Chemical Physics (2026-08-19)  
-  https://doi.org/https://doi.org/10.1039/d6cp02263d
